@@ -1,1226 +1,1201 @@
-Winery,Year,Wine ID,Wine,Rating,num_review
-Barón,N.V.,1979160,Atalaya Manzanilla N.V.,3.1,78
-Feudo Arancio,2019,1144138,Nero d'Avola Sicilia 2019,3.7,815
-Feudo Arancio,2019,8312,Grillo Sicilia 2019,3.6,819
-Pasos de la Capula,2019,1247622,Tempranillo 2019,3.1,37
-Château Coustaut la Grangeotte,2018,1237094,Bordeaux Rouge 2018,3.8,297
-Cielo e Terra,2021,1149079,Pinot Grigio Blush 2021,3.9,97
-Cielo e Terra,2021,1220803,Pinot Grigio 2021,3.7,40
-Yvecourt,2019,1454982,Bordeaux 2019,3.5,166
-Cielo e Terra,2020,1220803,Pinot Grigio 2020,3.6,165
-Oude Kaap,2021,1144482,Chenin Blanc 2021,3.4,76
-Laurent Truffer,N.V.,7521044,Sparkling Muscat Blanc Sans Alcohol N.V.,4.0,56
-Zenato,2016,1862920,Pinot Grigio 2016,3.7,915
-Oude Kaap,2020,1144481,Reserve Collection Chardonnay 2020,3.6,33
-Vigneti del Salento,2020,1694750,Puglia I Muri Bianco 2020,3.6,117
-Antares,2020,1133235,Carmenère 2020,3.6,120
-Rovisco Pais,2021,4068883,Península de Setúbal Branco 2021,3.9,31
-Cave des Vignerons de Saint-Saturnin,2020,5012136,Pont Neuf Prestige Collection Blanc 2020,3.4,35
-Toso,N.V.,1161347,Moscato Dolce Spumante N.V.,3.7,935
-Les 5 Vallées,2021,5009361,Rosé 2021,3.7,37
-Tarani,2020,1198055,Malbec 2020,3.6,144
-Tarani,2021,1161331,Gamay Rosé 2021,3.6,74
-Tarani,2020,1166463,Cabernet Sauvignon 2020,3.3,249
-Tarani,2021,1162801,Sauvignon 2021,3.7,48
-Călușari,2020,1298257,Pinot Noir 2020,3.6,52
-Pierre Zero,N.V.,7432367,Chardonnay Alcohol Free N.V.,3.4,565
-Les 5 Vallées,2020,3462978,Sauvignon Blanc 2020,3.2,46
-Terrai,2020,2321919,OVG Old Vine Garnacha 2020,3.7,111
-Vigneti del Salento,2021,1694750,Puglia I Muri Bianco 2021,3.7,27
-Luccarelli,2020,3384194,Rosso Puglia 2020,3.9,575
-Sun Gate,2020,4481148,Red Zinfandel 2020,3.5,199
-Baglio Gibellina,2019,4915032,Sogno del Sud Merlot 2019,3.5,43
-Tikveš,2018,6799216,Cuvée Methodius 2018,3.5,62
-Neleman,2020,2743977,Organic Tempranillo - Monastrell 2020,3.6,681
-Terre del Noce,2021,1177747,Pinot Grigio Dolomiti 2021,3.9,254
-Babylon's Peak,2020,6675469,Busy Bee Red Blend 2020,3.7,102
-Vigneti del Salento,2018,7970533,I Muri Rosso 2018,3.8,89
-La Mura,2018,5959572,Pinot Grigio 2018,3.5,136
-Marcel Martin,2020,1414636,Cuvée Mademoiselle Merlot 2020,3.4,96
-Villa San Martino,2020,7996052,Le Rive Pinot Grigio 2020,3.3,25
-La Gioiosa,N.V.,5532647,Il Giallo Frizzante Bianco N.V.,3.2,453
-Esteio,N.V.,1261595,Vinho Rosé N.V.,3.7,215
-Cuatro Rayas,2021,1247917,Bitácora Verdejo 2021,3.6,88
-Pacheco,2018,2374316,Estancia del Silencio Monastrell Organic 2018,3.4,122
-Toso,N.V.,5358504,Sprintoso Moscato Spumante N.V.,3.8,1087
-Casa Ermelinda Freitas,2020,6304212,Vinha da Fonte Touriga Nacional 2020,4.0,358
-Bodegas Latúe,2019,1377834,Clearly Organic Tempranillo 2019,3.2,109
-Bodegas Latúe,2019,3867449,Clearly Organic Airén - Sauvignon Blanc 2019,3.6,58
-Viña Marty,2019,8961806,Chaka Carmenere 2019,3.7,62
-Cape Dream,2020,1234879,Pinotage 2020,3.6,36
-Drostdy-Hof,2017,76866,Chenin Blanc (Steen) 2017,3.0,61
-Adega Cooperativa de Borba,2019,80242,Alentejano Convento Da Vila 2019,3.6,1456
-Tsantali,N.V.,1166512,Retsina N.V.,2.6,1279
-Cuatro Rayas,2019,2482538,Pecatis Tuis Verdejo 2019,3.5,50
-Cuatro Rayas,2018,2897549,Pecatis Tuis Roble Tempranillo 2018,3.3,35
-Félix Solís,2020,1323253,Viña San Juan Tinto 2020,3.7,121
-Pierre Jean,2020,1146985,Colombard - Chardonnay 2020,3.4,32
-Kleindal,2019,1682567,Chenin Blanc 2019,3.6,43
-Kiwi Cuvée,2020,1396731,Bin 086 Sauvignon Blanc 2020,3.6,109
-Kiwi Cuvée,2020,2291445,Bin 068 Chardonnay 2020,3.8,28
-Les Vignerons de Buzet,2016,1221510,Roches d'Hillac 2016,3.3,43
-Oliveda,2021,1852945,Clos Primat Blanco 2021,3.5,40
-False Bay,2020,5660787,Old School Syrah 2020,3.6,137
-False Bay,2021,5799675,Slow Chenin Blanc 2021,3.6,55
-Allegranza,2019,7421117,Single Vineyard Tempranillo 2019,3.8,28
-Vigneti del Salento,2021,1694813,Primitivo I Muri 2021,4.0,87
-Conte di Campiano,2019,1174468,Sangiovese del Conte 2019,3.8,147
-Cielo e Terra,2020,2384703,Primitivo Puglia Primasole 2020,3.8,809
-Paul Mas,2020,1208816,Cabernet Sauvignon 2020,3.4,26
-Paul Mas,2020,24050,Rosé de Syrah 2020,3.7,158
-Vigneti del Salento,2020,1694823,Negroamaro I Muri 2020,3.8,175
-Viñedos y Bodegas Muñoz,2020,1224694,Legado Muñoz  Tempranillo 2020,3.6,135
-Kiwi Cuvée,2020,1579129,Bin 518 Pinot Noir 2020,3.7,92
-Quintela,2019,1295585,Tinto 2019,3.6,338
-Tsantali,N.V.,1188695,Imiglykos White N.V.,3.4,137
-Pirovano,2020,1144238,Montepulciano d'Abruzzo 2020,3.3,110
-False Bay,2020,5803451,Whole Bunch Cinsault - Mourvèdre Rosé 2020,3.5,132
-De Bortoli,2019,1826709,DB Family Selection Shiraz - Cabernet 2019,3.4,637
-Jaume Serra,N.V.,1151570,Cava Brut N.V.,3.5,12564
-Barramundi,2019,7352547,Cabernet sauvignon 2019,3.5,39
-Borgo Molino,2021,6312782,Ciari Pinot Grigio 2021,3.9,70
-Altos del Condor,2021,2168066,Chardonnay 2021,3.5,44
-Casa Santos Lima,2019,6597115,Bons Ventos Rouge 2019,3.8,331
-Altos del Condor,2020,9522744,Cabernet Sauvignon - Malbec 2020,3.4,383
-Eisberg,N.V.,5311174,Sauvignon Blanc ALcohol Free N.V.,2.6,163
-Sedosa,2019,2303534,Tempranillo - Syrah 2019,3.5,44
-Quinta dos Currais,2020,1525716,Síria 2020,3.8,37
-Altos del Condor,2021,1950537,Malbec 2021,3.3,264
-False Bay,2019,6941497,Bush Vine Pinotage 2019,3.7,138
-False Bay,2020,5812856,Crystalline Chardonnay 2020,3.6,111
-Light Live,N.V.,1267178,Sparkling Rosé N.V.,2.9,87
-Claude Val,2020,1207933,Rouge 2020,3.7,807
-Claude Val,2021,2655208,Rosé 2021,3.9,120
-Deakin Estate,2018,1949,Cabernet Sauvignon 2018,3.4,100
-Piccini,2021,1598405,Chianti 2021,3.6,280
-Cristo de la Vega,2020,8530727,Torre de Vejezate Verdejo 2020,3.5,41
-Cristo de la Vega,2020,2769622,Torre de Vejezate Tempranillo 2020,3.2,55
-Finca Flichman,2016,1130422,Aberdeen Angus Chardonnay 2016,2.8,72
-Luc Pirlet,2020,2357363,Classique Syrah Rosé 2020,3.5,166
-Domaine Guillaman,2020,8141041,Colombard - Sauvignon 2020,3.9,215
-Spier,2021,75141,Discover Rosé 2021,3.8,54
-Bodega del Segura,2019,9892068,Amalinda Monastrell 2019,3.5,37
-Land Lust,2020,4621088,Rivaner - Weisser Burgunder Trocken 2020,3.5,96
-Paul Mas,2020,1656481,Merlot 2020,3.8,64
-Domaine Guillaman,2021,8141041,Colombard - Sauvignon 2021,3.7,27
-Luc Pirlet,2020,2066850,Classique Merlot 2020,3.1,26
-Quinta dos Currais,2018,1538949,Tinto 2018,3.9,169
-Paul Mas,2020,24043,Sauvignon Blanc 2020,3.7,250
-Bodegas Care,2020,6213594,Trio Red Blend 2020,3.7,161
-The Iconic Estate,2019,1595391,La Umbra Pinot Noir 2019,3.2,48
-The Iconic Estate,2020,1240670,La Umbra Merlot 2020,3.5,39
-Today's Special,2020,2220763,Appassimento 2020,3.9,34
-Patrizi,2019,3159906,Passo del Bricco 2019,3.9,53
-Gayda,2017,1123298,T'Air D'Oc Syrah 2017,3.2,100
-Fonvène,2020,2270082,Rouge 2020,3.6,26
-Estandon,2021,1573929,Gris des Seigneurs Rosé 2021,3.9,71
-Gravuras do Côa,2021,4872512,Branco 2021,3.8,25
-Monte Blanco,2017,3393772,Sauvignon Blanc 2017,3.0,86
-Weinhaus Gebruder Steffen,2019,8641989,Mrs. White Blanc de Noir 2019,3.3,51
-Fox Grove,2020,1170977,Shiraz - Cabernet Sauvignon 2020,3.8,1069
-Château Saint-Florin,2015,1976801,Bordeaux Rouge 2015,3.4,114
-Rimbaldi,2019,1178170,Montepulciano d'Abruzzo 2019,3.6,63
-Vinorganic,2020,5624888,Merlot 2020,3.7,93
-Plaimont,2020,1471108,Jean des Vignes Côtes de Gascogne Rouge 2020,3.6,76
-Viña Marty,2020,1577090,Love White 2020,3.5,121
-Casa Silva,2020,1786993,Cabernet Sauvignon Rosé 2020,3.5,35
-Maison de La Villette,2019,4986601,Merlot 2019,3.4,56
-Gayda,2019,1561701,Flying Solo Grenache - Syrah 2019,3.5,297
-Terre del Noce,2020,1649049,Merlot Dolomiti 2020,4.0,96
-Toso,N.V.,1158709,Asti N.V.,3.5,222
-Denis Marchais,2020,1436730,Chardonnay 2020,3.4,28
-Château du Vieux Parc,2018,1666755,Les Amandiers 2018,3.6,35
-Isidro Milagro,2018,3413319,Sal de Fiesta La Mona 2018,3.8,459
-Danubiana,2020,7649985,Is This It ? Pinot Blanc 2020,3.7,104
-Finca La Escondida,2019,4832820,Malbec Rosé 2019,3.6,53
-Luc Pirlet,2020,2065405,Classique Sauvignon 2020,3.6,56
-Stemmari,2020,1262350,Grillo 2020,3.7,117
-Casa Ermelinda Freitas,2021,5792360,Vinha do Torrão Branco 2021,3.9,135
-Viña Oria,2018,5296272,Tempranillo - Garnacha Rosé 2018,3.4,32
-Spier,2020,75137,Discover Chenin Blanc - Chardonnay 2020,3.6,58
-Paul Mas,2020,24053,Syrah 2020,3.7,121
-Gayda,2020,1608398,Flying Solo Grenache Blanc - Viognier 2020,3.3,34
-Maison de La Villette,2020,3952478,Cabernet Sauvignon 2020,3.7,28
-Weinhaus Gebruder Steffen,2018,8584719,Mr. Red Cuvée Noir 2018,3.2,28
-Plaimont,2021,8846940,Colombelle Colombard - Sauvignon 2021,3.9,61
-Maison de La Villette,2019,3545582,GSM 2019,3.9,98
-Spier,2021,75137,Discover Chenin Blanc - Chardonnay 2021,3.8,47
-Poderi dal Nespoli,2020,1205653,Nespolino Rubicone Sangiovese - Merlot 2020,3.7,49
-Tenute Quattro Conti,2019,6886993,Tre Forte Rosso 2019,3.8,185
-Torre Oria,2019,8611631,Casablanca Viñas Viejas Monastrell 2019,4.0,1141
-Borsao Bodegas,2020,5889525,Clásico Garnacha 2020,3.5,241
-Torre Oria,2019,8611631,Casablanca Viñas Viejas Monastrell 2019,4.0,1141
-Tenute Quattro Conti,2019,6886993,Tre Forte Rosso 2019,3.8,185
-Casa Ermelinda Freitas,2021,8010741,Túlipa Rosé 2021,3.7,96
-Viña Oria,2018,1627117,Macabeo 2018,3.3,28
-Fox Grove,2021,1188909,Chardonnay - Sémillon 2021,3.8,187
-Domaine de Laguille,2017,2187295,Ugni Blanc - Colombard 2017,3.7,34
-Barrique d'Or,2020,3500822,Chardonnay 2020,3.8,27
-Viña Marty,2019,2237204,Love Red 2019,3.4,188
-Joya,2019,4753969,Tinto 2019,3.7,124
-Marcel Martin,2020,2043000,Cuvée Mademoiselle Sauvignon Blanc 2020,3.4,38
-Vistamar,2020,1173842,Brisa Merlot 2020,3.2,39
-Cuatro Rayas,2021,1588014,Dama del Lago Verdejo 2021,3.2,112
-Drostdy-Hof,2018,76861,Cabernet Sauvignon 2018,3.4,79
-Vinorganic,2020,5742235,Chardonnay 2020,3.7,172
-Vistamar,2020,1307233,Brisa Chardonnay 2020,3.5,356
-Hans Baer,2021,6302251,Gewürztraminer Feinherb 2021,4.1,56
-Zenato,2019,1134059,Bianco di Custoza 2019,3.7,148
-Sinzero,2020,6531124,Cabernet Sauvignon Alcohol Free 2020,2.3,35
-Feudo Arancio,2021,1457986,Rosato 2021,3.7,84
-Bellingham,2021,1696237,Berry Bush Rosé 2021,3.6,42
-Zenato,2021,1134059,Bianco di Custoza 2021,3.3,56
-Hacienda López de Haro,2018,1224522,Crianza 2018,3.7,2406
-Philibert du Charme,2018,2638333,Reserve Spéciale Cabernet - Merlot 2018,3.8,114
-Félix Solís,N.V.,7657778,Kingpin N.V.,4.0,3811
-Maison de La Villette,2018,3545582,GSM 2018,3.7,170
-Tavernello,2019,6626374,Organico Sangiovese 2019,3.6,203
-Grizzly Bear,2020,2214830,Zinfandel Rosé 2020,4.4,45
-Trapiche,2019,1153745,Astica Sauvignon Blanc - Semillon 2019,3.3,88
-Feudo Arancio,2020,1144138,Nero d'Avola Sicilia 2020,3.8,798
-Win,N.V.,6543866,Verdejo De-alcoholised N.V.,2.6,51
-Feudo Arancio,2021,8312,Grillo Sicilia 2021,3.8,109
-Hacienda López de Haro,2018,1224522,Crianza 2018,3.7,2406
-Sun Gate,2019,1707162,Chardonnay 2019,3.4,183
-Candidato,2019,1597140,Viura 2019,3.0,46
-Viña Oria,2020,1676979,Tempranillo 2020,3.4,62
-Zenato,2018,1134059,Bianco di Custoza 2018,3.5,173
-Bon Courage,2021,1189782,The Gooseberry Bush Sauvignon Blanc 2021,3.8,168
-Finca Flichman,2016,1130409,Aberdeen Angus Cabernet Sauvignon 2016,3.0,295
-Finca La Escondida,2018,1730783,Shiraz 2018,4.0,84
-Marcel Martin,2020,1379572,Cuvée Mademoiselle Chardonnay 2020,3.5,73
-Cantina di Negrar,2019,3780691,Corvina Verona 2019,3.7,77
-Sun Gate,2020,4781814,White Zinfandel 2020,4.1,72
-Avgvstvs,2018,2528968,Rosat 2018,3.7,55
-Barramundi,2020,3691959,Chardonnay 2020,3.3,33
-Cave des Rois,N.V.,1598359,Prosecco N.V.,3.7,239
-Sun Gate,2020,1707162,Chardonnay 2020,3.5,70
-Vigneti del Vulture,2021,1221185,Greco - Fiano Basilicata Pipoli 2021,4.0,95
-Lavau,2019,9304348,Koudiat Côtes-du-Rhône 2019,3.5,102
-Vigneti del Salento,2020,1694813,Primitivo I Muri 2020,3.7,398
-Paul Mas,2020,1522759,Chardonnay 2020,3.5,75
-Rimbaldi,2020,1178170,Montepulciano d'Abruzzo 2020,3.6,42
-Casa Silva,2021,1228056,Cabernet Sauvignon - Carmenère 2021,3.9,153
-Spier,2021,1166220,Discover Pinotage - Shiraz 2021,3.5,65
-Kiwi Cuvée,2021,5022804,Bin 88 Sauvignon Blanc 2021,3.8,25
-Gayda,2020,1561701,Flying Solo Grenache - Syrah 2020,3.7,32
-Domaine du Tariquet,2020,1255174,Côtes De Gascogne Classic 2020,3.6,1526
-Grizzly Bear,2019,1428392,Zinfandel 2019,3.6,68
-Deakin Estate,2018,1951,Shiraz 2018,3.5,468
-Las Condes,2019,2120791,Chardonnay 2019,3.4,58
-Alvi's Drift,2019,2035817,Cabernet Sauvignon 2019,3.4,32
-Alvi's Drift,2020,3274971,Merlot 2020,3.5,83
-JP Azeitão,2020,5282434,Tinto 2020,3.6,2011
-Vila Real,2020,4719690,Branco 2020,3.5,25
-Las Condes,2019,1151413,Merlot 2019,3.0,42
-Las Condes,2019,1151414,Sauvignon Blanc 2019,3.6,166
-Alvi's Drift,2019,1785912,Pinotage 2019,3.6,182
-Barramundi,2019,4297740,Chardonnay - Viognier 2019,3.4,77
-Félix Solís,2020,3349567,Casa Albali Tempranillo - Shiraz 2020,3.6,74
-Quinta da Raza,2021,2594102,Blanco 2021,4.0,69
-Barramundi,2019,4026076,Shiraz - Petit Verdot 2019,3.5,71
-JP Azeitão,2020,1260566,Branco 2020,3.6,52
-Dominio de Eguren,2020,1207654,Protocolo Tinto 2020,3.6,101
-Il Pumo,2020,2215571,Sauvignon - Malvasia 2020,3.7,674
-Félix Solís,2018,1459483,Viña San Juan Blanco (Chardonnay - Verdejo - Viura) 2018,3.6,342
-Danubiana,2020,8555323,Is This It? Grüner Veltliner 2020,3.7,538
-JP Azeitão,2021,1214830,Rosé 2021,3.7,106
-Epicuro,2019,1132802,Montepulciano d'Abruzzo 2019,3.7,115
-Alvi's Drift,2019,1376034,Shiraz 2019,3.5,121
-Vila Real,2017,1695575,Tinto 2017,3.5,228
-Spier,2020,1166220,Discover Pinotage - Shiraz 2020,3.8,333
-Crane Lake,2017,87412,Cabernet Sauvignon 2017,3.3,174
-Claude Val,2020,2405659,Blanc 2020,3.9,549
-Alvi's Drift,2021,1696412,Chenin Blanc 2021,3.7,86
-False Bay,2019,5660787,Old School Syrah 2019,3.5,272
-Il Pumo,2019,4259533,Chardonnay 2019,3.7,73
-Il Pumo,2019,2215571,Sauvignon - Malvasia 2019,3.7,913
-Il Pumo,2020,1973766,Negroamaro 2020,3.8,1058
-Château Auzias,2017,6837452,Montagne Noire 2017,3.5,220
-Deakin Estate,2021,1955,Moscato 2021,3.7,47
-Mas des Tannes,2020,1846063,Les Tannes en Occitanie Sauvignon Blanc 2020,3.6,80
-Pierre Zero,N.V.,2841715,Rosé Alcohol Free N.V.,2.9,90
-Cantine due Palme,2019,1854521,Montecoco Salice Salentino Rosso 2019,3.7,26
-Bellingham,2020,6885216,Big Oak Shiraz 2020,3.6,115
-Bodegas Pedro Escudero,2021,5656512,Valdelagunde Verdejo 2021,4.1,504
-Horgelus,2019,3102964,Côtes de Gascogne Tannat - Merlot 2019,3.5,26
-False Bay,2021,5812856,Crystalline Chardonnay 2021,3.4,28
-Laurent Miquel,2021,1317399,Vendanges Nocturnes (Classic) Rosé 2021,3.7,29
-Vigneti del Salento,2019,8835170,Ritorna Tre Autoctoni Rosso 2019,3.9,428
-Viñedos y Bodegas Muñoz,2021,5630258,Legado Muñoz Macabeo - Verdejo 2021,4.1,48
-Mas des Tannes,2020,1210652,Les Tannes en Occitanie Cabernet Sauvignon 2020,3.4,83
-Cantina di Montalcino,2018,5788631,Poggio del Sasso Chianti 2018,3.3,43
-Tarapacá,2021,1147777,Sauvignon Blanc 2021,3.2,126
-False Bay,2020,6941497,Bush Vine Pinotage 2020,3.5,120
-Château Pech-Céleyran,2015,1522598,Cuvée Ombline Rouge 2015,3.5,37
-Tavera,2018,4664863,Tempranillo - Syrah Roble 2018,3.9,31
-Tarapacá,2017,4348902,Syrah 2017,3.3,194
-Tarapacá,2021,4348861,Merlot 2021,3.6,52
-Château Camplong,2019,1410974,Peyres Nobles Rouge 2019,3.8,94
-Maestro Italiano,2020,5014335,Gran Maestro Appassimento Bianco 2020,3.5,25
-UDACA,2019,4778950,Dom Divino Branco 2019,3.6,32
-Tarapacá,2021,4348851,Carmenère 2021,3.7,75
-Laurent Miquel,2019,2272749,Vendanges Nocturnes (Classic) Rouge 2019,3.7,98
-Esporão,2020,5571292,Bico Amarelo 2020,3.7,2747
-False Bay,2021,5960444,Windswept Sauvignon Blanc 2021,3.7,80
-Zenato,2021,1862920,Pinot Grigio 2021,3.8,280
-Geografico,2021,1308767,Borgo Alla Terra Vernaccia di San Gimignano 2021,3.9,36
-Dreams,2018,7457590,Heaven Can Wait Cabernet Sauvignon 2018,3.5,37
-Duc de Foix,N.V.,1143697,Cava Brut N.V.,3.5,765
-The Listening Station,2020,1232573,Chardonnay 2020,3.8,161
-The Listening Station,2020,1524112,Malbec 2020,3.7,217
-Stemmari,2020,9795363,Decorato Bianco 2020,4.2,40
-Les Vignerons,2020,2069768,La Vocation Vermentino - Colombard 2020,3.5,119
-Veuve du Vernay,N.V.,1136289,Brut N.V.,3.6,6696
-de Gras,2019,11814,Estate Cabernet Sauvignon 2019,3.6,36
-Lan,2020,1244860,Duquesa De Valladolid Verdejo Rueda 2020,3.9,334
-Cantele,2017,2121117,Telero Rosso 2017,3.3,51
-Cecilia Beretta,2020,73379,Pinot Grigio Venezie (Grigio Luna) 2020,3.8,154
-Zenato,2020,1862920,Pinot Grigio 2020,3.6,565
-Zenato,2021,1127741,Bardolino Chiaretto 2021,3.7,62
-Cielo e Terra,2020,3994983,Appassionante 2020,4.2,119
-Maison de La Villette,2020,3946189,Chardonnay 2020,3.9,198
-Vigneti del Vulture,2019,1172823,Pipoli Aglianico del Vulture 2019,3.8,167
-Domaine Bousquet,2020,1310572,Malbec 2020,3.8,879
-False Bay,2021,5803451,Whole Bunch Cinsault - Mourvèdre Rosé 2021,3.6,50
-False Bay,2021,6941497,Bush Vine Pinotage 2021,3.2,29
-Vanitá,2019,4995914,Nero d'Avola (Organico) 2019,3.6,416
-Philibert du Charme,2020,2837235,Reserve Spéciale Chardonnay 2020,4.0,276
-Black's Devil,2020,6208224,Negroamaro - Zinfandel 2020,3.6,47
-Vanitá,2020,4995914,Nero d'Avola (Organico) 2020,3.8,191
-Sollione,2020,1595205,Salento Primitivo 2020,3.7,105
-La Sastrería,2020,5424817,Garnacha Rosé 2020,3.8,279
-Kiwi Cuvée,2020,5394262,Bin 69 Pinot Noir 2020,3.7,175
-Leth,2021,1230681,Duett 2021,3.8,32
-La Sastrería,2020,2811594,Garnacha Roble 2020,3.9,878
-De Bortoli,2019,1206751,Lorimer Chardonnay 2019,3.4,32
-De Bortoli,2020,1955215,Lorimer Sémillon - Chardonnay 2020,3.5,49
-Pierrick Harang,2019,1246952,Le Petit Balthazar Merlot 2019,3.2,70
-Deakin Estate,2020,1950,Merlot 2020,3.6,54
-Tavernello,2018,5710373,Organic Syrah 2018,3.4,48
-Lindeman's,2020,1232701,Winemaker's Release Chardonnay 2020,3.7,156
-Lindeman's,2020,1232701,Winemaker's Release Chardonnay 2020,3.7,156
-De Bortoli,2018,1316236,Lorimer Shiraz 2018,3.5,34
-Rivera,2021,1273903,Fedora Castel del Monte 2021,3.7,38
-Fabulous Ant,2019,1321324,Pinot Noir 2019,3.2,34
-Pierrick Harang,2020,1654145,Le Petit Balthazar Viognier - Sauvignon Blanc 2020,3.6,63
-Leth,2021,5291000,Grüner Veltliner Terrassen 2021,4.1,140
-Zenato,2020,1127790,Bardolino 2020,3.6,204
-Vigneti del Vulture,2020,1221185,Greco - Fiano Basilicata Pipoli 2020,3.8,259
-De Bortoli,2019,1213100,Lorimer Shiraz - Cabernet 2019,3.8,94
-Poderi dal Nespoli,2020,6840579,Nespolino Trebbiano - Chardonnay 2020,3.5,42
-Barramundi,2019,5628433,Pinot Noir 2019,3.4,107
-Campo di Marzo,2020,1515740,Negroamaro 2020,3.9,86
-Bodegas Faustino,2020,1129392,VII Tempranillo 2020,3.7,1876
-McPherson,2021,1119885,Pickles McPherson Sauvignon Blanc 2021,4.0,83
-El Castilla,2020,6534862,Viura - Chardonnay 2020,4.1,401
-Mont Gravet,2021,4907198,Grande Cuvée Sauvignon Blanc Côtes de Gascogne 2021,4.1,28
-Dominio de Eguren,2020,5990837,Protocolo Organic Tempranillo 2020,3.7,39
-Santiago 1541,2018,2420873,Sauvignon Blanc 2018,3.5,67
-Domaine St Félix,2019,5105739,Cuvée Pierre Martin Rouge 2019,3.8,36
-Oliveda,2020,1503539,Blanc de Blancs 2020,3.4,47
-La Gascogne d'Alain Brumont,2021,16037,Gros Manseng - Sauvignon 2021,3.7,65
-Sacchetto,2021,1140854,L'Elfo Pinot Grigio 2021,4.0,138
-Stemmari,2020,2484230,Pinot Noir 2020,3.7,205
-Win,N.V.,4410652,Tempranillo De-alcoholised N.V.,2.4,171
-De Bortoli,2018,1561676,DB Family Selection Shiraz 2018,3.5,135
-Sacchetto,2021,1140854,L'Elfo Pinot Grigio 2021,4.0,138
-De Bortoli,2017,1248010,DB Family Selection Chardonnay 2017,3.3,139
-Geografico,2019,5609265,Bosco del Grillo Governo 2019,4.0,1169
-Cellaro,2018,7601358,Lumà Rosso 2018,3.5,77
-Clos Montblanc,2020,1755178,Castell Macabeu - Chardonnay 2020,3.8,27
-Purato,2020,1782073,Nero d'Avola 2020,3.6,356
-Cantina Tollo,2020,16815,Rocca Ventosa Montepulciano d'Abruzzo 2020,3.3,353
-Borges,2020,1137819,Meia Encosta 2020,3.5,295
-Borges,2021,4417863,Meia Encosta Dão Branco 2021,3.5,80
-Masseria Borgo dei Trulli,2020,5104813,Vermentino 2020,3.4,153
-Paul Mas,2020,24046,Vermentino 2020,4.0,43
-El Coto,2021,8617,Blanco 2021,3.6,842
-Oliveda,2020,2137074,Negre Jove 2020,3.7,72
-Paul Mas,2020,2646842,Marsanne 2020,3.8,68
-Grande Crevette,2021,5317993,Sauvignon Blanc 2021,3.6,30
-Rovisco Pais,2020,74724,Península de Setúbal Reserva Tinto 2020,4.1,1070
-Pacifico Sur,2020,1697828,Chardonnay 2020,3.7,26
-Dominio de Eguren,2020,6249820,Protocolo Organic White 2020,3.3,27
-Quinta do Estanho,N.V.,1801496,Fine White Porto N.V.,3.5,74
-Dominio de Eguren,2020,9716845,Protocolo Organic Rosé 2020,3.4,66
-Domaine St Félix,2021,1249830,Cuvée Pierre Martin Rosé 2021,3.7,35
-Miopasso,2020,1197274,Primitivo 2020,3.6,196
-Mas des Tannes,2020,1460466,Les Tannes en Occitanie Merlot 2020,3.4,53
-Oliveda,2021,1503539,Blanc de Blancs 2021,3.7,41
-Baccolo,2020,6670829,Appassimento Parziale 2020,4.0,159
-Baccolo,2021,7412839,Appassimento Parziale Bianco 2021,3.6,75
-Vesevo,2021,1229067,Falanghina Beneventano 2021,3.7,26
-Rovisco Pais,2020,7360751,Reserva Branco 2020,3.8,109
-Laurent Miquel,2021,100144,Père et Fils Cinsault - Syrah 2021,3.8,70
-Laurent Miquel,2021,100143,Père et Fils Chardonnay - Viognier 2021,4.0,44
-Bodegas Care,2021,7472718,Tinto Sobre Lías Garnacha - Syrah 2021,4.0,56
-Boekenhoutskloof,2020,1154329,The Wolftrap White Blend 2020,3.5,391
-Bodegas Care,2021,7588998,Blanco Sobre Lías 2021,3.6,133
-Clos Montblanc,2018,5660031,Proyecto Cu4tro Blanco 2018,3.2,41
-Terra Linda,2020,6522172,Viura - Chardonnay 2020,3.9,679
-Terra Linda,2021,5912258,Syrah 2021,4.1,65
-Pagos de Aráiz,2017,2449553,Joven 2017,3.5,57
-Carmen,2020,1996367,Insigne Carmenère 2020,3.7,35
-El Coto,2018,2034549,Rosado 2018,3.3,459
-Cantina Zaccagnini,2018,1182301,Kasaura Montepulciano d'Abruzzo 2018,3.6,77
-Esporão,2021,1105373,Monte Velho Branco 2021,3.8,458
-Esporão,2020,1105372,Monte Velho Tinto 2020,3.7,2786
-Rietvallei,2019,1955773,John B Cabernet Sauvignon - Tinta Barocca 2019,3.4,42
-Vinaria din Vale,2019,7228085,7 Coline Saperavi - Malbec 2019,3.9,83
-Rueda Perez,2021,1221797,Jose Galo Verdejo 2021,4.0,124
-Villa di Mare,2021,7009371,Pinot Grigio 2021,3.6,47
-José Maria da Fonseca,2014,1597392,Alambre Moscatel de Setúbal 2014,3.9,240
-Dubicz,2021,4836886,Irsai Olivér 2021,3.8,33
-Sacchetto,2021,1273878,Pinot Grigio Blush 2021,4.2,46
-Mas des Tannes,2020,1307241,Les Tannes en Occitanie Chardonnay 2020,3.5,37
-Nebla,2021,1207089,Verdejo 2021,3.6,93
-Spier,2021,2867694,Signature Chardonnay - Pinot Noir 2021,3.5,186
-770 Miles,2020,5217359,Zinfandel Rosé 2020,4.1,189
-Château Tour de Luchey,2019,1283254,Bordeaux 2019,3.6,33
-Domaine de la Baume,2020,2123090,La Grande Olivette Sauvignon Blanc Pays d'Oc 2020,3.4,114
-Zenato,2020,1127740,Soave Classico 2020,3.5,69
-Hans Greyl,2021,10181994,Sauvignon Blanc 2021,3.8,755
-Rivera,2019,91710,Rupicolo Castel del Monte 2019,3.8,52
-Laurent Miquel,2020,100143,Père et Fils Chardonnay - Viognier 2020,3.7,115
-Trapiche,2019,1136472,Astica Cabernet Sauvignon 2019,3.0,83
-Domaine de Pellehaut,2021,2062461,Harmonie De Gascogne Rosé 2021,3.9,130
-Spier,2021,75113,Signature Chenin Blanc 2021,3.7,550
-Spier,2021,1128945,Signature Chardonnay 2021,3.6,142
-Domaine du Tariquet,2021,1207322,Côtes De Gascogne Rosé De Pressée 2021,3.6,50
-Feudo Arancio,2019,8316,Cabernet Sauvignon Sicilia 2019,3.6,71
-Villa Lanata,2017,4559276,Piemonte Rosso 2017,3.2,35
-Banfi,2020,22916,Collepino (Merlot - Sangiovese) 2020,3.6,59
-Maison de La Villette,2019,8550350,Grenache 2019,3.8,26
-Hoya de Cadenas,2019,2196902,Chardonnay 2019,3.3,25
-Boekenhoutskloof,2020,1128255,The Wolftrap Red Blend 2020,3.4,515
-Goedverwacht,2021,9526251,Bad Brothers White 2021,4.0,60
-Cecchi,2021,12119,Chianti 2021,3.6,97
-Conte di Campiano,2019,10287259,Limited 15 Gradi Edition Cabernet - Primitivo 2019,4.1,134
-Conte di Campiano,2020,2643786,Appassimento 2020,3.9,132
-Maison de La Villette,2020,4891764,Pinot Noir 2020,3.8,94
-Rio Lindo,2020,5919230,Syrah 2020,3.9,332
-Domaine de la Baume,2019,2955833,La Grande Olivette Chardonnay 2019,3.7,34
-Vega Moragona,2019,8077947,Ventica Bobal 2019,4.0,482
-Domaines Astruc,2019,1155624,Malbec 2019,3.7,44
-Château Haut Maginet,2012,1755912,Bordeaux Rouge 2012,3.3,403
-Kerpen,2015,1240401,Wehlener Sonnenuhr Riesling Kabinett 2015,3.7,66
-UDACA,2018,4904020,Eloquente Colheita Selecionada Tinto 2018,3.7,98
-Bigi,2020,1719943,Vipra Rosa Umbria 2020,3.4,180
-Isidro Milagro,2017,4235945,Viña Vasta Tempranillo - Merlot - Syrah 2017,3.4,129
-Mezzacorona,2019,1174653,Castel Firmian Sauvignon Trentino 2019,3.5,65
-Paul Mas,2020,2310037,Viognier - Sauvignon 2020,3.7,258
-Bigi,2021,1775280,Vipra Bianca Umbria 2021,3.7,55
-Tormaresca,2019,2847233,Paiara Puglia Rosso 2019,3.7,61
-Neleman,2020,5630072,Nucli Organic 2020,3.8,208
-Haras de Pirque,2017,5885356,Albaclara Sauvignon Blanc 2017,3.7,663
-Domaine de la Baume,2019,1993648,La Grande Olivette Merlot 2019,3.4,51
-Cruz Alta,2020,1146143,Malbec 2020,3.8,337
-Alma Cersius,2019,1225243,In Vino Erotico Rouge 2019,3.6,28
-Mas Fi,N.V.,4174791,Cava Semi Seco N.V.,3.7,432
-Horgelus,2021,1200558,Colombard - Sauvignon Côtes de Gascogne 2021,3.8,117
-Covila,2019,1164116,II Crianza 2019,3.8,30
-Saint Preignan,2020,9032368,Trilogie 2020,4.0,55
-Domaines Astruc,2020,2153016,Chardonnay 2020,3.7,28
-Paul Mas,2021,7408656,Le Rosé 2021,3.8,156
-Croix d'Or,2018,1750326,Cabernet Sauvignon 2018,3.6,172
-Croix d'Or,2019,1416887,Chardonnay 2019,3.8,83
-Brigaldara,2020,1255767,Valpolicella 2020,3.8,184
-Zenato,2021,1127790,Bardolino 2021,3.5,38
-Geografico,2018,8162578,Contessa di Radda Toscana 2018,3.7,464
-Mezzacorona,2019,1211704,Castel Firmian Teroldego Rotaliano 2019,3.7,249
-Grant Burge,2020,5310954,Barossa Ink Shiraz 2020,4.1,814
-Gallo Family Vineyards,2019,1141504,Pinot Grigio 2019,3.4,139
-Sollione,2020,1162633,Salento Negroamaro 2020,3.5,30
-Black's Devil,2019,6208224,Negroamaro - Zinfandel 2019,3.7,55
-Spier,2020,75114,Signature Merlot 2020,3.4,111
-Montes,2021,1149590,Reserva Sauvignon Blanc (Classic) 2021,3.7,99
-Finca La Solana,2020,6615490,Piquito Selección Especial Monastrell 2020,4.1,362
-Pardo Tolosa,2019,7304699,La Sima Tempranillo Ecologico 2019,3.7,115
-UDACA,2017,76425,Irreverente Tinto 2017,3.8,67
-Bodegas Piqueras,2019,5972511,El Abuelo Garnacha Tintorera 2019,3.9,549
-Hans Greyl,2021,10607896,South Africa Blush 2021,3.8,121
-Luc Pirlet,2018,1202725,Les Barriques Reserve Cabernet Sauvignon 2018,3.6,508
-Tagaro,2020,4792143,Pinataro Nero di Troia 2020,4.1,59
-Bigi,2020,28454,Vipra Rossa Umbria 2020,3.5,303
-Lergenmüller,2020,6469417,Tiefgang Kalkstein Riesling Trocken 2020,4.1,298
-Petro Vaselo,2020,1346875,Alb de Petro Vaselo 2020,3.9,94
-Château les Vignals,2019,6341178,Soif-Art Rouge 2019,3.7,75
-Château les Vignals,2019,5924928,Soif-Art Blanc 2019,3.8,59
-Sauvion,2020,1229790,Chemin des Sables Rosé d'Anjou 2020,3.8,83
-Spier,2020,75110,Signature Cabernet Sauvignon 2020,3.5,325
-Masseria Borgo dei Trulli,2020,1207436,Primitivo 2020,3.8,843
-Callia,2021,2739150,Lunaris Malbec 2021,3.9,92
-Baccolo,2019,6670829,Appassimento Parziale 2019,3.7,361
-Spier,2020,75116,Signature Pinotage 2020,3.6,483
-Gallo Family Vineyards,2019,3380,Cabernet Sauvignon 2019,3.7,881
-Gallo Family Vineyards,2020,1156607,White Zinfandel 2020,3.5,407
-Montespina,2020,1139309,Sauvignon 2020,3.7,113
-El Gringo,2019,7183378,Dark Red Tempranillo 2019,3.4,83
-Bacalhôa,2019,18532,Serras de Azeitão Branco 2019,3.7,372
-Château Fontarèche,2019,1568886,Vieilles Vignes Sélection 2019,3.7,166
-Azul Portugal,2016,1837025,Dão Tinto 2016,3.8,110
-Fontella,2018,2431903,Chianti 2018,3.3,836
-Vigneti del Vulture,2021,2037366,Basilicata Pipoli Rosato 2021,4.0,214
-Claudia Papayianni,2019,1863922,Ex'Arnon Red 2019,3.3,27
-Ikon,2018,2106976,Rosé 2018,3.8,70
-Bodegas Piqueras,2020,5965066,El Abuelo Verdejo - Sauvignon Blanc 2020,3.8,395
-Tsantali,2018,3232807,Naoussa Imiglykos 2018,3.6,195
-Amatore,2019,3329555,Rosso Verona 2019,3.6,132
-Ca' del Doge,N.V.,6853422,Fioroso Cuvée Frizzante Bianco N.V.,4.1,914
-Viticoltori Ponte,2020,3206458,Pinot Grigio 2020,3.1,49
-Murviedro,2021,7149664,Audentia Cabernet Sauvignon Rosé 2021,3.9,69
-Domaine de Carmignan,2019,6547833,Côtes-du-Rhône Blanc 2019,3.7,41
-Bodegas Aragonesas,2017,95439,Castillo De Fuendejalon Crianza 2017,3.9,720
-Proeza,2019,1374982,Dão Red 2019,3.8,39
-Moncourt,2019,8334570,Les Brochoires Cabernet Franc 2019,3.7,43
-Terra Argenta,2021,3413268,Malbec 2021,3.5,96
-UDACA,2018,1192305,Dom Divino Tinto 2018,3.6,72
-Vigné-Lourac,2020,1562861,Duras - Cabernet 2020,4.0,64
-Mezzacorona,2020,1174653,Castel Firmian Sauvignon Trentino 2020,3.6,59
-Domaine des Crès Ricards,2020,1415995,Esprit de Crès Ricards Marsanne - Roussanne 2020,4.0,97
-Clos Montblanc,2018,16138,Proyecto Cu4tro Tinto 2018,3.4,170
-Lenotti,2020,1126805,Veneto Rosso Passo Rosso 2020,4.0,182
-Telmo Rodriguez,2020,2568897,Al-Muvedre Tinto Monastrell 2020,3.4,141
-Feudo Arancio,N.V.,5441708,Accussi Extra Dry N.V.,3.7,656
-Cielo e Terra,N.V.,2814396,Prosecco Brut N.V.,3.7,547
-Telmo Rodriguez,2019,2568897,Al-Muvedre Tinto Monastrell 2019,3.5,189
-Raiza,2018,1165877,Altos de Raiza 2018,3.6,79
-Croix d'Or,2018,1664807,Merlot 2018,3.2,60
-Domaine de Ménard,2020,1614776,Colombard - Ugni Blanc 2020,4.0,25
-The Big Top,2020,1847566,Zinfandel 2020,3.9,376
-Vistamar,2019,1173842,Brisa Merlot 2019,3.0,76
-Uby,2020,1860965,No. 1 Sauvignon 2020,4.0,57
-Masseria Borgo dei Trulli,2020,5419918,Negroamaro 2020,4.1,465
-Spier,2020,75118,Signature Shiraz 2020,3.5,91
-Gallo Family Vineyards,2019,1152381,Zinfandel 2019,3.6,541
-Gallo Family Vineyards,2019,2679057,Grenache Rosé 2019,3.6,331
-Gallo Family Vineyards,2020,38484,Chardonnay 2020,3.4,274
-Spier,2021,75117,Signature Sauvignon Blanc 2021,3.6,302
-Villa Sandi,2020,1678378,Pinot Grigio 2020,3.2,33
-Mezzacorona,2020,8375,Castel Firmian Pinot Grigio Trentino 2020,3.7,381
-El Coto,2020,2034549,Rosado 2020,3.5,271
-El Coto,2021,2034549,Rosado 2021,3.4,112
-Deakin Estate,2019,2824270,Pinot Noir 2019,3.2,80
-Deakin Estate,2020,1953,Chardonnay 2020,3.4,53
-Ponte Villoni,2020,3231677,Edizione Privata 2020,4.2,368
-Salentein,2021,1253408,Portillo Pinot Noir 2021,3.3,232
-Reveur,2021,9494411,Grande Réserve Chardonnay Boise 2021,4.1,53
-Oisly Thésée,2020,7295107,Noblesse de Loire Sauvignon Blanc 2020,3.9,31
-Burmester,2019,1227972,Tavedo Douro 2019,3.5,444
-Il Pumo,2020,4259533,Chardonnay 2020,3.6,57
-Deakin Estate,2020,1951,Shiraz 2020,3.5,118
-Salentein,2021,1977856,Portillo Sauvignon Blanc 2021,3.7,274
-San Marzano,2020,1525820,I Tratturi Negroamaro 2020,3.8,42
-Salentein,2021,1176148,Portillo Merlot 2021,3.5,155
-Salentein,2021,1549934,Portillo Rosé Malbec 2021,3.6,45
-Veuve du Vernay,N.V.,1136290,Brut Rosé N.V.,3.7,4244
-Salentein,2021,1163679,Portillo Chardonnay 2021,3.6,115
-Burmester,2020,1227972,Tavedo Douro 2020,3.5,204
-Carmen,2019,1669688,Insigne Cabernet Sauvignon 2019,3.4,128
-Rube,2020,9700014,Pecorino 2020,3.7,26
-Trapiche,2021,1200227,Melodias Sauvignon Blanc 2021,3.2,32
-Mas des Tannes,2018,1849493,Les Tannes en Occitanie Pinot Noir 2018,3.4,45
-Domaine de l'Amandine,2020,2195397,Cuvée Mathilde 2020,3.2,75
-Château Lauduc,2018,1199493,Classic Bordeaux Rouge 2018,3.9,274
-De Bortoli,2019,1248010,DB Family Selection Chardonnay 2019,3.6,85
-De Bortoli,2019,1248010,DB Family Selection Chardonnay 2019,3.6,85
-Domaine du Tariquet,2020,2546290,Sauvignon Côtes de Gascogne 2020,3.7,250
-Paul Jaboulet Aîné,2020,10917,Côtes du Ventoux Les Traverses Rouge 2020,3.8,56
-Clavel,2019,4185895,Le Mas Coteaux du Languedoc 2019,3.7,169
-Paul Jaboulet Aîné,2019,10917,Côtes du Ventoux Les Traverses Rouge 2019,3.7,397
-Feudo Arancio,2018,8316,Cabernet Sauvignon Sicilia 2018,3.6,99
-Finca Antigua,2014,1136857,Tempranillo Crianza 2014,3.6,249
-Lua Cheia - Saven,2019,4464947,Maria Bonita Loureiro 2019,3.8,619
-Orahovica,2019,2741596,Graševina 2019,3.5,38
-Monte Llano,2020,1215086,Monte Llano Tempranillo Rioja 2020,3.9,26
-Leth,2020,1230681,Duett 2020,3.8,124
-Familia Torres,2019,2620,Viña Sol Blanco 2019,3.4,40
-Spier,2018,75110,Signature Cabernet Sauvignon 2018,3.3,966
-Familia Torres,2018,1385210,Sangre de Toro 2018,3.3,1010
-Spier,2021,75114,Signature Merlot 2021,3.4,50
-MontGras,2020,11783,Reserva Chardonnay 2020,3.7,92
-Elsa Bianchi,2021,1277829,Torrontes 2021,3.6,97
-Spier,2020,75117,Signature Sauvignon Blanc 2020,3.6,518
-Barramundi,2021,5628433,Pinot Noir 2021,3.5,29
-Spier,2019,75116,Signature Pinotage 2019,3.4,624
-Horgelus,2021,1550404,Côtes de Gascogne Sauvignon - Gros Manseng 2021,3.9,65
-Horgelus,2021,3679352,Côtes de Gascogne Rosé 2021,3.7,67
-Dune (Caveau Les Sablons),2021,1713265,Gris de Gris 2021,3.8,308
-MontGras,2020,2290052,Reserva Especial Carmenère 2020,3.8,65
-Spier,2021,75118,Signature Shiraz 2021,3.6,37
-Spier,2021,75118,Signature Shiraz 2021,3.6,37
-Notte Rossa,2021,1903267,Primitivo Salento 2021,3.8,170
-Whistling Duck,2018,1295382,Semillon - Sauvignon Blanc 2018,3.4,76
-Paul Mas,2020,9485537,Le Blanc 2020,3.8,128
-Feudo Arancio,2020,8315,Syrah Sicilia 2020,3.7,197
-Serre dei Roveri,2020,1232421,Barbera 2020,3.5,269
-Whistling Duck,2020,2802732,Chardonnay 2020,3.7,85
-Vigneti del Salento,2019,2549198,Primitivo - Merlot Zolla 2019,3.9,111
-Serre dei Roveri,2019,1232421,Barbera 2019,3.5,87
-Familia Torres,2021,2634,De Casta Rosado 2021,3.6,199
-Les Costières de Pomerols,2021,1188262,Hugues de Beauvignac (HB) Picpoul de Pinet 2021,3.9,249
-Tor del Colle,2017,1426139,Rosso Molise Riserva 2017,3.5,57
-Banfi,2020,22913,Col di Sasso (Cabernet Sauvignon - Sangiovese) 2020,3.6,393
-La Carraia,2020,4561912,Orvieto Classico 2020,3.4,58
-Mocavero,2018,1154268,Salice Salentino 2018,4.0,394
-Mocavero,2019,5800597,Negroamaro Salento 2019,3.8,78
-Gran Sasso,2021,5776482,Primitivo Puglia Edizione Limitata Terra Vera 2021,3.9,55
-Gran Sasso,2020,6737764,Terra Vera Edizione Limitada Sangiovese 2020,3.9,256
-Geografico,2021,15342,Vernaccia di San Gimignano 2021,3.6,73
-Geografico,2020,15342,Vernaccia di San Gimignano 2020,3.4,104
-Tor del Colle,2019,1134111,Montepulciano d'Abruzzo Riserva 2019,3.9,244
-Velarino,2020,6891988,Nero di Troia 2020,4.0,2009
-Cecchi,2021,7174948,Torrebona Vernaccia di San Gimignano 2021,3.6,114
-Cecchi,2021,1158252,La Mora Vermentino Toscana (Toscana Bianco) 2021,3.7,81
-Paul Jaboulet Aîné,2020,10920,Viognier Secret de Famille 2020,3.7,143
-Paul Jaboulet Aîné,2018,2737003,Secret de Famille Syrah 2018,3.7,118
-Pagos de Aráiz,2019,86346,Navarra Tinto Roble 2019,3.7,104
-Bodegas Príncipe de Viana,2020,4611595,Colección Monovarietales Tempranillo Roble 2020,3.5,313
-Finca Los Timonares,2017,2005702,Marius Crianza 2017,3.7,143
-Farina,2021,2633307,Pinot Grigio 2021,3.8,96
-Scavi & Ray,N.V.,1506014,Hugo Aperitivo N.V.,3.3,151
-Epicuro,2019,1516707,Nero d'Avola 2019,3.7,1129
-Farina,2020,1268187,Bardolino 2020,3.5,38
-Paul Mas,2020,1208306,Vignes de Nicole Chardonnay - Viognier Pays d'Oc 2020,3.7,764
-AR - Adega de Redondo,2020,4647887,Maré Viva Selection Tinto 2020,3.5,74
-Paul Mas,2019,7730742,Merlot Réserve 2019,3.7,33
-Luc Pirlet,2020,6235891,Réserve Pinot Noir 2020,3.7,34
-Marqués de Reinosa,2017,1796557,Rioja Crianza Cecios 2017,3.6,35
-Paul Mas,2019,1141179,Vignes de Nicole Cabernet Sauvignon - Merlot Pays d'Oc 2019,3.7,1326
-Velarino,2020,6467972,Susumaniello 2020,3.9,1024
-Epicuro,2019,5441061,Pinot Grigio 2019,3.6,52
-Domaine de la Baume,2021,1163295,Viognier Elisabeth 2021,4.0,134
-Dumanet,2021,5790958,Réserve Chardonnay 2021,4.1,257
-Emiliana,2019,7735696,O Reserva Organic Winemaker's Blend 2019,3.6,69
-Esporão,2021,5571292,Bico Amarelo 2021,3.9,524
-Lungarotti,2021,65254,Brezza Umbria Bianco 2021,3.7,105
-Bosio,2019,1372789,Egidio Barbera d'Alba 2019,3.7,141
-Feudi Salentini,2020,1837975,125 Uno Due Cinque Primitivo del Salento 2020,3.7,113
-Gaía,2021,5683127,Agiorgitiko 4-6H 2021,3.7,59
-Domaine de Joy,2021,2563901,L'Eclat Côtes de Gascogne 2021,4.0,36
-Montresor,2017,75624,Soave Classico 2017,3.5,194
-Skouras,2019,1854911,Cuvee Prestige Red 2019,3.4,47
-Luzon,2019,2356292,Finca Luzon 2019,3.4,189
-Mont Ventoux,2018,7206678,Secrets des Dames Ventoux 2018,3.7,112
-Tierras y Viñas,2018,1206224,Gran Dominio Crianza 2018,3.8,65
-Montes,2020,1151903,Reserva Chardonnay (Classic) 2020,3.6,619
-Jean François Mérieau,2020,1176235,L'Arpent des Vaudons Sauvignon Blanc 2020,3.8,175
-Koncho,2020,7266408,Kisi Semi Sweet White 2020,4.3,66
-Dissegna,2020,1541974,Pinot Grigio 2020,3.9,40
-Cave des Vignerons de Saint-Chinian,2016,1669704,Les Secrets Saint Chinian 2016,3.5,25
-Vigna Dogarina,2020,1190667,Prosecco di Treviso Millesimato Extra Dry 2020,3.9,44
-Cuatro Rayas,2021,3394959,Four Lines Verdejo 2021,3.7,115
-Verderrubi,2021,8375602,Pita Dominio de Verderrubi 2021,3.8,33
-BelColle,2020,9863930,Passo del Gallo Piemonte Rosso 2020,3.7,57
-Poderi dal Nespoli,2020,5774714,Famoso 2020,3.8,491
-Miopasso,2020,1844982,Nero d'Avola 2020,3.7,213
-Lagravera,2020,1945130,Laltre 2020,3.8,120
-Uby,2021,1254262,No. 3 Colombard - Sauvignon 2021,4.0,156
-Oxford Landing,2021,1900657,Sauvignon Blanc 2021,3.4,190
-Morisfarms,2020,1605189,Mandriolo Maremma Toscana 2020,3.6,66
-Louis Latour,2019,7246,Ardèche Chardonnay 2019,3.8,474
-Cantina Miglianico,2018,1899107,Mellianum Murelle Montepulciano d'Abruzzo 2018,3.5,244
-Cantina Offida,2020,2138259,Piceno 2020,3.7,37
-Rodestiu,N.V.,1296821,Cava Brut N.V.,3.5,1398
-Château de Brague,2015,1172997,Bordeaux Supérieur 2015,3.9,151
-Passione Natura,2020,5148635,Lupi Reali Pecorino 2020,3.5,29
-Intruso,2020,2147933,Monastrell 2020,3.7,28
-Rivera,2019,1622963,Negroamaro Salento 2019,4.0,84
-Cecilia Beretta,2021,73379,Pinot Grigio Venezie (Grigio Luna) 2021,3.9,86
-Blanc Pescador,N.V.,1804248,Sparkling N.V.,3.4,7897
-Logodaj Winery,2018,1245009,Shiroka Melnishka loza 2018,3.6,37
-Oliveda,N.V.,1543250,Cava Oh! Brut N.V.,3.5,226
-Cantine Pellegrino,N.V.,6966169,Marsala Fine Italia Particolare Semisecco N.V.,3.8,722
-Rocca,2020,3759765,Nero di Troia 2020,3.5,82
-Bodegas Vilano,2020,1378916,Roble 2020,3.5,65
-Vinarija Daruvar,2018,6327951,Vezak Graševina 2018,3.6,646
-El Angosto,2020,4523122,Soldadito Marinero 2020,4.0,88
-Oxford Landing,2020,1759704,Merlot 2020,3.5,74
-Oxford Landing,2018,51394,Shiraz 2018,3.5,345
-Feudo Arancio,2020,5388698,Passiari 2020,4.1,117
-Domaine Lalande,2019,1154788,Les Hauts de Lalande 2019,3.5,181
-Isidro Milagro,2020,5893001,Cal Y Canto Tempranillo Roble 2020,3.9,29
-Simonsig,2021,91633,Chenin Blanc 2021,3.8,300
-Fattoria dei Barbi,2018,54334,Rosso dei Barbi 2018,3.5,62
-Carmen,2020,4255259,Premier 1850 Reserva Chardonnay 2020,3.7,103
-Niel Joubert,2019,78294,Sauvignon Blanc 2019,3.6,119
-Carmen,2020,4255261,Premier 1850 Reserva Merlot 2020,3.5,44
-Lacheteau,2021,1195710,Rosé d'Anjou 2021,4.0,179
-Era,2018,2091575,Syrah 2018,3.3,127
-La Belle Enseigne,2020,7160894,Malbec 2020,3.8,95
-Bolla,2021,2504239,Bardolino Chiaretto La Canestraia 2021,4.1,27
-Librandi,2020,1199664,Cirò Classico Rosso (Segno) 2020,3.4,25
-Montes,2019,1151903,Reserva Chardonnay (Classic) 2019,3.7,1132
-Les Jamelles,2019,10554,Merlot 2019,3.7,439
-Santa Cristina,2021,1255437,Umbria Bianco 2021,3.6,187
-Notte Rossa,2021,2354815,Negroamaro Salento 2021,3.7,115
-Velarino,2020,7358554,Vermentino 2020,3.5,50
-Mezzacorona,2021,8375,Castel Firmian Pinot Grigio Trentino 2021,3.8,119
-Notte Rossa,2021,5091239,Fiano Salento 2021,3.6,90
-San Felice,2021,1135589,Perolla Vermentino 2021,3.9,56
-Fāurar,2018,1208763,Roşu de Ceptura 2018,3.9,43
-Orahovica,2018,2906676,Pinot Sivi 2018,3.4,37
-Inurrieta,2019,1370411,Sensaciones 2019,3.6,50
-Domaine Roger Pabiot et Fils,2021,1233610,Coteau des Girarmes Pouilly-Fumé 2021,4.1,30
-Petro Vaselo,2017,1453840,Rosu de Petro Vaselo 2017,3.6,336
-Veuve du Vernay,N.V.,4502634,Ice N.V.,3.8,2267
-PavoNero,N.V.,5576678,Rosso N.V.,4.0,2233
-Jeff Carrel,2020,2136158,Vieille Mule Rouge 2020,3.6,69
-Moncaro,2021,1787648,Verdicchio Dei Castelli Di Jesi Classico Le Vele 2021,3.7,65
-Marani,2019,1144174,Saperavi (Cаперави) 2019,3.7,77
-Fāurar,2020,1208766,Alb de Ceptura 2020,3.7,56
-Château Vieux Manoir,2020,1252451,Bordeaux 2020,3.8,88
-Altún,2019,1288740,Albiker 2019,3.6,51
-Inurrieta,2021,1178615,Orchidea Sauvignon Blanc 2021,3.7,131
-Velenosi,2019,1146486,Rosso Piceno 2019,3.5,288
-Carmen,2021,4255259,Premier 1850 Reserva Chardonnay 2021,3.5,46
-Celler del Roure,2020,2477371,Vermell 2020,3.5,104
-Il Pumo,2021,2019358,Primitivo 2021,3.8,54
-Pasas,2018,7795913,Uva Tinta 2018,3.9,764
-Bodegas Miguel Calatayud,2015,1136811,Vegaval Plata Crianza 2015,3.2,98
-Domaine de la Clapière,2018,1244464,Jardin de Jules 2018,3.6,235
-Les Costières de Pomerols,2021,2482713,Beauvignac Chardonnay 2021,3.8,36
-Château du Courlat,2018,1160298,Lussac-Saint-Émilion 2018,3.8,26
-El Angosto,2021,4523122,Soldadito Marinero 2021,4.0,46
-Lyrarakis,2018,1185271,Kotsifali 2018,3.5,691
-Quinta do Crasto,2020,45264,Flor de Crasto Tinto 2020,3.9,1069
-Doppio Passo,2021,1141907,Primitivo 2021,4.1,2677
-Les Volets,2020,3477784,Malbec 2020,3.9,94
-Les Volets,2020,9010098,Chenin Blanc 2020,3.9,65
-Simonsig,2020,91607,Cabernet Sauvignon - Shiraz 2020,3.5,56
-Cecchi,2020,4851841,Chianti Governo all'Uso 2020,3.8,287
-Cramele Recaş,2018,7194174,Solevari Reserve Fetească Regală 2018,3.7,54
-Cramele Recaş,2017,7132837,Solevari Reserve Fetească Neagră 2017,3.6,111
-Piccini,2020,6312499,Collezione Oro Chianti Superiore 2020,3.4,311
-Domaine de la Baume,2021,1207814,Chardonnay Les Vignes de Madame 2021,3.9,92
-Domaine de la Baume,2021,1160111,Sauvignon Blanc Les Mariés 2021,4.0,438
-Cantina Roccafiore,2020,2556362,Rosso Melograno 2020,3.6,35
-Piccini,2019,1565434,Collezione Oro Chianti Riserva 2019,3.7,1176
-Domaine de la Baume,2020,84395,Merlot Grand Châtaignier 2020,3.6,302
-Cantine due Palme,2020,1379154,Tenuta Albrizzi Cabernet Sauvignon - Primitivo 2020,3.8,395
-Domaine de la Baume,2020,5203938,Saint-Geniès Petit Verdot 2020,3.8,28
-Maison Roche de Bellene,2017,1205581,Chardonnay Bourgogne Vieilles Vignes 2017,3.8,675
-Cielo e Terra,2020,3559904,3 Passo Rosso 2020,4.0,153
-Velarino,2020,6800666,Malvasia Nera 2020,4.0,80
-Blanville,2020,6425115,Rosé 2020,3.7,46
-Sella & Mosca,2014,1284267,Acino M Monica di Sardegna 2014,3.3,50
-Maison Roche de Bellene,2017,1174567,Pinot Noir Bourgogne Vieilles Vignes 2017,3.7,1686
-Corte Giara,2021,1135872,Soave 2021,3.7,31
-Talamonti,2020,1162388,Moda' Montepulciano d'Abruzzo 2020,3.6,86
-Talamonti,2018,1162383,Trebì Trebbiano d'Abruzzo 2018,3.6,181
-Beyer Ranch,2020,5203637,Chardonnay 2020,3.5,29
-Beyer Ranch,2018,5207392,Cabernet Sauvignon 2018,3.8,199
-Domaine Bousquet,2021,779027,Cabernet Sauvignon 2021,3.5,57
-El Castilla,2020,10497799,Monastrell 2020,4.0,35
-Familia Torres,2021,2619,San Valentín Parellada 2021,4.2,978
-Jaume Serra,N.V.,1215754,Arte Latino Cava Brut N.V.,3.5,4327
-Barista,2021,1145241,Pinotage 2021,4.0,1242
-Bon Courage,2020,1181889,Chardonnay Prestige Cuvée 2020,4.0,99
-Nebla,2019,3246999,Garnacha 2019,3.7,294
-Esporão,2020,1105373,Monte Velho Branco 2020,3.7,883
-Planeta,2019,4991,La Segreta Il Bianco 2019,3.7,893
-Lenotti,2020,1126806,Colle dei Tigli Bianco del Veneto 2020,4.0,573
-Les Hauts de Palette,2018,2801913,Chateau Haut-Mondain Grande Réserve Bordeaux 2018,3.6,74
-Gran Passione,2021,1479859,Rosso Veneto 2021,3.8,123
-Château Lauduc,2019,6262206,L'Invincible 2019,3.8,136
-Les Hauts de Palette,2018,2801913,Chateau Haut-Mondain Grande Réserve Bordeaux 2018,3.6,74
-Gran Passione,2021,1479859,Rosso Veneto 2021,3.8,123
-Château Lauduc,2019,6262206,L'Invincible 2019,3.8,136
-Gravuras do Côa,2019,6733705,Reserva Branco 2019,4.0,25
-Raimat,2019,1145711,Abadia Cabernet Sauvignon - Tempranillo 2019,3.5,417
-Bodegas Pedro Escudero,2021,3317956,Finca Valdelagunde Cuveé Especial 2021,4.1,215
-Anne et Thierry Bonnel,2018,1173537,Leukadios Minervois 2018,3.6,43
-Librandi,2021,1150137,Cirò Bianco (Segno) 2021,3.8,61
-Marotti Campi,2021,1421682,Luzano Verdicchio dei Castelli di Jesi Classico Superiore 2021,3.6,42
-Château la Négly,2018,7172923,Asterides 2018,3.6,201
-Alphonse Kuentz,2018,1262920,Réserve Personnelle Riesling 2018,3.5,25
-Casa Ermelinda Freitas,2019,1247331,Sauvignon Blanc - Verdelho 2019,4.1,186
-Plaimont,2020,5941661,Le Gasconierre Côtes de Gascogne Blanc 2020,4.0,95
-Casa Charlize,2019,7378767,Toscana Rosso 2019,4.0,282
-Corte Giara,2018,1690882,Chardonnay delle Venezie 2018,3.6,152
-Paul Mas,2019,5280655,Saint Hilaire Vineyard Pinot Noir Réserve 2019,3.6,321
-Candidato,2018,74440,Tempranillo 2018,3.3,217
-Quercus,2020,1148828,Rebula 2020,3.7,108
-Quercus,2019,1642531,Sivi Pinot (Pinot Grigio) 2019,3.5,54
-Le Grand Noir,2021,2028607,Sauvignon Blanc 2021,3.7,86
-Château Clamens,2018,7321621,Négrette - Syrah 2018,3.9,111
-Duca di Saragnano,2021,8502434,Sangiovese Toscana Bianco 2021,3.8,106
-Boutique,2019,5242091,Merlot - Malbec 2019,3.8,37
-Cardamore,2018,7172456,Toscana Rosso 2018,4.0,68
-Whistling Duck,2020,4168450,Shiraz 2020,3.9,259
-Tampesta,2016,2539560,Albarín Blanco 2016,3.8,47
-Les Celliers de Meknès,2019,1220674,L'Excellence de Bonassia 2019,3.6,29
-Saint Peyre,2020,1489386,Viognier 2020,4.0,28
-Quinta do Monte Bravo,2017,1209292,Reserva 2017,3.7,46
-Abbotts & Delaunay,2021,4667264,Les Fruits Sauvages Grenache Rosé 2021,3.9,30
-Boccantino,2020,6640266,Primitivo - Susumaniello 2020,3.9,404
-Boccantino,2019,6693216,Negroamaro 2019,3.6,30
-Bonacchi,2017,4683855,II Vecchio Maestro Chianti Riserva 2017,4.0,157
-Nugan,2020,74050,Third Generation Chardonnay 2020,3.6,97
-Casa Silva,2020,18300,Colección Sauvignon Blanc 2020,3.8,73
-Santa Inés,2019,1138756,Classic Sauvignon  Blanc 2019,3.6,38
-Marques del Silvo,2017,8221477,Crianza 2017,3.9,620
-Le Grand Noir,2021,1137144,Chardonnay 2021,3.9,185
-De Chansac,2020,1241087,Sauvignon Blanc 2020,3.7,35
-Fabulas,2018,6349201,Fara Montepulciano d'Abruzzo 2018,3.8,337
-Biscardo,2021,4467790,Oropasso Garganega - Chardonnay 2021,3.9,84
-Les Jamelles,2020,1627137,Malbec 2020,4.1,415
-Codici,2020,5626633,Masserie Primitivo 2020,4.0,176
-Calalenta,2021,9250416,Pecorino 2021,4.1,147
-Feuerheerd's,N.V.,3420481,Fine Ruby Port N.V.,3.7,55
-Il Pumo,2020,4261501,Salice Salentino 2020,4.0,154
-Jaffelin,2020,2054407,Chardonnay 2020,3.8,42
-Bodegas Valdemar,2020,15491,Conde de Valdemar Blanco 2020,3.7,124
-Borsao Bodegas,2020,1216711,Barrica (Selección) 2020,3.6,104
-Honoro Vera,2021,4384249,Rosé 2021,3.8,47
-Le Grand Noir,2020,1141077,Pinot Noir 2020,3.8,666
-Calmel & Joseph,2020,4217416,Villa Blanche Pinot Noir 2020,3.6,147
-Cesari,2021,5690548,Pinot Grigio delle Venezie 2021,4.1,330
-Latentia Winery,2020,8470855,90 Novantaceppi Sauvignon Blanc 2020,3.8,52
-Nuviana,2018,1623884,Chardonnay 2018,3.7,973
-Murviedro,2015,6506072,Audentia Reserva 2015,3.6,46
-Paul Mas,2020,7035950,Nicole Vineyard Viognier Réserve 2020,3.8,499
-Honoro Vera,2021,4384249,Rosé 2021,3.8,47
-Borsao Bodegas,2020,1216711,Barrica (Selección) 2020,3.6,104
-Il Pumo,2020,4261501,Salice Salentino 2020,4.0,154
-De Chansac,2020,1241087,Sauvignon Blanc 2020,3.7,35
-Fabulas,2018,6349201,Fara Montepulciano d'Abruzzo 2018,3.8,337
-Calmel & Joseph,2021,1232028,Villa Blanche Chardonnay 2021,3.9,67
-Codici,2020,5626633,Masserie Primitivo 2020,4.0,176
-Calalenta,2021,9250416,Pecorino 2021,4.1,147
-Bodegas Valdemar,2020,15491,Conde de Valdemar Blanco 2020,3.7,124
-Jaffelin,2020,2054407,Chardonnay 2020,3.8,42
-Biscardo,2021,4467790,Oropasso Garganega - Chardonnay 2021,3.9,84
-Les Jamelles,2020,1627137,Malbec 2020,4.1,415
-Feuerheerd's,N.V.,3420481,Fine Ruby Port N.V.,3.7,55
-Cellaro,2021,1250018,Lumà Grillo 2021,4.1,77
-Luccarelli,2020,1162178,Negroamaro 2020,4.0,262
-Weingut R&A Pfaffl,2021,2288511,Grüner Veltliner vom Haus 2021,4.0,418
-Biscardo,2019,3347644,Neropasso Veneto Rosso 2019,4.0,434
-Matsu,2021,1169235,El Picaro 2021,3.8,520
-The Beefsteak Club,2019,5600608,Beef & Liberty Old vines Tempranillo 2019,3.6,64
-Le Pas de la Dame,2017,3111078,Rosa 2017,3.7,53
-Château de l'Hyverniere,2018,1202208,Muscadet Sèvre et Maine Sur Lie 2018,3.5,163
-Doppio Passo,2019,2365370,Fiano 2019,3.7,244
-Palazzo Mio,2020,2491920,Grillo 2020,3.5,45
-Bastioni della Rocca,2020,9335092,Leggero Appassimento Puglia 2020,4.0,439
-Entre Vinyes,2019,4353084,Oníric Rosat 2019,3.7,35
-Château du Cèdre,2020,3843261,Blandine Le Blanc 2020,3.5,27
-Ponte Lungo,2019,5898195,Armano Rosso 2019,3.9,497
-Whistling Duck,2020,1372673,Cabernet - Merlot 2020,3.7,58
-Geografico,2019,15342,Vernaccia di San Gimignano 2019,3.2,112
-Domaine de Miselle,2020,1165402,Colombard - Gros Manseng 2020,3.7,115
-Lenotti,2019,1134821,Capomastro 2019,3.7,100
-Castello di Radda,2019,2357636,Rosato 2019,3.7,29
-Wolfberger,2020,1145224,Pinot Gris Alsace Signature 2020,3.7,39
-Vignerons Ardéchois,2019,4647594,Luc Rosé 2019,3.9,29
-Mocavero,2019,1368629,Primitivo 2019,4.1,110
-Galil Mountain Winery (יקב הרי גליל),2019,82819,Cabernet Sauvignon 2019,3.6,178
-Hubert Beck,2018,1206609,Riesling 2018,3.8,61
-La Purisima,2019,4699404,Consentido Syrah 2019,3.7,66
-The Beefsteak Club,2020,3387637,Malbec 2020,3.7,27
-Lionel Osmin & Cie,2020,7798611,Les Villas Villa Côte d'Argent 2020,3.9,133
-Bodega Campo Eliseo,2019,1574516,Campesino 2019,3.8,41
-Les Producteurs Réunis,2020,7324252,Cuvée Dissenay Chardonnay 2020,3.7,588
-Tuna Club,2020,5500578,Verdejo - Sauvignon Blanc 2020,3.7,79
-Geografico,2020,5609265,Bosco del Grillo Governo 2020,4.1,120
-Domaine Preignes le Vieux - Maison Robert Vic,2021,5515677,Délicate Rosé 2021,3.9,26
-Roeno,2020,2917982,Le Fratte Chardonnay 2020,3.6,49
-Rabl,2020,3217492,Grüner Veltliner Löss 2020,3.6,61
-Latentia Winery,2020,8347028,90 Novantaceppi Montepulciano d'Abruzzo 2020,3.2,41
-Farnese,2018,21647,Fantini Casale Vecchio Montepulciano d'Abruzzo 2018,3.8,1051
-Pago de Cirsus,2021,2406559,Chardonnay 2021,3.7,34
-Petraio,2018,1411414,Sangiovese 2018,3.9,84
-Blanc Foussy,N.V.,2281634,Ice by Blanc Foussy Chardonnay Demi Sec N.V.,3.8,959
-Château Fontarabie,2019,1263117,Blaye - Côtes de Bordeaux 2019,3.7,365
-Atalaya,2021,1193347,Laya 2021,3.9,74
-Velenosi,2020,1146486,Rosso Piceno 2020,3.5,48
-Les Jamelles,2020,10556,Syrah 2020,3.9,302
-As Laxas,2020,1136115,Laxas Albarino 2020,3.9,363
-Cellaro,2021,2056820,Lumà Nero d'Avola 2021,3.8,33
-Arthur Metz,2019,1852042,Sylvaner Alsace 2019,3.7,150
-Château du Cèdre,2020,3802038,Marcel Malbec 2020,3.6,126
-Rapariga da Quinta,2019,1160854,Colheita Seleccionada Rouge 2019,3.8,446
-Cartuxa,2019,1165841,EA Tinto 2019,3.8,2068
-Latentia Winery,2019,6573119,90 Novantaceppi Nero Di Troia 2019,3.7,72
-Luca Rossi,2020,5123797,Maron Appassimento Rosso 2020,4.2,121
-Cantine Leonardo da Vinci,2018,7121988,Rocca di Cesena 2018,4.1,312
-Villa Conchi,N.V.,1285851,Cava Brut Selección N.V.,3.7,8829
-Feudi Salentini,2019,2387715,125 Uno Due Cinque Negroamaro del Salento 2019,4.0,131
-Bastioni della Rocca,2019,9335092,Leggero Appassimento Puglia 2019,4.1,2934
-Cabalié,2020,2011418,Cuvée Vieilles Vignes 2020,4.1,3237
-Biscardo,2021,6250375,Rosapasso Pinot Nero 2021,4.0,322
-Cantine Paradiso,2019,1978115,Posta Piana Negroamaro 2019,4.1,165
-Feuerheerd's,N.V.,5246935,Fine White Port N.V.,3.9,39
-La Gioiosa,N.V.,1164082,Prosecco N.V.,3.4,1480
-Rivera,2020,1725599,Primitivo Salento 2020,4.0,292
-Castillo de Aresan,2020,7763169,Tradición de Aresan Tempranillo - Cabernet Sauvignon - Petit Verdot 2020,4.0,746
-Entre Vinyes,2017,2467441,Oníric Xarel-Lo 2017,3.4,61
-Garamvári Szőlőbirtok,2018,5008588,Lellei Muskotály 2018,3.5,25
-Domaine Grains d'Estuaire,2019,7162849,Grains de Cocotte Merlot - Cabernet 2019,3.7,65
-Santa Inés,2019,3963768,Classic Cabernet Sauvignon 2019,3.4,49
-Le Grand Noir,2021,2576384,Rosé 2021,3.5,43
-Paul Mas,2020,6275207,Nicole Vineyard Chardonnay Réserve 2020,3.9,67
-Château Belair-Coubet,2019,2872419,Côtes de Bourg 2019,3.7,286
-Bodega Picos,2020,1837623,Gregoriano Roble 2020,3.8,34
-Lamblin & Fils,2020,1392673,Sauvignon 2020,3.7,26
-Tinazzi,2020,1182994,Ca' de' Rocchi Bardolino 2020,4.0,105
-Terrazul,2018,6333952,El Uru Tannat 2018,4.1,62
-Viña Marty,2019,4403912,Pacha Reserva Merlot 2019,3.4,91
-Viña Marty,2019,8377798,Pacha Carménère 2019,3.8,36
-Bon Courage,2016,2256240,Pinotage 2016,4.0,74
-Wolfberger,2020,1741813,Pinot Blanc Alsace Signature 2020,3.9,60
-Norbert Schmelzer,2020,5893499,Zweigelt Classic 2020,4.1,54
-Casa Ermelinda Freitas,2020,5837811,Rocksand Shiraz 2020,4.2,383
-Le Grand Noir,2020,8152983,Les Deux Aristos Cabernet Sauvignon 2020,4.1,806
-Gourmet Pere & Fils,2020,6369418,Moules en Folie Colombard - Sauvignon Blanc 2020,4.3,110
-Bodegas Vilano,2020,3973671,Black Edition 2020,4.1,295
-Domaine de la Baume,2021,1225470,Pinot Noir  Les Vignes d'Heloise Rosé 2021,3.7,55
-Reverdito,2019,2141014,Barbera d'Alba 2019,3.5,30
-Veedha,2019,1219673,Douro Red 2019,4.0,200
-Tarani,2018,1321024,Reserve Cahors Malbec 2018,3.0,59
-Naia,2020,2681082,S-Naia 2020,3.8,77
-Naia,2020,1160155,K-Naia 2020,3.9,591
-Karas,2019,1824814,White 2019,3.9,148
-Rex Mundi,2020,2687609,Shiraz - Grenache 2020,3.9,547
-Favaios,2020,6156924,Casa Velha Branco 2020,3.7,140
-Bastioni della Rocca,2020,8528334,Appassimento 2020,4.3,560
-Latentia Winery,2020,7412856,90 Novantaceppi Pinot Grigio 2020,3.7,82
-Nuviana,2018,1635972,Tempranillo - Cabernet Sauvignon 2018,3.8,2265
-Callia,2019,2739150,Lunaris Malbec 2019,3.8,286
-Les Producteurs Réunis,2019,7526678,Cuvée Dissenay Pinot Noir 2019,3.6,259
-Villa Teresa,N.V.,2071951,Frizzante Rosè N.V.,3.9,1396
-Velenosi,2020,1164751,Montepulciano d'Abruzzo 2020,3.7,39
-Clos Pons,2017,3288432,Jan Petit 2017,3.4,256
-Montes,2021,1151903,Reserva Chardonnay (Classic) 2021,3.7,184
-Montes,2021,1268490,Reserva Merlot (Classic) 2021,3.8,52
-Domaine de la Baume,2021,7088482,La Baume Rosé 2021,3.6,87
-Tinazzi,2020,7654156,Cantine San Giorgio Sentieri Infiniti Primitivo Puglia 2020,4.1,639
-Tinedo,2020,1391595,Ja! 2020,3.5,67
-El Castilla,2020,5915719,Syrah 2020,3.9,609
-Boccantino,2020,8471816,Nero di Troia - Primitivo 2020,3.8,85
-Domaine de la Baume,2021,7088482,La Baume Rosé 2021,3.6,87
-Montes,2021,1268490,Reserva Merlot (Classic) 2021,3.8,52
-Casella,2021,1144447,The Black Stump Durif - Shiraz 2021,4.1,725
-San Marzano,2021,4389543,Tramari Rosé di Primitivo 2021,4.0,171
-Zantho,2018,96384,Blaufränkisch 2018,3.8,102
-Aluado,2020,1497540,Alicante Bouschet 2020,4.0,1973
-Bodegas Albero,2018,5600727,Isabella Bobal 2018,3.9,196
-Paul Mas,2020,1141179,Vignes de Nicole Cabernet Sauvignon - Merlot Pays d'Oc 2020,3.7,816
-San Marzano,2020,1269032,I Tratturi Primitivo 2020,3.7,189
-Carmen,2020,4255257,Premier 1850 Reserva Carmenère 2020,4.0,76
-Bodega de Bardos,2021,6560205,Rueda Verdejo 2021,4.0,297
-Feuerheerd's,N.V.,3420491,Fine Tawny Port N.V.,3.7,280
-Cantine Paradiso,2019,1211634,Posta Piana Salice Salentino 2019,4.1,58
-Latentia Winery,2020,5831544,90 Novantaceppi Primitivo 2020,3.9,1804
-Baglio Gibellina,2020,1725436,U...Passimiento Rouge 2020,4.2,1039
-Raimat,2018,1145711,Abadia Cabernet Sauvignon - Tempranillo 2018,3.5,668
-Feuerheerd's,2019,7090736,Reserva Tinto 2019,4.1,133
-Gran Sasso,2020,5776482,Primitivo Puglia Edizione Limitata Terra Vera 2020,3.8,256
-Cesari,2018,2328413,Jùsto Rosso 2018,3.7,352
-Reunis de Cebazan,2021,2360425,Duo des Mers Sauvignon - Viognier 2021,3.9,26
-Proyecto Garnachas de España,2019,1393134,La Garnacha Salvaje del Moncayo 2019,3.8,461
-Pfaffenheim,2017,1680723,Tradition Pinot Blanc 2017,3.7,138
-Castello di Torre In Pietra,2021,2004203,Vermentino 2021,3.4,32
-One Chain,2016,1253466,The Wrong 'Un Shiraz - Cabernet Sauvignon 2016,3.5,208
-Álvarez y Díez,2021,2468679,Silga Verdejo 2021,3.6,37
-Laurent Miquel,2020,5370989,Solas Viognier 2020,3.8,58
-Viento Aliseo,2018,1895864,Tempranillo - Petit Verdot 2018,3.4,38
-Tempore,2020,8060412,Independent Organic Tempranillo 2020,3.6,52
-Domaine Romarion,2019,8386731,Extrait de Romarion Viognier 2019,3.9,63
-Laurent Miquel,2020,5057499,Solas Pinot Noir 2020,3.4,30
-Mas Fi,N.V.,1199785,Cava Brut N.V.,3.5,1218
-Veuve du Vernay,N.V.,4382335,Ice Rosé N.V.,4.0,4668
-Laurent Miquel,2019,5370987,Solas Chardonnay 2019,3.7,26
-Laurent Miquel,2017,8295690,Solas Réserve Syrah - Grenache 2017,3.5,33
-Domaines Astruc,2020,14308,Viognier 2020,3.8,40
-Luccarelli,2021,1162182,Primitivo 2021,3.8,68
-Velenosi,2019,1380817,Querciantica Verdicchio dei Castelli di Jesi Classico 2019,3.8,363
-La Prade Mari,2016,1189335,Chant de l'Olivier Minervois 2016,3.8,69
-Hacienda López de Haro,2020,3415961,Blanco 2020,3.6,81
-Tornai,2017,1555824,Furmint 2017,3.4,105
-Asconi,2020,4747638,Sol Negru Feteasca Alba 2020,4.0,38
-Beaurempart,2021,3178255,Grande Réserve Rouge 2021,4.1,35
-Painted Wolf,2020,1554077,The Den Chenin Blanc 2020,3.7,82
-Castelnau,2020,1902140,Picpoul de Pinet 2020,3.8,41
-Marc Isart,2019,4544709,'La Maldicion' Tinto de Valdilecha 2019,3.6,208
-Vinos de Rauda,2018,1685853,Tinto Roa Roble 2018,3.6,29
-Dalla Cia,2017,5447137,Private Blend 2017,3.6,43
-La Purisima,2019,2283507,Monastrell 2019,3.5,152
-Wittmann,2019,7139613,100 Hügel Rosé Trocken 2019,3.6,36
-Dilé,N.V.,3865827,Moscato N.V.,3.8,599
-Nyakas,2021,1147707,Budai Irsai Olivér 2021,3.8,91
-Château de Ricaud,2019,1710956,Bordeaux Blanc 2019,3.8,110
-Kaiken,2019,7632063,Estate Malbec 2019,3.8,2259
-De Moya,2020,2766217,Justina 2020,3.8,29
-Zuccardi,2021,1277166,Vida Orgánica Malbec 2021,3.4,36
-Heim,2019,1915435,Impérial Pinot Blanc 2019,3.7,54
-Zuccardi,2020,1227103,Vida Orgánica Chardonnay 2020,3.6,47
-Win,N.V.,2608679,Verdejo Frizzante N.V.,3.4,93
-Piccini,2020,8252900,Collezione Oro Toscana Rosato 2020,3.9,82
-Colli Vicentini,N.V.,1197733,Torre dei Vescovi Durello Lessini Spumante Brut N.V.,3.4,370
-Duchessa Lia,2020,1985539,Barbera del Monferrato Frizzante 2020,3.2,62
-Boekenhoutskloof,2017,1128584,The Wolftrap Rosé 2017,3.4,38
-Boekenhoutskloof,2020,1128584,The Wolftrap Rosé 2020,3.4,33
-Boekenhoutskloof,2019,1154329,The Wolftrap White Blend 2019,3.5,342
-Les Vignerons de Buzet,2018,1324316,Château du Bouchet Buzet 2018,3.2,42
-Weingut R&A Pfaffl,2021,3978878,Zweigelt vom Haus 2021,3.9,40
-Caparzo,2019,77499,Sangiovese Toscana 2019,3.9,3568
-Caparzo,2020,77499,Sangiovese Toscana 2020,3.7,45
-Vigneti del Salento,2018,2549198,Primitivo - Merlot Zolla 2018,4.0,731
-Aurelie Vic,2020,2008677,La Balade Minervois 2020,4.1,66
-Piccini,N.V.,10247524,Pinocchio Rosso N.V.,3.8,345
-Vignobles Meyre,2016,6571661,Château La Fleur Bibian Listrac-Médoc 2016,3.7,35
-Masciarelli,2021,1255672,Rosato Colline Teatine 2021,3.3,29
-Villiera,2018,1251346,Down to Earth Red (Touriga Nacional - Shiraz) 2018,3.4,56
-Aristocratico,2020,3960464,Appassimento 2020,4.0,1095
-Montes,2019,1268490,Reserva Merlot (Classic) 2019,3.7,669
-Joao Portugal Ramos,2020,1169767,Reserva Tinto 2020,3.7,202
-Joao Portugal Ramos,2019,1169767,Reserva Tinto 2019,3.8,371
-Montes,2020,71374,Reserva Cabernet Sauvignon (Classic) 2020,3.8,697
-Hacienda El Espino,2020,8721094,Garnacha Tintorera Organic 2020,3.3,302
-Pierrick Harang,2020,2528782,Le Bio Balthazar Minervois Syrah - Grenache Noir 2020,3.6,115
-Colle Corviano,2020,5131192,Montepulciano d'Abruzzo 2020,3.8,68
-Salentein,2018,1539157,Portillo Tempranillo 2018,3.4,216
-Feudo Arancio,2020,1191231,Dalila Riserva 2020,4.0,146
-Sonoroso,2018,8737426,Dark 2018,4.0,107
-D'Alamel,2018,6404750,Reserva Chardonnay 2018,3.6,107
-Clavel,2019,1244031,Les Garrigues Coteaux du Languedoc 2019,3.8,104
-La Carraia,2020,82606,Sangiovese Umbria 2020,3.7,94
-Azul Portugal,2016,1640288,Reserva Douro Tinto 2016,3.9,40
-Paul Mas,2020,6937140,Vignes de Nicole Rouge 2020,3.9,192
-Saint Peyre,2021,1233598,Chardonnay 2021,4.1,89
-Kaiken,2018,8357155,Estate Cabernet Sauvignon 2018,3.6,966
-Bodegas Pedro Escudero,2021,8145514,Finca Valdelagunde Sauvignon Blanc 2021,4.1,39
-Paul Mas,2020,24045,Viognier 2020,3.7,26
-Calmel & Joseph,2020,1637892,Villa Blanche Syrah 2020,3.8,61
-d'Arenberg,2017,1126874,The Stump Jump Shiraz 2017,3.4,911
-Les Jamelles,2020,10552,Viognier 2020,3.7,205
-Montes,2020,1149590,Reserva Sauvignon Blanc (Classic) 2020,3.6,302
-Cuatro Pasos,2020,1258529,Pizarras de Otero Mencia 2020,3.8,226
-Salentein,2019,1253408,Portillo Pinot Noir 2019,3.6,1564
-Montespina,2021,2482875,Verdejo 2021,3.7,118
-Epicuro,2020,1246167,Primitivo 2020,3.8,270
-Cecchi,2017,1920452,Chianti Riserva 2017,3.8,161
-Duchessa Lia,2020,1208375,Barbera d'Asti 2020,3.3,133
-Babylon's Peak,2021,6675469,Busy Bee Red Blend 2021,3.6,31
-MAN,2019,1844272,Pinotage (Bosstok) 2019,3.5,184
-Olivares,2021,2263226,Rosado 2021,3.6,36
-Cantine due Palme,2020,1946584,Don Cosimo Primitivo 2020,3.7,83
-MAN,2020,1844272,Pinotage (Bosstok) 2020,3.6,92
-Babylon's Peak,2021,6262153,Busy Bee Chenin Blanc - Roussanne 2021,3.8,69
-Le Paradou,2020,9847054,Cinsault 2020,3.7,56
-Villa des Anges,2020,7249882,Réserve 2020,4.1,468
-Cecchi,2021,12128,La Mora Morellino di Scansano 2021,3.7,126
-Villiera,2019,1376432,Down to Earth White (Sauvignon Blanc - Sémillon) 2019,3.7,45
-Venta La Vega - Bodegas Almanseñas,2021,7377040,Adaras Lluvia 2021,4.0,42
-Poderi dal Nespoli,2020,4437192,Campodora Romagna Albana Secco 2020,3.6,36
-Château de Millet,2020,1561954,Gros Manseng Moelleux 2020,4.1,32
-Poderi dal Nespoli,2019,1176528,Nespolino Sangiovese 2019,3.6,209
-Poderi dal Nespoli,2020,1830352,Pagadebit di Romagna 2020,3.7,63
-Anselmo Mendes,2021,1246384,Muros Antigos Escolha 2021,3.9,148
-Vignobles Meyre,2016,1363376,Château les Hauts de Veyrin Listrac-Médoc 2016,3.3,25
-Cecchi,2018,4809734,La Mora Maremma Toscana Rosso 2018,3.7,171
-Montemercurio,2014,1365609,Tedicciolo 2014,3.8,67
-Marotti Campi,2021,1292711,Rubico Lacrima di Morro d’Alba 2021,3.8,26
-Cantine Birgi,2020,5320333,Trisole Nerello Mascalese 2020,3.5,55
-Kaiken,2020,9355003,Estate Chardonnay 2020,3.6,177
-Cantine Birgi,2020,9417585,Trisole Nero d'Avola 2020,3.8,97
-Guerrieri Rizzardi,2021,8414345,Keya Rosé 2021,4.0,47
-Cielo e Terra,2021,7247915,3 Passo Bianco 2021,3.9,54
-Cantine Paradiso,2019,1243188,Posta Piana Primitivo 2019,4.1,696
-Paul Mas,2019,1230607,Cha Cha-Cha Chardonnay 2019,3.7,68
-Barista,2021,2724407,Chardonnay 2021,3.9,247
-d'Arenberg,2019,1224439,The Stump Jump White Blend 2019,3.9,91
-Masottina,N.V.,1168470,Prosecco Extra Dry N.V.,3.8,1157
-Banfi,2019,22910,Centine Rosso 2019,3.7,892
-Cottas,2018,4402317,Branco 2018,3.6,28
-Domaine de la Baume,2020,84394,Syrah La Jeunesse 2020,3.8,267
-Domaine de la Baume,2017,5358460,Cabernet Sauvignon 2017,3.7,114
-Varvaglione,2020,2612292,12 e Mezzo Malvasia del Salento 2020,3.7,177
-Salentein,2020,1977856,Portillo Sauvignon Blanc 2020,3.7,541
-Ziobaffa,2019,2694831,Toscana 2019,4.0,203
-Varvaglione,2021,2612292,12 e Mezzo Malvasia del Salento 2021,3.8,26
-Misty Cove,2021,2123384,Estate Series Sauvignon Blanc 2021,4.2,836
-19 Crimes,2020,8206102,Chard 2020,3.8,1109
-Bodegas Valdemar,2020,1815410,Conde de Valdemar Rosado 2020,3.5,70
-Domaine de la Baume,2020,1207814,Chardonnay Les Vignes de Madame 2020,3.7,299
-Parés Baltà,2021,13480,Penedès Parellada - Xarel-lo - Macabeo Blanc De Pacs 2021,3.8,49
-Warwick,2018,1204355,The First Lady Cabernet Sauvignon 2018,3.7,592
-Bodegas Valdemar,2021,1815410,Conde de Valdemar Rosado 2021,3.4,34
-Fatascia,2020,1161895,Nero d'Avola 2020,3.8,147
-Varvaglione,2020,1454761,12 e Mezzo Primitivo del Salento 2020,3.9,669
-Marchese de Petri,2020,5209556,Villa Luisa  Montepulciano d'Abruzzo 2020,3.4,27
-Marchese de Petri,2021,1443268,Villa Luisa Pinot Grigio 2021,3.5,50
-Marchese de Petri,2021,1309915,Villa Luisa Primitivo 2021,3.6,44
-Dark Horse,2018,4263387,Rosé 2018,3.4,871
-Naia,2021,1160155,K-Naia 2021,3.8,313
-Dark Horse,2019,1273892,Chardonnay 2019,3.5,1407
-Cottas,2018,1394472,Tinto 2018,3.6,86
-Bodegas Valdemar,2021,1815410,Conde de Valdemar Rosado 2021,3.4,34
-Corette,2019,1146291,Cabernet Sauvignon 2019,3.6,27
-Langmeil,2018,1692047,Spring Fever Chardonnay 2018,3.8,87
-Domaine de la Baume,2019,84395,Merlot Grand Châtaignier 2019,3.7,298
-Tornai,2020,1865314,Zenit 2020,3.6,38
-Cantine Paradiso,2019,8371609,Posta Piana Fiano - Greco 2019,3.5,27
-Jean-Luc Colombo,2020,1124302,Côtes du Rhône Les Abeilles de Colombo Blanc 2020,3.4,27
-Dark Horse,2018,3242596,Sauvignon Blanc 2018,3.6,865
-Dark Horse,2018,2457025,Cabernet Sauvignon 2018,3.7,3988
-Salentein,2019,1176148,Portillo Merlot 2019,3.5,452
-Salentein,2019,1163679,Portillo Chardonnay 2019,3.5,454
-Banfi,2020,22914,Le Rime (Pinot Grigio - Chardonnay) 2020,3.8,556
-Coutada Velha,2021,6396432,Branco 2021,4.1,275
-Josselin,2020,2062426,Chardonnay - Terret 2020,3.9,55
-Varvaglione,2019,1432306,12 e Mezzo Negroamaro del Salento 2019,3.8,297
-Montes,2019,1165612,Reserva Malbec 2019,3.7,403
-Ziobaffa,2021,4212639,Pinot Grigio 2021,3.8,81
-Coutada Velha,2021,6396432,Branco 2021,4.1,275
-Langmeil,2019,1692047,Spring Fever Chardonnay 2019,3.6,54
-Mezzacorona,2020,1441956,Castel Firmian Lagrein Trentino 2020,4.0,47
-Anarkos,2018,82641,Puglia Rosso (Accademia dei Racemi) 2018,3.8,402
-Quinta das Setencostas,2018,1182922,Tinto 2018,3.8,311
-Casa Santos Lima,2017,5232081,Dalamquer Alenquer Tinto 2017,3.8,31
-Cabriz,2020,1148721,Dão Colheita Seleccionada White 2020,3.7,1312
-Cabriz,2021,1148721,Dão Colheita Seleccionada White 2021,3.8,179
-Gaía,2019,82640,Nótios Red 2019,3.5,26
-Familia Conesa,2018,4713508,La Doncella de las Viñas Tempranillo 2018,3.6,67
-Gaía,2020,1770872,Notios White 2020,3.8,163
-Carmen,2019,4255257,Premier 1850 Reserva Carmenère 2019,3.8,287
-Rickety Bridge,2016,1123176,The Foundation Stone Red Blend 2016,3.4,49
-Quinta do Carmo,2018,6039933,Dom Martinho Branco 2018,3.5,50
-Warwick,2016,1204355,The First Lady Cabernet Sauvignon 2016,3.6,1367
-Notte Rossa,2019,8995933,Aglianico 2019,3.8,25
-Welsh Brothers,N.V.,1378007,Medium Dry Madeira N.V.,3.3,43
-Calalenta,2021,6980867,Rosato 2021,4.1,154
-Nittnaus,2021,1149096,Grüner Veltliner Selection 2021,4.0,75
-Bacca Nera,2020,1206690,Negroamaro - Primitivo Salento 2020,3.8,335
-Casalforte,N.V.,1973260,Prosecco Extra Dry N.V.,3.4,4564
-Celler del Roure,2021,1604486,Cullerot 2021,3.9,108
-Amalaya,2021,1177446,Blanco (Torrontés - Riesling) 2021,4.0,286
-Le Secret des Capitelles,2016,1172634,Saint-Chinian 2016,3.6,83
-Santa Rita,2017,3351991,Medalla Real Gold Medal (Limited Edition) Cabernet Sauvignon 2017,3.9,2042
-Château Mayne Guyon,2018,1201035,Blaye - Côtes de Bordeaux 2018,3.8,373
-Corette,2020,2137499,Syrah 2020,3.6,31
-Jordan Wines,2019,2045806,Chameleon Sauvignon Blanc - Chardonnay 2019,3.5,80
-Piteira,2019,6817275,José Piteira Tinto 2019,3.9,91
-Vinos Sanz,2021,1156211,Montesol Rueda 2021,3.9,30
-Domaine Pré Baron,2021,1186183,Sauvignon Touraine 2021,4.0,30
-Douloufakis,2019,1253595,Enotria Red 2019,3.5,152
-Ca’ del Baio,2021,99741,101 Moscato d'Asti 2021,4.2,30
-Poncho Criollo,2019,1782693,Malbec 2019,3.7,312
-Banfi,2019,22913,Col di Sasso (Cabernet Sauvignon - Sangiovese) 2019,3.6,1371
-Château les Pins,2018,5876910,Les Petits Pins Côtes du Roussillon Villages 2018,3.7,79
-Château de la Vieille Tour,2017,1224888,Bordeaux Supérieur 2017,3.6,67
-Domaine Girard,2019,1257241,Malepère 2019,3.9,38
-La Bollina,2018,7030657,Papios Rosso 2018,4.0,310
-Stonedance,2017,4545497,Shiraz 2017,3.3,47
-Querientes,2016,4058324,Roble 2016,3.7,52
-Vinovalie,2019,5676307,Sang Mêlé 2019,4.0,565
-Clemens Busch,2019,1555674,Riesling Trocken 2019,3.8,355
-Domaine Claire Clavel,2019,1565463,Régulus Côtes-du-Rhône Rouge 2019,3.8,137
-Celler Credo,2020,8399763,And The Winner Is... 2020,3.6,148
-Pago de Cirsus,2020,2406559,Chardonnay 2020,3.8,188
-Ca’ del Baio,2020,99726,Lodoli Dolcetto d'Alba 2020,3.7,49
-Freixa Rigau,N.V.,1154691,Familia Oliveda Cava Brut Rosado N.V.,3.8,216
-Domaine de la Baume,2020,1163295,Viognier Elisabeth 2020,4.0,1020
-Santadi,2020,17963,Villa Solais Vermentino di Sardegna 2020,3.7,325
-PavoNero,2021,9240568,Primitivo di Manduria 2021,3.9,89
-Casa Silva,2021,18298,Colección Chardonnay 2021,3.8,84
-Gere,2020,1210034,Portugieser 2020,3.5,120
-Lenotti,2021,1126806,Colle dei Tigli Bianco del Veneto 2021,3.9,65
-Doppio Passo,2021,7275007,Grillo 2021,3.6,265
-Quinta Dona Mafalda,2019,6353184,Little Mafalda 2019,4.0,116
-Doppio Passo,2021,1665268,Primitivo Rosato 2021,4.1,1425
-Tenuta Castiglioni,2020,21002,Chianti 2020,3.7,1582
-Cusumano,2021,71214,Insolia 2021,3.5,34
-Cusumano,2021,7415733,Lucido 2021,3.6,73
-Allendorf,2018,1465704,Save Water Drink Riesling Dry 2018,3.7,369
-Riff,2021,4086930,Pinot Grigio 2021,3.4,104
-Joan Sardà,2021,1537006,Blanc Mariner 2021,3.6,145
-El Perdiguero,2019,1857097,Barrica 2019,4.0,136
-Vinovalie,2020,5702349,Terre Métissée Red Blend 2020,4.2,160
-Astoria,N.V.,5692680,Extra Dry Rosé N.V.,3.4,65
-Notte Rossa,2019,4672921,Negroamaro di  Terra d'Otranto 2019,3.8,261
-Baron de Ley,2019,1152010,Club Privado Tinto 2019,3.6,768
-Santadi,2021,17963,Villa Solais Vermentino di Sardegna 2021,3.8,110
-Moonlight & Roses,2021,6298001,Coteaux d'Aix-en-Provence Rosé 2021,3.8,113
-Bernard Magrez,2017,1411224,Jamais Renoncer Côtes du Roussillon 2017,3.8,405
-V8+,N.V.,1595786,Sior Berto Cuvée Brut N.V.,3.4,885
-Quinta de Ramozeiros,2018,1224733,Branco 2018,3.2,31
-Château les Rambauds,2018,7540414,Les Abeilles Bordeaux 2018,3.6,56
-Casal Farneto,2020,5621670,Frida Passerina 2020,3.5,32
-Château Auzias,2017,7773313,Instinct Terrien 2017,3.7,35
-Telmo Rodriguez,2021,63154,Basa Blanco 2021,3.8,132
-Villa Folini,2021,1488357,Ribolla Gialla 2021,3.6,80
-Integro,2021,6328313,Primitivo 2021,4.0,28
-Palazzo Malgara,2017,1390442,Primitivo 2017,3.7,71
-Montes,2019,1246861,Twins Red Blend (Malbec - Cabernet Sauvignon) 2019,3.8,422
-Villa Teresa,N.V.,1228914,Prosecco N.V.,3.8,2016
-Mandrarossa,2021,47814,Nero d'Avola 2021,3.7,75
-Delheim,2021,1797045,Pinotage Rosé 2021,3.6,166
-Mandrarossa,2021,1268771,Grecanico Dorato Costadune 2021,3.8,25
-Les Frères Laffitte,2020,6210835,Domaine Laffitte Blanc Demi Sec 2020,3.8,77
-False Bay,2018,2116786,Peacock Wild Ferment Merlot 2018,3.3,77
-False Bay,2019,2335316,Peacock Wild Ferment Cabernet Sauvignon 2019,3.3,77
-False Bay,2019,1297985,Peacock Wild Ferment Syrah 2019,3.5,39
-Fassati,2018,1166826,Selciaia Rosso di Montepulciano 2018,3.3,42
-Fabulas,2020,6721750,Malvasia 2020,3.7,75
-Cecchi,2020,12126,Natio Chianti 2020,3.7,52
-Cantine Volpi,2021,1165743,Boira' Sangiovese 2021,3.7,29
-Rapariga da Quinta,2018,1160854,Colheita Seleccionada Rouge 2018,3.9,1281
-Cantele,2020,1683625,Verdeca 2020,3.8,66
-Montalto,2019,1682526,Vinha da Malhada Branco 2019,3.8,32
-Bastide du Claux,2019,1517695,Malacare 2019,3.9,32
-Salentein,2019,1147628,Portillo Malbec 2019,3.7,6464
-Famille Perrin,2021,2116840,Luberon 2021,3.7,71
-Clos St. Thomas,2018,96106,Les Gourmets Rouge 2018,3.5,113
-Château les Vignals,2017,1999722,Tradition Rouge 2017,3.6,33
-Heim,2019,2209046,Imperial Riesling 2019,3.7,32
-Tabali,2018,6013649,Pedregoso Gran Reserva Chardonnay 2018,3.5,79
-Domaine Saint-Georges d'Ibry,2019,1181134,Excellence Rouge 2019,4.0,54
-Corette,2020,1152565,Pinot Noir 2020,3.6,42
-Cantine Volpi,2020,1165743,Boira' Sangiovese 2020,3.6,699
-Warwick,2021,1382382,The First Lady Chardonnay 2021,3.5,104
-Cecchi,2020,2951670,La Mora Merlot 2020,3.6,240
-Villa Poggio Salvi,2020,1292691,Caspagnolo Chianti dei Colli Senesi 2020,3.3,128
-Salentein,2020,1147628,Portillo Malbec 2020,3.7,3906
-Rodríguez de Vera,2019,2200683,Jumenta 2019,3.6,52
-Banfi,2021,5509443,Badalei Vermentino Toscana 2021,3.6,53
-Herdade da Calada,2019,1781887,Vale da Calada Tinto 2019,3.9,120
-Rotkäppchen,N.V.,2759866,Alkoholfrei Rosé N.V.,3.1,152
-Fassati,2019,2192668,Le Gaggiole Chianti 2019,3.3,29
-Bolla,2021,7749,Pinot Grigio delle Venezie 2021,3.7,84
-Fattoria dei Barbi,2020,1196113,Chianti 2020,3.7,58
-Clama,2014,2319308,Tinto 2014,3.7,271
-Banfi,2021,22914,Le Rime (Pinot Grigio - Chardonnay) 2021,3.6,96
-Terre del Barolo,2018,5829559,Barbera d'Alba 2018,3.5,366
-Velenosi,2018,1160025,Brecciarolo Rosso Piceno Superiore 2018,3.7,668
-Carpineto,2020,1119837,Dogajolo Toscana Bianco 2020,3.7,234
-Carpineto,2019,6193,Chianti Castaldo 2019,3.6,47
-Carpineto,2019,6209,Toscana Dogajolo Rosso 2019,3.8,1872
-Bernard Magrez,2018,1369079,Ariès 2018,3.6,338
-Tormaresca,2020,7097701,Nèprica Cabernet Sauvignon 2020,3.6,27
-Cottini Stile Naturale,2021,8550148,Bardolino Chiaretto 2021,3.6,35
-Astoria,N.V.,3645138,Yu Sushi Sparkling N.V.,3.4,787
-Corte Giara,2020,1251497,Bardolino 2020,3.4,35
-Château Petit Mouta,2018,5422552,Cuvée Beausoleil  Graves 2018,3.2,33
-Lungarotti,2019,65314,Sangiovese Umbria 2019,3.7,250
-Lungarotti,2020,65314,Sangiovese Umbria 2020,3.5,46
-Bodegas Enguera,2016,76965,Cañada Negra 2016,3.7,46
-Domaine Jean-Paul Paquet & Fils,2018,1138116,Domaine Les Vieux Murs Pouilly-Fuissé 2018,3.8,44
-Notte Rossa,2020,2506003,Salice Salentino 2020,3.7,78
-Casa d'Ambra,2021,1810446,Falanghina Campania 2021,4.0,56
-Inessa,2020,10079953,Nerello Cappuccio 2020,3.6,120
-Montelvini,N.V.,4413697,Collezione Promosso Extra Dry N.V.,3.2,1046
-Alvi's Drift,2021,2277721,Sauvignon Blanc 2021,3.7,56
-Chemin des Géants,2019,8058361,Alicante - Syrah 2019,3.8,80
-Colossal,2018,4301235,Reserva 2018,3.8,401
-Domaines Astruc,2018,2022376,Réserve Pinot Noir 2018,3.6,53
-Château de Ribebon,2016,5422695,Secret de Ribebon Bordeaux 2016,4.0,25
-Maison Roche de Bellene,2018,6319859,Bellenos Cuvée Blanc 2018,3.7,138
-Barbi,2017,1361611,Orvieto Classico Secco 2017,3.9,49
-Tormaresca,2019,6874886,Nèprica Negroamaro 2019,3.6,648
-Guerrieri,2020,1418106,Bianchello del Metauro 2020,3.9,102
-Château la Négly,2019,1624643,L'Oppidum Chardonnay 2019,3.6,35
-Barbi,2018,1361611,Orvieto Classico Secco 2018,3.4,29
+Winery,Year,Wine ID,Wine,Rating,num_review,Country,Region,Price
+Barón,N.V.,1979160,Atalaya Manzanilla N.V.,3.1,78,spain,manzanilla,4.25
+Feudo Arancio,2019,1144138,Nero d'Avola Sicilia 2019,3.7,816,italy,sicilia,4.45
+Feudo Arancio,2019,8312,Grillo Sicilia 2019,3.6,819,italy,sicilia,4.45
+Pasos de la Capula,2019,1247622,Tempranillo 2019,3.1,37,spain,castilla-la-mancha,4.77
+Château Coustaut la Grangeotte,2018,1237094,Bordeaux Rouge 2018,3.8,297,france,bordeaux,4.95
+Cielo e Terra,2021,1149079,Pinot Grigio Blush 2021,3.9,97,italy,della-venezie,4.95
+Cielo e Terra,2021,1220803,Pinot Grigio 2021,3.7,40,italy,della-venezie,4.95
+Yvecourt,2019,1454982,Bordeaux 2019,3.5,166,france,bordeaux,4.95
+Cielo e Terra,2020,1220803,Pinot Grigio 2020,3.6,165,italy,della-venezie,4.95
+Oude Kaap,2021,1144482,Chenin Blanc 2021,3.4,76,south-africa,western-cape,5.0
+Laurent Truffer,N.V.,7521044,Sparkling Muscat Blanc Sans Alcohol N.V.,4.0,56,france,provence,5.25
+Zenato,2016,1862920,Pinot Grigio 2016,3.7,915,italy,della-venezie,5.25
+Oude Kaap,2020,1144481,Reserve Collection Chardonnay 2020,3.6,33,south-africa,western-cape,5.33
+Vigneti del Salento,2020,1694750,Puglia I Muri Bianco 2020,3.6,117,italy,puglia,5.45
+Antares,2020,1133235,Carmenère 2020,3.6,120,chile,central-valley,5.49
+Rovisco Pais,2021,4068883,Península de Setúbal Branco 2021,3.9,31,portugal,terras-do-sado,5.5
+Cave des Vignerons de Saint-Saturnin,2020,5012136,Pont Neuf Prestige Collection Blanc 2020,3.4,35,france,vin-de-pays-de-mediterranee,5.5
+Toso,N.V.,1161347,Moscato Dolce Spumante N.V.,3.7,935,italy,piedmont,5.5
+Les 5 Vallées,2021,5009361,Rosé 2021,3.7,37,france,vin-de-pays-vignobles-de-france,5.5
+Tarani,2020,1198055,Malbec 2020,3.6,144,france,comte-tolosan,5.65
+Tarani,2021,1161331,Gamay Rosé 2021,3.6,74,france,comte-tolosan,5.65
+Tarani,2020,1166463,Cabernet Sauvignon 2020,3.3,249,france,comte-tolosan,5.65
+Tarani,2021,1162801,Sauvignon 2021,3.7,48,france,comte-tolosan,5.65
+Călușari,2020,1298257,Pinot Noir 2020,3.6,52,romania,recas,5.75
+Pierre Zero,N.V.,7432367,Chardonnay Alcohol Free N.V.,3.4,565,france,vin-de-pays-de-mediterranee,5.75
+Les 5 Vallées,2020,3462978,Sauvignon Blanc 2020,3.2,46,france,vin-de-pays-vignobles-de-france,5.79
+Terrai,2020,2321919,OVG Old Vine Garnacha 2020,3.7,111,spain,carinena,5.88
+Luccarelli,2020,3384194,Rosso Puglia 2020,3.9,575,italy,puglia,5.88
+Vigneti del Salento,2021,1694750,Puglia I Muri Bianco 2021,3.7,27,italy,puglia,5.88
+Sun Gate,2020,4481148,Red Zinfandel 2020,3.5,199,united-states,california,5.9
+Baglio Gibellina,2019,4915032,Sogno del Sud Merlot 2019,3.5,43,italy,sicily,5.95
+Tikveš,2018,6799216,Cuvée Methodius 2018,3.5,62,macedonia,tikve,5.95
+Babylon's Peak,2020,6675469,Busy Bee Red Blend 2020,3.7,102,south-africa,swartland,5.95
+Neleman,2020,2743977,Organic Tempranillo - Monastrell 2020,3.6,681,spain,comunitat-valenciana,5.95
+Terre del Noce,2021,1177747,Pinot Grigio Dolomiti 2021,3.9,254,italy,vigneti-delle-dolomiti,5.95
+Vigneti del Salento,2018,7970533,I Muri Rosso 2018,3.8,89,italy,puglia,5.95
+Marcel Martin,2020,1414636,Cuvée Mademoiselle Merlot 2020,3.4,96,france,vin-de-pays-doc,5.95
+Villa San Martino,2020,7996052,Le Rive Pinot Grigio 2020,3.3,25,italy,,5.95
+La Gioiosa,N.V.,5532647,Il Giallo Frizzante Bianco N.V.,3.2,453,italy,veneto,5.95
+Esteio,N.V.,1261595,Vinho Rosé N.V.,3.7,215,portugal,beiras,5.95
+Pacheco,2018,2374316,Estancia del Silencio Monastrell Organic 2018,3.4,122,spain,jumilla,5.95
+Toso,N.V.,5358504,Sprintoso Moscato Spumante N.V.,3.8,1087,italy,piedmont,5.95
+La Mura,2018,5959572,Pinot Grigio 2018,3.5,136,italy,sicily,5.95
+Casa Ermelinda Freitas,2020,6304212,Vinha da Fonte Touriga Nacional 2020,4.0,358,portugal,terras-do-sado,5.95
+Bodegas Latúe,2019,1377834,Clearly Organic Tempranillo 2019,3.2,109,spain,castilla-la-mancha,5.95
+Bodegas Latúe,2019,3867449,Clearly Organic Airén - Sauvignon Blanc 2019,3.6,58,spain,castilla-la-mancha,5.95
+Viña Marty,2019,8961806,Chaka Carmenere 2019,3.7,62,chile,central-valley,5.95
+Cape Dream,2020,1234879,Pinotage 2020,3.6,36,south-africa,western-cape,5.95
+Drostdy-Hof,2017,76866,Chenin Blanc (Steen) 2017,3.0,61,south-africa,stellenbosch,5.95
+Adega Cooperativa de Borba,2019,80242,Alentejano Convento Da Vila 2019,3.6,1456,portugal,alentejo,5.95
+Tsantali,N.V.,1166512,Retsina N.V.,2.6,1279,greece,macedonia,5.99
+Cuatro Rayas,2019,2482538,Pecatis Tuis Verdejo 2019,3.5,51,spain,castilla-and-leon,5.99
+Kleindal,2019,1682567,Chenin Blanc 2019,3.6,43,south-africa,robertson,5.99
+Félix Solís,2020,1323253,Viña San Juan Tinto 2020,3.7,121,spain,la-mancha,5.99
+Pierre Jean,2020,1146985,Colombard - Chardonnay 2020,3.4,32,france,cotes-de-gascogne,5.99
+Cuatro Rayas,2018,2897549,Pecatis Tuis Roble Tempranillo 2018,3.3,35,spain,castilla-and-leon,5.99
+Kiwi Cuvée,2020,1396731,Bin 086 Sauvignon Blanc 2020,3.6,109,france,vin-de-pays-vignobles-de-france,6.05
+Kiwi Cuvée,2020,2291445,Bin 068 Chardonnay 2020,3.8,28,france,vin-de-pays-vignobles-de-france,6.25
+Les Vignerons de Buzet,2016,1221510,Roches d'Hillac 2016,3.3,43,france,buzet,6.32
+Oliveda,2021,1852945,Clos Primat Blanco 2021,3.5,40,spain,empord,6.35
+False Bay,2021,5799675,Slow Chenin Blanc 2021,3.6,55,south-africa,stellenbosch,6.4
+False Bay,2020,5660787,Old School Syrah 2020,3.6,137,south-africa,stellenbosch,6.4
+Allegranza,2019,7421117,Single Vineyard Tempranillo 2019,3.8,28,spain,la-mancha,6.44
+Vigneti del Salento,2021,1694813,Primitivo I Muri 2021,4.0,87,italy,puglia,6.44
+Cielo e Terra,2020,2384703,Primitivo Puglia Primasole 2020,3.8,809,italy,puglia,6.44
+Conte di Campiano,2019,1174468,Sangiovese del Conte 2019,3.8,147,italy,rubicone,6.44
+Paul Mas,2020,24050,Rosé de Syrah 2020,3.7,158,france,vin-de-pays-doc,6.44
+Paul Mas,2020,1208816,Cabernet Sauvignon 2020,3.4,26,france,vin-de-pays-doc,6.44
+Vigneti del Salento,2020,1694823,Negroamaro I Muri 2020,3.8,175,italy,puglia,6.44
+Viñedos y Bodegas Muñoz,2020,1224694,Legado Muñoz  Tempranillo 2020,3.6,135,spain,castilla-la-mancha,6.45
+Kiwi Cuvée,2020,1579129,Bin 518 Pinot Noir 2020,3.7,92,france,vin-de-pays-vignobles-de-france,6.45
+Quintela,2019,1295585,Tinto 2019,3.6,338,portugal,douro,6.49
+Tsantali,N.V.,1188695,Imiglykos White N.V.,3.4,137,greece,macedonia,6.49
+Pirovano,2020,1144238,Montepulciano d'Abruzzo 2020,3.3,110,italy,montepulciano-dabruzzo,6.49
+De Bortoli,2019,1826709,DB Family Selection Shiraz - Cabernet 2019,3.4,637,australia,riverina,6.5
+False Bay,2020,5803451,Whole Bunch Cinsault - Mourvèdre Rosé 2020,3.5,132,south-africa,coastal-region,6.5
+Barramundi,2019,7352547,Cabernet sauvignon 2019,3.5,39,australia,south-eastern,6.5
+Jaume Serra,N.V.,1151570,Cava Brut N.V.,3.5,12565,spain,cava,6.5
+The Iconic Estate,2019,1595391,La Umbra Pinot Noir 2019,3.2,48,romania,vin-de-romania,6.5
+Casa Santos Lima,2019,6597115,Bons Ventos Rouge 2019,3.8,331,portugal,estremadura,6.5
+Altos del Condor,2021,2168066,Chardonnay 2021,3.5,44,argentina,mendoza,6.5
+Borgo Molino,2021,6312782,Ciari Pinot Grigio 2021,3.9,70,italy,venezia,6.5
+The Iconic Estate,2020,1240670,La Umbra Merlot 2020,3.5,39,romania,vin-de-romania,6.5
+Sedosa,2019,2303534,Tempranillo - Syrah 2019,3.5,44,spain,castilla-la-mancha,6.5
+Quinta dos Currais,2020,1525716,Síria 2020,3.8,37,portugal,beira-interior,6.5
+False Bay,2020,5812856,Crystalline Chardonnay 2020,3.6,111,south-africa,western-cape,6.5
+Eisberg,N.V.,5311174,Sauvignon Blanc ALcohol Free N.V.,2.6,163,united-kingdom,england,6.5
+Altos del Condor,2020,9522744,Cabernet Sauvignon - Malbec 2020,3.4,383,argentina,lujan-de-cuyo,6.5
+False Bay,2019,6941497,Bush Vine Pinotage 2019,3.7,138,south-africa,coastal-region,6.5
+Altos del Condor,2021,1950537,Malbec 2021,3.3,264,argentina,mendoza,6.5
+Light Live,N.V.,1267178,Sparkling Rosé N.V.,2.9,87,germany,,6.55
+Claude Val,2020,1207933,Rouge 2020,3.7,807,france,vin-de-pays-doc,6.65
+Claude Val,2021,2655208,Rosé 2021,3.9,120,france,languedoc-roussillon,6.65
+Deakin Estate,2018,1949,Cabernet Sauvignon 2018,3.4,100,australia,murray-darling,6.65
+Piccini,2021,1598405,Chianti 2021,3.6,280,italy,chianti,6.66
+Cristo de la Vega,2020,8530727,Torre de Vejezate Verdejo 2020,3.5,41,spain,la-mancha,6.69
+Cristo de la Vega,2020,2769622,Torre de Vejezate Tempranillo 2020,3.2,55,spain,vino-de-mesa,6.69
+Finca Flichman,2016,1130422,Aberdeen Angus Chardonnay 2016,2.8,72,argentina,mendoza,6.7
+Luc Pirlet,2020,2357363,Classique Syrah Rosé 2020,3.5,166,france,vin-de-pays-doc,6.75
+Spier,2021,75141,Discover Rosé 2021,3.8,54,south-africa,western-cape,6.75
+Spier,2021,75141,Discover Rosé 2021,3.8,54,south-africa,western-cape,6.75
+Bodega del Segura,2019,9892068,Amalinda Monastrell 2019,3.5,37,spain,alicante,6.75
+Land Lust,2020,4621088,Rivaner - Weisser Burgunder Trocken 2020,3.5,96,germany,rheinhessen,6.75
+Domaine Guillaman,2021,8141041,Colombard - Sauvignon 2021,3.7,27,france,cotes-de-gascogne,6.75
+Paul Mas,2020,1656481,Merlot 2020,3.8,64,france,vin-de-pays-doc,6.75
+Quinta dos Currais,2018,1538949,Tinto 2018,3.9,169,portugal,beira-interior,6.75
+Luc Pirlet,2020,2066850,Classique Merlot 2020,3.1,26,france,,6.75
+Paul Mas,2020,24043,Sauvignon Blanc 2020,3.7,250,france,vin-de-pays-doc,6.75
+Bodegas Care,2020,6213594,Trio Red Blend 2020,3.7,162,spain,carinena,6.75
+Today's Special,2020,2220763,Appassimento 2020,3.9,34,italy,puglia,6.81
+Patrizi,2019,3159906,Passo del Bricco 2019,3.9,53,italy,piedmont,6.81
+Gayda,2017,1123298,T'Air D'Oc Syrah 2017,3.2,100,france,vin-de-pays-doc,6.85
+Fonvène,2020,2270082,Rouge 2020,3.6,26,france,ardeche,6.9
+Estandon,2021,1573929,Gris des Seigneurs Rosé 2021,3.9,71,france,var,6.9
+Gravuras do Côa,2021,4872512,Branco 2021,3.8,25,portugal,douro,6.9
+Weinhaus Gebruder Steffen,2019,8641989,Mrs. White Blanc de Noir 2019,3.3,51,germany,mosel-saar-ruwer,6.95
+Monte Blanco,2017,3393772,Sauvignon Blanc 2017,3.0,86,chile,rapel-valley,6.95
+Fox Grove,2020,1170977,Shiraz - Cabernet Sauvignon 2020,3.8,1069,australia,south-eastern,6.95
+Vinorganic,2020,5624888,Merlot 2020,3.7,93,italy,sicilia,6.95
+Viña Marty,2020,1577090,Love White 2020,3.5,122,chile,central-valley,6.95
+Plaimont,2020,1471108,Jean des Vignes Côtes de Gascogne Rouge 2020,3.6,76,france,cotes-de-gascogne,6.95
+Casa Silva,2020,1786993,Cabernet Sauvignon Rosé 2020,3.5,35,chile,colchagua-valley,6.95
+Maison de La Villette,2019,4986601,Merlot 2019,3.4,56,france,vin-de-pays-vignobles-de-france,6.95
+Denis Marchais,2020,1436730,Chardonnay 2020,3.4,28,france,vin-de-pays-vignobles-de-france,6.95
+Château du Vieux Parc,2018,1666755,Les Amandiers 2018,3.6,35,france,,6.95
+Isidro Milagro,2018,3413319,Sal de Fiesta La Mona 2018,3.8,459,spain,rioja,6.95
+Danubiana,2020,7649985,Is This It ? Pinot Blanc 2020,3.7,104,hungary,dl-pannnia,6.95
+Finca La Escondida,2019,4832820,Malbec Rosé 2019,3.6,53,argentina,,6.95
+Luc Pirlet,2020,2065405,Classique Sauvignon 2020,3.6,56,france,vin-de-pays-doc,6.95
+Casa Ermelinda Freitas,2021,5792360,Vinha do Torrão Branco 2021,3.9,135,portugal,terras-do-sado,6.95
+Viña Oria,2018,5296272,Tempranillo - Garnacha Rosé 2018,3.4,32,spain,carinena,6.95
+Weinhaus Gebruder Steffen,2018,8584719,Mr. Red Cuvée Noir 2018,3.2,28,germany,,6.95
+Plaimont,2021,8846940,Colombelle Colombard - Sauvignon 2021,3.9,61,france,cotes-de-gascogne,6.95
+Maison de La Villette,2019,3545582,GSM 2019,3.9,98,france,vin-de-pays-vignobles-de-france,6.95
+Poderi dal Nespoli,2020,1205653,Nespolino Rubicone Sangiovese - Merlot 2020,3.7,49,italy,rubicone,6.95
+Stemmari,2020,1262350,Grillo 2020,3.7,117,italy,sicilia,6.95
+Bellingham,2021,1510616,Pear Tree Chenin Blanc 2021,3.4,36,south-africa,paarl,6.95
+Gayda,2019,1561701,Flying Solo Grenache - Syrah 2019,3.5,297,france,languedoc-roussillon,6.95
+Paul Mas,2020,24053,Syrah 2020,3.7,121,france,languedoc-roussillon,6.95
+Toso,N.V.,1158709,Asti N.V.,3.5,222,italy,asti,6.95
+Spier,2021,75137,Discover Chenin Blanc - Chardonnay 2021,3.8,47,south-africa,western-cape,6.95
+Borsao Bodegas,2020,5889525,Clásico Garnacha 2020,3.5,241,spain,campo-de-borja,6.95
+Terre del Noce,2020,1649049,Merlot Dolomiti 2020,4.0,96,italy,vigneti-delle-dolomiti,6.95
+Domaine du Petit Romain,2018,1169762,Grande Réserve Vieilles Vignes Costières-de-Nîmes 2018,3.8,49,france,costieres-de-nimes,6.95
+Maison de La Villette,2020,3952478,Cabernet Sauvignon 2020,3.7,28,france,vin-de-pays-vignobles-de-france,6.95
+Château Saint-Florin,2015,1976801,Bordeaux Rouge 2015,3.4,114,france,bordeaux,6.95
+Rimbaldi,2019,1178170,Montepulciano d'Abruzzo 2019,3.6,63,italy,montepulciano-dabruzzo,6.95
+Gayda,2020,1608398,Flying Solo Grenache Blanc - Viognier 2020,3.3,34,france,languedoc-roussillon,6.95
+Torre Oria,2019,8611631,Casablanca Viñas Viejas Monastrell 2019,4.0,1141,spain,comunitat-valenciana,6.95
+Tenute Quattro Conti,2019,6886993,Tre Forte Rosso 2019,3.8,185,italy,puglia,6.95
+Spier,2020,75137,Discover Chenin Blanc - Chardonnay 2020,3.6,58,south-africa,western-cape,6.95
+Casa Ermelinda Freitas,2021,8010741,Túlipa Rosé 2021,3.7,96,portugal,terras-do-sado,6.95
+Fox Grove,2021,1188909,Chardonnay - Sémillon 2021,3.8,188,australia,south-eastern,6.95
+Domaine de Laguille,2017,2187295,Ugni Blanc - Colombard 2017,3.7,34,france,cotes-de-gascogne,6.95
+Barrique d'Or,2020,3500822,Chardonnay 2020,3.8,27,france,vin-de-pays-vignobles-de-france,6.95
+Viña Marty,2019,2237204,Love Red 2019,3.4,188,chile,central-valley,6.95
+Cuatro Rayas,2021,1588014,Dama del Lago Verdejo 2021,3.2,112,spain,rueda,6.95
+Marcel Martin,2020,2043000,Cuvée Mademoiselle Sauvignon Blanc 2020,3.4,38,france,vin-de-pays-vignobles-de-france,6.95
+Joya,2019,4753969,Tinto 2019,3.7,124,portugal,estremadura,6.95
+Drostdy-Hof,2018,76861,Cabernet Sauvignon 2018,3.4,79,south-africa,stellenbosch,6.95
+Vinorganic,2020,5742235,Chardonnay 2020,3.7,172,italy,sicilia,6.95
+Zenato,2019,1134059,Bianco di Custoza 2019,3.7,148,italy,bianco-di-custoza,6.95
+Vistamar,2020,1173842,Brisa Merlot 2020,3.2,39,chile,central-valley,6.95
+Feudo Arancio,2021,8312,Grillo Sicilia 2021,3.8,110,italy,sicilia,6.95
+Sinzero,2020,6531124,Cabernet Sauvignon Alcohol Free 2020,2.3,35,chile,maipo-valley,6.95
+Feudo Arancio,2020,1144138,Nero d'Avola Sicilia 2020,3.8,799,italy,sicilia,6.95
+Viña Oria,2018,1627117,Macabeo 2018,3.3,28,spain,carinena,6.95
+Zenato,2021,1134059,Bianco di Custoza 2021,3.3,56,italy,bianco-di-custoza,6.95
+Feudo Arancio,2021,1457986,Rosato 2021,3.7,84,italy,sicily,6.95
+Tavernello,2019,6626374,Organico Sangiovese 2019,3.6,203,italy,rubicone,6.95
+Grizzly Bear,2020,2214830,Zinfandel Rosé 2020,4.4,45,united-states,us-central-valley,6.95
+Trapiche,2019,1153745,Astica Sauvignon Blanc - Semillon 2019,3.3,88,argentina,mendoza,6.95
+Maison de La Villette,2018,3545582,GSM 2018,3.7,170,france,vin-de-pays-vignobles-de-france,6.95
+Hacienda López de Haro,2018,1224522,Crianza 2018,3.7,2406,spain,rioja,6.95
+Maestro Italiano,2019,2410781,Gran Maestro Appassimento Rosso 2019,3.8,629,italy,puglia,6.95
+Vigneti del Vulture,2021,1221185,Greco - Fiano Basilicata Pipoli 2021,4.0,95,italy,basilicata,6.95
+Domaine du Tariquet,2020,1255174,Côtes De Gascogne Classic 2020,3.6,1526,france,cotes-de-gascogne,6.95
+Grizzly Bear,2019,1428392,Zinfandel 2019,3.6,68,united-states,us-central-valley,6.95
+Casa Silva,2021,1228056,Cabernet Sauvignon - Carmenère 2021,3.9,153,chile,colchagua-valley,6.95
+Vigneti del Salento,2020,1694813,Primitivo I Muri 2020,3.7,399,italy,puglia,6.95
+Sun Gate,2020,1707162,Chardonnay 2020,3.5,70,united-states,california,6.95
+Alvi's Drift,2020,3274971,Merlot 2020,3.5,83,south-africa,breede-river-valley,6.99
+Vila Real,2020,4719690,Branco 2020,3.5,25,portugal,douro,6.99
+Félix Solís,2020,3349567,Casa Albali Tempranillo - Shiraz 2020,3.6,74,spain,valdepenas,6.99
+Il Pumo,2020,2215571,Sauvignon - Malvasia 2020,3.7,675,italy,lecce,6.99
+Barramundi,2019,4026076,Shiraz - Petit Verdot 2019,3.5,71,australia,south-eastern,6.99
+Barramundi,2019,4297740,Chardonnay - Viognier 2019,3.4,77,australia,south-eastern,6.99
+JP Azeitão,2020,5282434,Tinto 2020,3.6,2011,portugal,terras-do-sado,6.99
+JP Azeitão,2020,1260566,Branco 2020,3.6,52,portugal,terras-do-sado,6.99
+Las Condes,2019,1151414,Sauvignon Blanc 2019,3.6,166,chile,rapel-valley,6.99
+Las Condes,2019,1151413,Merlot 2019,3.0,42,chile,rapel-valley,6.99
+Las Condes,2019,2120791,Chardonnay 2019,3.4,58,chile,central-valley,6.99
+Alvi's Drift,2019,1785912,Pinotage 2019,3.6,182,south-africa,breede-river-valley,6.99
+Alvi's Drift,2019,2035817,Cabernet Sauvignon 2019,3.4,32,south-africa,breede-river-valley,6.99
+Quinta da Raza,2021,2594102,Blanco 2021,4.0,69,portugal,basto,6.99
+Dominio de Eguren,2020,1207654,Protocolo Tinto 2020,3.6,101,spain,castilla-la-mancha,6.99
+JP Azeitão,2021,1214830,Rosé 2021,3.7,106,portugal,terras-do-sado,6.99
+Danubiana,2020,8555323,Is This It? Grüner Veltliner 2020,3.7,538,hungary,dl-pannnia,6.99
+Félix Solís,2018,1459483,Viña San Juan Blanco (Chardonnay - Verdejo - Viura) 2018,3.6,342,spain,la-mancha,6.99
+Epicuro,2019,1132802,Montepulciano d'Abruzzo 2019,3.7,115,italy,montepulciano-dabruzzo,6.99
+Vila Real,2017,1695575,Tinto 2017,3.5,228,portugal,douro,6.99
+Spier,2020,1166220,Discover Pinotage - Shiraz 2020,3.8,333,south-africa,western-cape,6.99
+Claude Val,2020,2405659,Blanc 2020,3.9,549,france,vin-de-pays-doc,6.99
+Il Pumo,2019,4259533,Chardonnay 2019,3.7,73,italy,puglia,6.99
+False Bay,2019,5660787,Old School Syrah 2019,3.5,272,south-africa,stellenbosch,6.99
+Il Pumo,2019,2215571,Sauvignon - Malvasia 2019,3.7,913,italy,lecce,6.99
+Alvi's Drift,2019,1376034,Shiraz 2019,3.5,121,south-africa,breede-river-valley,6.99
+Alvi's Drift,2021,1696412,Chenin Blanc 2021,3.7,86,south-africa,breede-river-valley,6.99
+Crane Lake,2017,87412,Cabernet Sauvignon 2017,3.3,174,united-states,california,6.99
+Il Pumo,2020,1973766,Negroamaro 2020,3.8,1058,italy,lecce,6.99
+Château Auzias,2017,6837452,Montagne Noire 2017,3.5,220,france,cite-de-carcassonne,7.0
+Deakin Estate,2021,1955,Moscato 2021,3.7,47,australia,murray-darling,7.0
+Mas des Tannes,2020,1846063,Les Tannes en Occitanie Sauvignon Blanc 2020,3.6,80,france,vin-de-pays-doc,7.0
+Pierre Zero,N.V.,2841715,Rosé Alcohol Free N.V.,2.9,90,france,languedoc,7.1
+Cantine due Palme,2019,1854521,Montecoco Salice Salentino Rosso 2019,3.7,27,italy,salice-salentino,7.16
+Bellingham,2020,6885216,Big Oak Shiraz 2020,3.6,115,south-africa,coastal-region,7.19
+Bodegas Pedro Escudero,2021,5656512,Valdelagunde Verdejo 2021,4.1,504,spain,rueda,7.24
+Horgelus,2019,3102964,Côtes de Gascogne Tannat - Merlot 2019,3.5,26,france,cotes-de-gascogne,7.25
+Laurent Miquel,2021,1317399,Vendanges Nocturnes (Classic) Rosé 2021,3.7,29,france,vin-de-pays-doc,7.25
+Mas des Tannes,2020,1210652,Les Tannes en Occitanie Cabernet Sauvignon 2020,3.4,83,france,vin-de-pays-doc,7.25
+False Bay,2021,5812856,Crystalline Chardonnay 2021,3.4,28,south-africa,western-cape,7.25
+Viñedos y Bodegas Muñoz,2021,5630258,Legado Muñoz Macabeo - Verdejo 2021,4.1,48,spain,la-mancha,7.25
+Vigneti del Salento,2019,8835170,Ritorna Tre Autoctoni Rosso 2019,3.9,428,italy,lecce,7.25
+Tarapacá,2021,1147777,Sauvignon Blanc 2021,3.2,126,chile,central-valley,7.25
+Cantina di Montalcino,2018,5788631,Poggio del Sasso Chianti 2018,3.3,43,italy,chianti,7.25
+False Bay,2020,6941497,Bush Vine Pinotage 2020,3.5,120,south-africa,coastal-region,7.25
+Tavera,2018,4664863,Tempranillo - Syrah Roble 2018,3.9,31,spain,mentrida,7.25
+Tarapacá,2017,4348902,Syrah 2017,3.3,194,chile,central-valley,7.25
+Tarapacá,2021,4348861,Merlot 2021,3.6,52,chile,central-valley,7.25
+Maestro Italiano,2020,5014335,Gran Maestro Appassimento Bianco 2020,3.5,25,italy,puglia,7.25
+Tarapacá,2021,4348851,Carmenère 2021,3.7,75,chile,central-valley,7.25
+UDACA,2019,4778950,Dom Divino Branco 2019,3.6,32,portugal,dao,7.25
+Laurent Miquel,2019,2272749,Vendanges Nocturnes (Classic) Rouge 2019,3.7,98,france,languedoc-roussillon,7.25
+False Bay,2021,5960444,Windswept Sauvignon Blanc 2021,3.7,80,south-africa,western-cape,7.25
+Château Camplong,2019,1410974,Peyres Nobles Rouge 2019,3.8,94,france,corbieres,7.25
+Esporão,2020,5571292,Bico Amarelo 2020,3.7,2747,portugal,vinho-verde,7.25
+Zenato,2021,1862920,Pinot Grigio 2021,3.8,280,italy,della-venezie,7.25
+Château Pech-Céleyran,2015,1522598,Cuvée Ombline Rouge 2015,3.5,37,france,languedoc,7.25
+Geografico,2021,1308767,Borgo Alla Terra Vernaccia di San Gimignano 2021,3.9,36,italy,vernaccia-di-san-gimignano,7.29
+Dreams,2018,7457590,Heaven Can Wait Cabernet Sauvignon 2018,3.5,37,moldova,md-moldova,7.3
+Duc de Foix,N.V.,1143697,Cava Brut N.V.,3.5,765,spain,cava,7.3
+The Listening Station,2020,1232573,Chardonnay 2020,3.8,161,australia,western-australia,7.31
+The Listening Station,2020,1524112,Malbec 2020,3.7,217,australia,western-australia,7.31
+Stemmari,2020,9795363,Decorato Bianco 2020,4.2,40,italy,sicilia,7.31
+Les Vignerons,2020,2069768,La Vocation Vermentino - Colombard 2020,3.4,120,france,vin-de-pays-vignobles-de-france,7.35
+Veuve du Vernay,N.V.,1136289,Brut N.V.,3.6,6696,france,vin-de-pays-vignobles-de-france,7.35
+de Gras,2019,11814,Estate Cabernet Sauvignon 2019,3.6,36,chile,central-valley,7.35
+Lan,2020,1244860,Duquesa De Valladolid Verdejo Rueda 2020,3.9,334,spain,rueda,7.35
+Cantele,2017,2121117,Telero Rosso 2017,3.3,51,italy,puglia,7.35
+Cecilia Beretta,2020,73379,Pinot Grigio Venezie (Grigio Luna) 2020,3.8,154,italy,venezia,7.35
+Zenato,2020,1862920,Pinot Grigio 2020,3.6,565,italy,della-venezie,7.36
+Zenato,2021,1127741,Bardolino Chiaretto 2021,3.7,62,italy,bardolino,7.36
+Cielo e Terra,2020,3994983,Appassionante 2020,4.2,119,italy,veneto,7.36
+Maison de La Villette,2020,3946189,Chardonnay 2020,3.9,198,france,vin-de-pays-vignobles-de-france,7.36
+Domaine Bousquet,2020,1310572,Malbec 2020,3.8,879,argentina,tupungato,7.36
+Vigneti del Vulture,2019,1172823,Pipoli Aglianico del Vulture 2019,3.8,167,italy,aglianico-del-vulture,7.36
+False Bay,2021,5803451,Whole Bunch Cinsault - Mourvèdre Rosé 2021,3.6,50,south-africa,coastal-region,7.37
+False Bay,2021,6941497,Bush Vine Pinotage 2021,3.2,29,south-africa,coastal-region,7.37
+Vanitá,2019,4995914,Nero d'Avola (Organico) 2019,3.6,416,italy,sicily,7.38
+Philibert du Charme,2020,2837235,Reserve Spéciale Chardonnay 2020,4.0,276,france,vin-de-pays-doc,7.38
+Black's Devil,2020,6208224,Negroamaro - Zinfandel 2020,3.6,47,italy,puglia,7.38
+Vanitá,2020,4995914,Nero d'Avola (Organico) 2020,3.8,191,italy,sicily,7.38
+Kiwi Cuvée,2020,5394262,Bin 69 Pinot Noir 2020,3.7,175,france,vin-de-pays-vignobles-de-france,7.45
+Leth,2021,1230681,Duett 2021,3.8,32,austria,donauland,7.45
+La Sastrería,2020,5424817,Garnacha Rosé 2020,3.8,279,spain,carinena,7.45
+La Sastrería,2020,2811594,Garnacha Roble 2020,3.9,878,spain,carinena,7.45
+Sollione,2020,1595205,Salento Primitivo 2020,3.7,105,italy,lecce,7.45
+De Bortoli,2019,1206751,Lorimer Chardonnay 2019,3.4,32,australia,riverina,7.45
+De Bortoli,2020,1955215,Lorimer Sémillon - Chardonnay 2020,3.5,50,australia,riverina,7.45
+Pierrick Harang,2019,1246952,Le Petit Balthazar Merlot 2019,3.2,70,france,vin-de-pays-doc,7.45
+Pago de Cirsus,2020,1169553,Oak Aged Red Blend 2020,3.7,136,spain,comunidad-foral-de-navarra,7.45
+Lindeman's,2020,1232701,Winemaker's Release Chardonnay 2020,3.7,156,australia,south-eastern,7.45
+Tavernello,2018,5710373,Organic Syrah 2018,3.4,48,italy,sicily,7.45
+De Bortoli,2018,1316236,Lorimer Shiraz 2018,3.5,34,australia,riverina,7.45
+Deakin Estate,2020,1950,Merlot 2020,3.6,54,australia,murray-darling,7.45
+Fabulous Ant,2019,1321324,Pinot Noir 2019,3.2,34,hungary,tolna,7.45
+Zenato,2020,1127790,Bardolino 2020,3.6,204,italy,bardolino,7.45
+Leth,2021,5291000,Grüner Veltliner Terrassen 2021,4.1,140,austria,niederosterreich,7.45
+Pierrick Harang,2020,1654145,Le Petit Balthazar Viognier - Sauvignon Blanc 2020,3.6,63,france,vin-de-pays-doc,7.45
+Vigneti del Vulture,2020,1221185,Greco - Fiano Basilicata Pipoli 2020,3.8,259,italy,basilicata,7.45
+Rivera,2021,1273903,Fedora Castel del Monte 2021,3.7,38,italy,castel-del-monte,7.45
+De Bortoli,2019,1213100,Lorimer Shiraz - Cabernet 2019,3.8,94,australia,riverina,7.45
+Poderi dal Nespoli,2020,6840579,Nespolino Trebbiano - Chardonnay 2020,3.5,42,italy,emilia-romagna,7.49
+Barramundi,2019,5628433,Pinot Noir 2019,3.4,107,australia,south-eastern,7.49
+Campo di Marzo,2020,1515740,Negroamaro 2020,3.9,86,italy,puglia,7.49
+Bodegas Faustino,2020,1129392,VII Tempranillo 2020,3.7,1878,spain,rioja,7.49
+McPherson,2021,1119885,Pickles McPherson Sauvignon Blanc 2021,4.0,84,australia,south-eastern,7.49
+El Castilla,2020,6534862,Viura - Chardonnay 2020,4.1,401,spain,vino-de-mesa,7.49
+Mont Gravet,2021,4907198,Grande Cuvée Sauvignon Blanc Côtes de Gascogne 2021,4.1,28,france,cotes-de-gascogne,7.49
+Dominio de Eguren,2020,5990837,Protocolo Organic Tempranillo 2020,3.7,39,spain,castilla-la-mancha,7.5
+Santiago 1541,2018,2420873,Sauvignon Blanc 2018,3.5,67,chile,central-valley,7.5
+Domaine St Félix,2019,5105739,Cuvée Pierre Martin Rouge 2019,3.8,36,france,languedoc-roussillon,7.5
+Oliveda,2020,1503539,Blanc de Blancs 2020,3.4,47,spain,empord,7.5
+De Bortoli,2018,1561676,DB Family Selection Shiraz 2018,3.5,135,australia,riverina,7.5
+Tudernum,2019,21633,Le Lucrezie Umbria Sangiovese 2019,3.5,117,italy,umbria,7.5
+De Bortoli,2017,1248010,DB Family Selection Chardonnay 2017,3.3,139,australia,riverina,7.5
+Stemmari,2020,2484230,Pinot Noir 2020,3.7,205,italy,sicilia,7.5
+La Gascogne d'Alain Brumont,2021,16037,Gros Manseng - Sauvignon 2021,3.7,65,france,gascony,7.5
+Win,N.V.,4410652,Tempranillo De-alcoholised N.V.,2.4,171,spain,ribera-del-duero,7.5
+Sacchetto,2021,1140854,L'Elfo Pinot Grigio 2021,4.0,139,italy,veneto,7.5
+Cellaro,2018,7601358,Lumà Rosso 2018,3.5,77,italy,sicily,7.5
+Clos Montblanc,2020,1755178,Castell Macabeu - Chardonnay 2020,3.8,27,spain,comunidad-autnoma-de-catalua,7.5
+Purato,2020,1782073,Nero d'Avola 2020,3.6,356,italy,sicily,7.5
+Borges,2020,1137819,Meia Encosta 2020,3.5,295,portugal,dao,7.5
+Borges,2021,4417863,Meia Encosta Dão Branco 2021,3.5,80,portugal,dao,7.5
+Geografico,2019,5609265,Bosco del Grillo Governo 2019,4.0,1169,italy,tuscany,7.5
+Masseria Borgo dei Trulli,2020,5104813,Vermentino 2020,3.4,153,italy,lecce,7.5
+Paul Mas,2020,24046,Vermentino 2020,4.0,43,france,vin-de-pays-doc,7.5
+Cantina Tollo,2020,16815,Rocca Ventosa Montepulciano d'Abruzzo 2020,3.3,353,italy,montepulciano-dabruzzo,7.5
+El Coto,2021,8617,Blanco 2021,3.6,845,spain,rioja-alta,7.5
+Oliveda,2020,2137074,Negre Jove 2020,3.7,72,spain,empord,7.5
+Rovisco Pais,2020,74724,Península de Setúbal Reserva Tinto 2020,4.1,1070,portugal,terras-do-sado,7.5
+Pacifico Sur,2020,1697828,Chardonnay 2020,3.7,26,chile,,7.5
+Dominio de Eguren,2020,6249820,Protocolo Organic White 2020,3.3,27,spain,castilla-la-mancha,7.5
+Mas des Tannes,2020,1460466,Les Tannes en Occitanie Merlot 2020,3.4,53,france,vin-de-pays-doc,7.5
+Quinta do Estanho,N.V.,1801496,Fine White Porto N.V.,3.5,74,portugal,,7.5
+Paul Mas,2020,2646842,Marsanne 2020,3.8,68,france,languedoc-roussillon,7.5
+Grande Crevette,2021,5317993,Sauvignon Blanc 2021,3.6,30,france,languedoc-roussillon,7.5
+Miopasso,2020,1197274,Primitivo 2020,3.6,196,italy,puglia,7.5
+Dominio de Eguren,2020,9716845,Protocolo Organic Rosé 2020,3.4,66,spain,castilla-la-mancha,7.5
+Oliveda,2021,1503539,Blanc de Blancs 2021,3.7,41,spain,empord,7.5
+Domaine St Félix,2021,1249830,Cuvée Pierre Martin Rosé 2021,3.7,35,france,languedoc-roussillon,7.5
+Baccolo,2020,6670829,Appassimento Parziale 2020,4.0,159,italy,veneto,7.55
+Baccolo,2021,7412839,Appassimento Parziale Bianco 2021,3.6,75,italy,puglia,7.55
+Vesevo,2021,1229067,Falanghina Beneventano 2021,3.7,26,italy,falanghina-del-beneventano,7.59
+Rovisco Pais,2020,7360751,Reserva Branco 2020,3.8,109,portugal,terras-do-sado,7.6
+Bodegas Care,2021,7472718,Tinto Sobre Lías Garnacha - Syrah 2021,4.0,56,spain,carinena,7.6
+Boekenhoutskloof,2020,1154329,The Wolftrap White Blend 2020,3.5,391,south-africa,franschhoek,7.6
+Laurent Miquel,2021,100143,Père et Fils Chardonnay - Viognier 2021,4.0,44,france,languedoc-roussillon,7.6
+Laurent Miquel,2021,100144,Père et Fils Cinsault - Syrah 2021,3.8,70,france,vin-de-pays-doc,7.6
+Bodegas Care,2021,7588998,Blanco Sobre Lías 2021,3.6,133,spain,carinena,7.6
+Clos Montblanc,2018,5660031,Proyecto Cu4tro Blanco 2018,3.2,41,spain,comunidad-autnoma-de-catalua,7.61
+Terra Linda,2020,6522172,Viura - Chardonnay 2020,3.9,680,spain,vino-de-mesa,7.65
+Terra Linda,2021,5912258,Syrah 2021,4.1,65,spain,la-mancha,7.65
+Carmen,2020,1996367,Insigne Carmenère 2020,3.7,35,chile,rapel-valley,7.65
+Pagos de Aráiz,2017,2449553,Joven 2017,3.5,57,spain,comunidad-foral-de-navarra,7.65
+Cantina Zaccagnini,2018,1182301,Kasaura Montepulciano d'Abruzzo 2018,3.6,77,italy,,7.65
+El Coto,2018,2034549,Rosado 2018,3.3,459,spain,rioja,7.65
+Esporão,2020,1105372,Monte Velho Tinto 2020,3.7,2786,portugal,alentejano,7.65
+Esporão,2021,1105373,Monte Velho Branco 2021,3.8,459,portugal,alentejano,7.65
+Rietvallei,2019,1955773,John B Cabernet Sauvignon - Tinta Barocca 2019,3.4,42,south-africa,robertson,7.7
+Vinaria din Vale,2019,7228085,7 Coline Saperavi - Malbec 2019,3.9,83,moldova,md-moldova,7.7
+Rueda Perez,2021,1221797,Jose Galo Verdejo 2021,4.0,124,spain,rueda,7.7
+Villa di Mare,2021,7009371,Pinot Grigio 2021,3.6,47,italy,sicily,7.74
+José Maria da Fonseca,2014,1597392,Alambre Moscatel de Setúbal 2014,3.9,240,portugal,peninsula-of-setubal,7.75
+Dubicz,2021,4836886,Irsai Olivér 2021,3.8,33,hungary,matra,7.75
+Mas des Tannes,2020,1307241,Les Tannes en Occitanie Chardonnay 2020,3.5,37,france,vin-de-pays-doc,7.75
+Sacchetto,2021,1273878,Pinot Grigio Blush 2021,4.2,46,italy,della-venezie,7.75
+Nebla,2021,1207089,Verdejo 2021,3.6,95,spain,castilla-and-leon,7.75
+Spier,2021,2867694,Signature Chardonnay - Pinot Noir 2021,3.5,186,south-africa,western-cape,7.75
+770 Miles,2020,5217359,Zinfandel Rosé 2020,4.1,189,united-states,california,7.75
+Domaine de la Baume,2020,2123090,La Grande Olivette Sauvignon Blanc Pays d'Oc 2020,3.4,114,france,vin-de-pays-doc,7.75
+Château Tour de Luchey,2019,1283254,Bordeaux 2019,3.6,33,france,bordeaux,7.75
+Zenato,2020,1127740,Soave Classico 2020,3.5,69,italy,soave,7.75
+Hans Greyl,2021,10181994,Sauvignon Blanc 2021,3.8,755,south-africa,western-cape,7.75
+Rivera,2019,91710,Rupicolo Castel del Monte 2019,3.8,52,italy,castel-del-monte,7.75
+Spier,2021,1128945,Signature Chardonnay 2021,3.6,142,south-africa,western-cape,7.75
+Trapiche,2019,1136472,Astica Cabernet Sauvignon 2019,3.0,83,argentina,maipu,7.75
+Domaine de Pellehaut,2021,2062461,Harmonie De Gascogne Rosé 2021,3.9,130,france,cotes-de-gascogne,7.75
+Laurent Miquel,2020,100143,Père et Fils Chardonnay - Viognier 2020,3.7,115,france,languedoc-roussillon,7.75
+Spier,2021,75113,Signature Chenin Blanc 2021,3.7,550,south-africa,western-cape,7.75
+Domaine du Tariquet,2021,1207322,Côtes De Gascogne Rosé De Pressée 2021,3.6,50,france,cotes-de-gascogne,7.8
+Feudo Arancio,2019,8316,Cabernet Sauvignon Sicilia 2019,3.6,71,italy,sicilia,7.8
+Villa Lanata,2017,4559276,Piemonte Rosso 2017,3.2,35,italy,piedmont,7.82
+Banfi,2020,22916,Collepino (Merlot - Sangiovese) 2020,3.6,59,italy,tuscany,7.82
+Baglio di Pianetto,2015,3595217,Ramione Merlot - Nero d'Avola 2015,3.7,166,italy,sicily,7.82
+Maison de La Villette,2019,8550350,Grenache 2019,3.8,26,france,vin-de-pays-vignobles-de-france,7.85
+Hoya de Cadenas,2019,2196902,Chardonnay 2019,3.3,25,spain,utiel-requena,7.86
+Boekenhoutskloof,2020,1128255,The Wolftrap Red Blend 2020,3.4,515,south-africa,franschhoek,7.9
+Goedverwacht,2021,9526251,Bad Brothers White 2021,4.0,60,south-africa,robertson,7.9
+Cecchi,2021,12119,Chianti 2021,3.6,97,italy,chianti,7.91
+Conte di Campiano,2019,10287259,Limited 15 Gradi Edition Cabernet - Primitivo 2019,4.1,134,italy,vino-da-tavola,7.92
+Conte di Campiano,2020,2643786,Appassimento 2020,3.9,132,italy,puglia,7.92
+Maison de La Villette,2020,4891764,Pinot Noir 2020,3.8,95,france,vin-de-pays-vignobles-de-france,7.92
+Rio Lindo,2020,5919230,Syrah 2020,3.9,332,spain,vino-de-mesa,7.95
+Kerpen,2015,1240401,Wehlener Sonnenuhr Riesling Kabinett 2015,3.7,66,germany,wehlen,7.95
+UDACA,2018,4904020,Eloquente Colheita Selecionada Tinto 2018,3.7,98,portugal,dao,7.95
+Bigi,2020,1719943,Vipra Rosa Umbria 2020,3.4,180,italy,umbria,7.95
+Isidro Milagro,2017,4235945,Viña Vasta Tempranillo - Merlot - Syrah 2017,3.4,129,spain,la-mancha,7.95
+Mezzacorona,2019,1174653,Castel Firmian Sauvignon Trentino 2019,3.5,65,italy,trentino,7.95
+Paul Mas,2020,2310037,Viognier - Sauvignon 2020,3.7,258,france,vin-de-pays-doc,7.95
+Bigi,2021,1775280,Vipra Bianca Umbria 2021,3.7,55,italy,umbria,7.95
+Neleman,2020,5630072,Nucli Organic 2020,3.8,208,spain,la-mancha,7.95
+Domaine de la Baume,2019,1993648,La Grande Olivette Merlot 2019,3.4,51,france,vin-de-pays-doc,7.95
+Haras de Pirque,2017,5885356,Albaclara Sauvignon Blanc 2017,3.7,663,chile,valle-de-leyda,7.95
+Cruz Alta,2020,1146143,Malbec 2020,3.8,337,argentina,mendoza,7.95
+Mezzacorona,2019,1211704,Castel Firmian Teroldego Rotaliano 2019,3.7,249,italy,teroldega-rotaaeiano,7.95
+Covila,2019,1164116,II Crianza 2019,3.8,30,spain,rioja,7.95
+Saint Preignan,2020,9032368,Trilogie 2020,4.0,55,france,vin-de-pays-doc,7.95
+Domaine de la Baume,2019,2955833,La Grande Olivette Chardonnay 2019,3.7,34,france,vin-de-pays-doc,7.95
+Astrale,2018,8740772,Astrale Special Edition 2018,4.2,1224,italy,vino-da-tavola,7.95
+Mas Fi,N.V.,4174791,Cava Semi Seco N.V.,3.7,433,spain,cava,7.95
+Domaines Astruc,2020,2153016,Chardonnay 2020,3.7,28,france,vin-de-pays-doc,7.95
+Zenato,2021,1127790,Bardolino 2021,3.5,38,italy,bardolino,7.95
+Geografico,2018,8162578,Contessa di Radda Toscana 2018,3.7,465,italy,tuscany,7.95
+Horgelus,2021,1200558,Colombard - Sauvignon Côtes de Gascogne 2021,3.8,117,france,cotes-de-gascogne,7.95
+Tormaresca,2019,2847233,Paiara Puglia Rosso 2019,3.7,61,italy,puglia,7.95
+Domaines Astruc,2019,1155624,Malbec 2019,3.7,44,france,limoux,7.95
+Alma Cersius,2019,1225243,In Vino Erotico Rouge 2019,3.6,28,france,coteaux-du-libron,7.95
+Paul Mas,2021,7408656,Le Rosé 2021,3.8,156,france,vin-de-pays-doc,7.95
+Croix d'Or,2018,1750326,Cabernet Sauvignon 2018,3.6,172,france,vin-de-pays-doc,7.95
+Paul Mas,2021,7408656,Le Rosé 2021,3.8,156,france,vin-de-pays-doc,7.95
+Château Haut Maginet,2012,1755912,Bordeaux Rouge 2012,3.3,403,france,bordeaux,7.95
+Montes,2021,1149590,Reserva Sauvignon Blanc (Classic) 2021,3.7,99,chile,curico-valley,7.95
+Vega Moragona,2019,8077947,Ventica Bobal 2019,4.0,483,spain,ribera-del-jucar,7.95
+Spier,2020,75114,Signature Merlot 2020,3.4,111,south-africa,western-cape,7.95
+Sollione,2020,1162633,Salento Negroamaro 2020,3.5,30,italy,lecce,7.95
+Gallo Family Vineyards,2019,1141504,Pinot Grigio 2019,3.4,139,united-states,california,7.95
+Black's Devil,2019,6208224,Negroamaro - Zinfandel 2019,3.7,55,italy,puglia,7.95
+Grant Burge,2020,5310954,Barossa Ink Shiraz 2020,4.1,815,australia,barossa,7.95
+Finca La Solana,2020,6615490,Piquito Selección Especial Monastrell 2020,4.1,362,spain,jumilla,7.95
+Hans Greyl,2021,10607896,South Africa Blush 2021,3.8,121,south-africa,western-cape,7.95
+Luc Pirlet,2018,1202725,Les Barriques Reserve Cabernet Sauvignon 2018,3.6,508,france,vin-de-pays-doc,7.95
+Bigi,2020,28454,Vipra Rossa Umbria 2020,3.5,304,italy,umbria,7.95
+Lergenmüller,2020,6469417,Tiefgang Kalkstein Riesling Trocken 2020,4.1,298,germany,pfalz,7.95
+Petro Vaselo,2020,1346875,Alb de Petro Vaselo 2020,3.9,94,romania,recas,7.95
+Château les Vignals,2019,6341178,Soif-Art Rouge 2019,3.7,75,france,cotes-du-tarn,7.95
+Château les Vignals,2019,5924928,Soif-Art Blanc 2019,3.8,59,france,cotes-du-tarn,7.95
+Callia,2021,2739150,Lunaris Malbec 2021,3.9,92,argentina,san-juan,7.95
+Azul Portugal,2016,1837025,Dão Tinto 2016,3.8,110,portugal,dao,7.95
+Sauvion,2020,1229790,Chemin des Sables Rosé d'Anjou 2020,3.8,83,france,rose-danjou,7.95
+UDACA,2017,76425,Irreverente Tinto 2017,3.8,67,portugal,dao,7.95
+Spier,2020,75110,Signature Cabernet Sauvignon 2020,3.5,325,south-africa,western-cape,7.95
+Masseria Borgo dei Trulli,2020,1207436,Primitivo 2020,3.8,844,italy,lecce,7.95
+Pardo Tolosa,2019,7304699,La Sima Tempranillo Ecologico 2019,3.7,115,spain,manchuela,7.95
+Baccolo,2019,6670829,Appassimento Parziale 2019,3.7,361,italy,veneto,7.95
+Pardo Tolosa,2019,7304699,La Sima Tempranillo Ecologico 2019,3.7,115,spain,manchuela,7.95
+Bodegas Piqueras,2019,5972511,El Abuelo Garnacha Tintorera 2019,3.9,549,spain,almansa,7.95
+Fontella,2018,2431903,Chianti 2018,3.3,836,italy,chianti,7.95
+Château Fontarèche,2019,1568886,Vieilles Vignes Sélection 2019,3.7,166,france,corbieres,7.95
+Gallo Family Vineyards,2019,3380,Cabernet Sauvignon 2019,3.7,881,united-states,california,7.95
+Gallo Family Vineyards,2020,1156607,White Zinfandel 2020,3.5,407,united-states,california,7.95
+El Gringo,2019,7183378,Dark Red Tempranillo 2019,3.4,83,spain,castilla-la-mancha,7.95
+Bacalhôa,2019,18532,Serras de Azeitão Branco 2019,3.7,372,portugal,terras-do-sado,7.95
+Spier,2020,75116,Signature Pinotage 2020,3.6,483,south-africa,western-cape,7.95
+Vigneti del Vulture,2021,2037366,Basilicata Pipoli Rosato 2021,4.0,215,italy,basilicata,7.95
+Tsantali,2018,3232807,Naoussa Imiglykos 2018,3.6,195,greece,naoussa,7.95
+Amatore,2019,3329555,Rosso Verona 2019,3.6,132,italy,rosso-veronese,7.95
+Ikon,2018,2106976,Rosé 2018,3.8,70,hungary,balatonboglar,7.95
+Viticoltori Ponte,2020,3206458,Pinot Grigio 2020,3.1,49,italy,della-venezie,7.95
+Domaine de Carmignan,2019,6547833,Côtes-du-Rhône Blanc 2019,3.7,41,france,cotes-du-rhone,7.95
+Proeza,2019,1374982,Dão Red 2019,3.8,39,portugal,dao,7.95
+Moncourt,2019,8334570,Les Brochoires Cabernet Franc 2019,3.7,43,france,bourgueil,7.95
+Terra Argenta,2021,3413268,Malbec 2021,3.5,96,argentina,mendoza,7.95
+Claudia Papayianni,2019,1863922,Ex'Arnon Red 2019,3.3,27,greece,chalkidiki,7.95
+Mezzacorona,2020,1174653,Castel Firmian Sauvignon Trentino 2020,3.6,59,italy,trentino,7.95
+Domaine des Crès Ricards,2020,1415995,Esprit de Crès Ricards Marsanne - Roussanne 2020,4.0,97,france,vin-de-pays-doc,7.95
+Vigné-Lourac,2020,1562861,Duras - Cabernet 2020,4.0,64,france,cotes-du-tarn,7.95
+Clos Montblanc,2018,16138,Proyecto Cu4tro Tinto 2018,3.4,170,spain,comunidad-autnoma-de-catalua,7.95
+Feudo Arancio,N.V.,5441708,Accussi Extra Dry N.V.,3.7,656,italy,sicilia,7.95
+Raiza,2018,1165877,Altos de Raiza 2018,3.6,79,spain,rioja,7.95
+Domaine de Ménard,2020,1614776,Colombard - Ugni Blanc 2020,4.0,25,france,cotes-de-gascogne,7.95
+Vistamar,2019,1173842,Brisa Merlot 2019,3.0,76,chile,central-valley,7.95
+Murviedro,2021,7149664,Audentia Cabernet Sauvignon Rosé 2021,3.9,69,spain,utiel-requena,7.95
+Bodegas Aragonesas,2017,95439,Castillo De Fuendejalon Crianza 2017,3.9,720,spain,campo-de-borja,7.95
+Spier,2021,75117,Signature Sauvignon Blanc 2021,3.7,303,south-africa,western-cape,7.95
+Ca' del Doge,N.V.,6853422,Fioroso Cuvée Frizzante Bianco N.V.,4.1,914,italy,veneto,7.95
+Telmo Rodriguez,2020,2568897,Al-Muvedre Tinto Monastrell 2020,3.4,141,spain,alicante,7.95
+Uby,2020,1860965,No. 1 Sauvignon 2020,4.0,57,france,cotes-de-gascogne,7.95
+UDACA,2018,1192305,Dom Divino Tinto 2018,3.6,72,portugal,dao,7.95
+Cielo e Terra,N.V.,2814396,Prosecco Brut N.V.,3.7,547,italy,prosecco,7.95
+Lenotti,2020,1126805,Veneto Rosso Passo Rosso 2020,4.0,182,italy,veneto,7.95
+Mezzacorona,2020,8375,Castel Firmian Pinot Grigio Trentino 2020,3.7,381,italy,trentino,7.95
+Croix d'Or,2018,1664807,Merlot 2018,3.2,60,france,vin-de-pays-doc,7.95
+Villa Sandi,2020,1678378,Pinot Grigio 2020,3.2,33,italy,veneto,7.95
+Bodegas Piqueras,2020,5965066,El Abuelo Verdejo - Sauvignon Blanc 2020,3.8,395,spain,almansa,7.95
+The Big Top,2020,1847566,Zinfandel 2020,3.9,378,united-states,california,7.95
+Masseria Borgo dei Trulli,2020,5419918,Negroamaro 2020,4.1,465,italy,lecce,7.95
+Spier,2020,75118,Signature Shiraz 2020,3.5,91,south-africa,western-cape,7.95
+Gallo Family Vineyards,2019,1152381,Zinfandel 2019,3.6,541,united-states,california,7.95
+Gallo Family Vineyards,2019,2679057,Grenache Rosé 2019,3.6,331,united-states,california,7.95
+Gallo Family Vineyards,2020,38484,Chardonnay 2020,3.4,274,united-states,california,7.95
+Telmo Rodriguez,2019,2568897,Al-Muvedre Tinto Monastrell 2019,3.5,189,spain,alicante,7.95
+El Coto,2020,2034549,Rosado 2020,3.5,271,spain,rioja,7.96
+El Coto,2021,2034549,Rosado 2021,3.4,112,spain,rioja,7.96
+Ponte Villoni,2020,3231677,Edizione Privata 2020,4.2,368,italy,puglia,7.99
+Oisly Thésée,2020,7295107,Noblesse de Loire Sauvignon Blanc 2020,3.9,31,france,loire-valley,7.99
+Reveur,2021,9494411,Grande Réserve Chardonnay Boise 2021,4.1,53,france,vin-de-pays-doc,7.99
+Salentein,2021,1253408,Portillo Pinot Noir 2021,3.3,232,argentina,valle-de-uco,7.99
+Deakin Estate,2019,2824270,Pinot Noir 2019,3.2,80,australia,murray-darling,7.99
+Deakin Estate,2020,1953,Chardonnay 2020,3.4,53,australia,murray-darling,7.99
+Il Pumo,2020,4259533,Chardonnay 2020,3.6,57,italy,puglia,7.99
+Burmester,2019,1227972,Tavedo Douro 2019,3.5,444,portugal,douro,7.99
+Salentein,2021,1163679,Portillo Chardonnay 2021,3.6,115,argentina,valle-de-uco,7.99
+Burmester,2020,1227972,Tavedo Douro 2020,3.5,204,portugal,douro,7.99
+Deakin Estate,2020,1951,Shiraz 2020,3.5,118,australia,murray-darling,7.99
+Carmen,2019,1669688,Insigne Cabernet Sauvignon 2019,3.4,128,chile,central-valley,7.99
+Salentein,2021,1977856,Portillo Sauvignon Blanc 2021,3.7,274,argentina,valle-de-uco,7.99
+Salentein,2021,1549934,Portillo Rosé Malbec 2021,3.6,45,argentina,tunuyan,7.99
+Salentein,2021,1176148,Portillo Merlot 2021,3.5,155,argentina,valle-de-uco,7.99
+San Marzano,2020,1525820,I Tratturi Negroamaro 2020,3.8,42,italy,puglia,7.99
+Veuve du Vernay,N.V.,1136290,Brut Rosé N.V.,3.7,4244,france,vin-de-pays-vignobles-de-france,7.99
+Rube,2020,9700014,Pecorino 2020,3.7,26,italy,terre-di-chieti,7.99
+Trapiche,2021,1200227,Melodias Sauvignon Blanc 2021,3.2,32,argentina,mendoza,7.99
+Mas des Tannes,2018,1849493,Les Tannes en Occitanie Pinot Noir 2018,3.4,45,france,vin-de-pays-doc,8.0
+Domaine de l'Amandine,2020,2195397,Cuvée Mathilde 2020,3.2,75,france,vaucluse,8.0
+Château Lauduc,2018,1199493,Classic Bordeaux Rouge 2018,3.9,274,france,bordeaux,8.0
+Bo,2020,1206516,Bobal Único 2020,3.6,31,spain,utiel-requena,8.0
+De Bortoli,2019,1248010,DB Family Selection Chardonnay 2019,3.6,85,australia,riverina,8.0
+Domaine du Tariquet,2020,2546290,Sauvignon Côtes de Gascogne 2020,3.7,250,france,cotes-de-gascogne,8.0
+Tor del Colle,2017,1426139,Rosso Molise Riserva 2017,3.5,57,italy,molise,8.1
+Paul Jaboulet Aîné,2020,10917,Côtes du Ventoux Les Traverses Rouge 2020,3.8,56,france,cotes-du-ventoux,8.1
+Clavel,2019,4185895,Le Mas Coteaux du Languedoc 2019,3.7,169,france,languedoc,8.1
+Paul Jaboulet Aîné,2019,10917,Côtes du Ventoux Les Traverses Rouge 2019,3.7,397,france,cotes-du-ventoux,8.1
+Feudo Arancio,2018,8316,Cabernet Sauvignon Sicilia 2018,3.6,99,italy,sicilia,8.15
+Finca Antigua,2014,1136857,Tempranillo Crianza 2014,3.6,249,spain,la-mancha,8.15
+Lua Cheia - Saven,2019,4464947,Maria Bonita Loureiro 2019,3.8,619,portugal,vinho-verde,8.2
+Tor del Colle,2019,1134111,Montepulciano d'Abruzzo Riserva 2019,3.9,244,italy,montepulciano-dabruzzo,8.2
+Orahovica,2019,2741596,Graševina 2019,3.5,38,croatia,slavonija,8.25
+Leth,2020,1230681,Duett 2020,3.8,124,austria,donauland,8.25
+Familia Torres,2019,2620,Viña Sol Blanco 2019,3.4,40,spain,comunidad-autnoma-de-catalua,8.25
+Monte Llano,2020,1215086,Monte Llano Tempranillo Rioja 2020,3.9,26,spain,rioja,8.25
+Familia Torres,2018,1385210,Sangre de Toro 2018,3.3,1010,spain,comunidad-autnoma-de-catalua,8.25
+Spier,2021,75114,Signature Merlot 2021,3.4,50,south-africa,western-cape,8.25
+Spier,2018,75110,Signature Cabernet Sauvignon 2018,3.3,966,south-africa,western-cape,8.25
+MontGras,2020,11783,Reserva Chardonnay 2020,3.7,92,chile,colchagua-valley,8.25
+Elsa Bianchi,2021,1277829,Torrontes 2021,3.6,97,argentina,mendoza,8.25
+Barramundi,2021,5628433,Pinot Noir 2021,3.5,29,australia,south-eastern,8.25
+Spier,2019,75116,Signature Pinotage 2019,3.4,624,south-africa,western-cape,8.25
+Spier,2020,75117,Signature Sauvignon Blanc 2020,3.6,518,south-africa,western-cape,8.25
+MontGras,2020,2290052,Reserva Especial Carmenère 2020,3.8,65,chile,colchagua-valley,8.25
+Bellingham,2019,6885216,Big Oak Shiraz 2019,3.5,65,south-africa,coastal-region,8.25
+Dune (Caveau Les Sablons),2021,1713265,Gris de Gris 2021,3.8,309,france,sable-de-camargue,8.25
+Horgelus,2021,3679352,Côtes de Gascogne Rosé 2021,3.7,67,france,cotes-de-gascogne,8.25
+Spier,2021,75118,Signature Shiraz 2021,3.6,37,south-africa,western-cape,8.25
+Horgelus,2021,1550404,Côtes de Gascogne Sauvignon - Gros Manseng 2021,3.9,65,france,cotes-de-gascogne,8.25
+Notte Rossa,2021,1903267,Primitivo Salento 2021,3.8,171,italy,lecce,8.283333333333333
+Whistling Duck,2018,1295382,Semillon - Sauvignon Blanc 2018,3.4,76,australia,king-valley,8.29
+Feudo Arancio,2020,8315,Syrah Sicilia 2020,3.7,197,italy,sicilia,8.29
+Serre dei Roveri,2020,1232421,Barbera 2020,3.5,269,italy,piedmont,8.29
+Paul Mas,2020,9485537,Le Blanc 2020,3.8,128,france,vin-de-pays-vignobles-de-france,8.29
+Whistling Duck,2020,2802732,Chardonnay 2020,3.7,85,australia,new-south-wales,8.29
+Vigneti del Salento,2019,2549198,Primitivo - Merlot Zolla 2019,3.9,112,italy,puglia,8.29
+Serre dei Roveri,2019,1232421,Barbera 2019,3.5,87,italy,piedmont,8.29
+Familia Torres,2021,2634,De Casta Rosado 2021,3.6,199,spain,comunidad-autnoma-de-catalua,8.29
+Les Costières de Pomerols,2021,1188262,Hugues de Beauvignac (HB) Picpoul de Pinet 2021,3.9,249,france,picpoul-de-pinet,8.3
+Banfi,2020,22913,Col di Sasso (Cabernet Sauvignon - Sangiovese) 2020,3.6,393,italy,tuscany,8.32
+La Carraia,2020,4561912,Orvieto Classico 2020,3.4,58,italy,orvieto-classico,8.35
+Gran Sasso,2021,5776482,Primitivo Puglia Edizione Limitata Terra Vera 2021,3.9,55,italy,puglia,8.35
+Mocavero,2018,1154268,Salice Salentino 2018,4.0,394,italy,salice-salentino,8.35
+Mocavero,2019,5800597,Negroamaro Salento 2019,3.8,78,italy,lecce,8.35
+Gran Sasso,2020,6737764,Terra Vera Edizione Limitada Sangiovese 2020,3.9,256,italy,terre-di-chieti,8.35
+Geografico,2021,15342,Vernaccia di San Gimignano 2021,3.6,73,italy,vernaccia-di-san-gimignano,8.37
+Geografico,2020,15342,Vernaccia di San Gimignano 2020,3.4,104,italy,vernaccia-di-san-gimignano,8.37
+Velarino,2020,6891988,Nero di Troia 2020,4.0,2010,italy,puglia,8.4
+Cecchi,2021,7174948,Torrebona Vernaccia di San Gimignano 2021,3.6,114,italy,vernaccia-di-san-gimignano,8.4
+Era,2018,2091575,Syrah 2018,3.3,127,italy,sicily,8.4
+Cecchi,2021,1158252,La Mora Vermentino Toscana (Toscana Bianco) 2021,3.7,81,italy,maremma-toscana,8.4
+Paul Jaboulet Aîné,2018,2737003,Secret de Famille Syrah 2018,3.7,118,france,northern-rhne,8.42
+Paul Jaboulet Aîné,2020,10920,Viognier Secret de Famille 2020,3.7,144,france,rhone,8.42
+Pagos de Aráiz,2019,86346,Navarra Tinto Roble 2019,3.7,104,spain,comunidad-foral-de-navarra,8.45
+Bodegas Príncipe de Viana,2020,4611595,Colección Monovarietales Tempranillo Roble 2020,3.5,313,spain,comunidad-foral-de-navarra,8.45
+Farina,2021,2633307,Pinot Grigio 2021,3.8,96,italy,della-venezie,8.45
+Scavi & Ray,N.V.,1506014,Hugo Aperitivo N.V.,3.3,151,italy,veneto,8.45
+Epicuro,2019,1516707,Nero d'Avola 2019,3.7,1129,italy,sicilia,8.45
+Finca Los Timonares,2017,2005702,Marius Crianza 2017,3.7,143,spain,almansa,8.45
+Farina,2020,1268187,Bardolino 2020,3.5,38,italy,bardolino,8.45
+AR - Adega de Redondo,2020,4647887,Maré Viva Selection Tinto 2020,3.5,74,portugal,alentejo,8.45
+Paul Mas,2019,7730742,Merlot Réserve 2019,3.7,33,france,vin-de-pays-doc,8.45
+Paul Mas,2020,1208306,Vignes de Nicole Chardonnay - Viognier Pays d'Oc 2020,3.7,764,france,vin-de-pays-doc,8.45
+Luc Pirlet,2020,6235891,Réserve Pinot Noir 2020,3.7,34,france,vin-de-pays-doc,8.45
+Marqués de Reinosa,2017,1796557,Rioja Crianza Cecios 2017,3.6,35,spain,rioja,8.45
+Paul Mas,2019,1141179,Vignes de Nicole Cabernet Sauvignon - Merlot Pays d'Oc 2019,3.7,1326,france,vin-de-pays-doc,8.45
+Velarino,2020,6467972,Susumaniello 2020,3.9,1024,italy,lecce,8.45
+Epicuro,2019,5441061,Pinot Grigio 2019,3.6,52,italy,sicily,8.45
+Dumanet,2021,5790958,Réserve Chardonnay 2021,4.1,257,france,vin-de-pays-doc,8.45
+Domaine de la Baume,2021,1163295,Viognier Elisabeth 2021,4.0,134,france,languedoc-roussillon,8.45
+Emiliana,2019,7735696,O Reserva Organic Winemaker's Blend 2019,3.6,69,chile,rapel-valley,8.46
+Esporão,2021,5571292,Bico Amarelo 2021,3.9,524,portugal,vinho-verde,8.48
+Lungarotti,2021,65254,Brezza Umbria Bianco 2021,3.7,105,italy,umbria,8.48
+Bosio,2019,1372789,Egidio Barbera d'Alba 2019,3.7,141,italy,barbera-dalba,8.49
+Gaía,2021,5683127,Agiorgitiko 4-6H 2021,3.7,59,greece,peloponnisos,8.49
+Domaine de Joy,2021,2563901,L'Eclat Côtes de Gascogne 2021,4.0,36,france,cotes-de-gascogne,8.49
+Feudi Salentini,2020,1837975,125 Uno Due Cinque Primitivo del Salento 2020,3.7,113,italy,lecce,8.49
+Skouras,2019,1854911,Cuvee Prestige Red 2019,3.4,47,greece,peloponnisos,8.49
+Luzon,2019,2356292,Finca Luzon 2019,3.4,189,spain,jumilla,8.49
+Mont Ventoux,2018,7206678,Secrets des Dames Ventoux 2018,3.7,112,france,cotes-du-ventoux,8.49
+Tierras y Viñas,2018,1206224,Gran Dominio Crianza 2018,3.8,65,spain,rioja,8.49
+Montes,2020,1151903,Reserva Chardonnay (Classic) 2020,3.6,619,chile,central-valley,8.49
+Montresor,2017,75624,Soave Classico 2017,3.5,194,italy,soave-classico,8.49
+Dissegna,2020,1541974,Pinot Grigio 2020,3.9,40,italy,venezia,8.5
+Cave des Vignerons de Saint-Chinian,2016,1669704,Les Secrets Saint Chinian 2016,3.5,25,france,saint-chinian,8.5
+Vigna Dogarina,2020,1190667,Prosecco di Treviso Millesimato Extra Dry 2020,3.9,44,italy,prosecco-di-treviso,8.5
+Cuatro Rayas,2021,3394959,Four Lines Verdejo 2021,3.7,115,spain,rueda,8.5
+Verderrubi,2021,8375602,Pita Dominio de Verderrubi 2021,3.8,33,spain,rueda,8.5
+BelColle,2020,9863930,Passo del Gallo Piemonte Rosso 2020,3.7,57,italy,piedmont,8.5
+Koncho,2020,7266408,Kisi Semi Sweet White 2020,4.3,66,georgia,kakheti,8.5
+Jean François Mérieau,2020,1176235,L'Arpent des Vaudons Sauvignon Blanc 2020,3.8,175,france,touraine,8.5
+Miopasso,2020,1844982,Nero d'Avola 2020,3.7,213,italy,sicily,8.5
+Louis Latour,2019,7246,Ardèche Chardonnay 2019,3.8,474,france,ardeche,8.5
+Notte Rossa,2021,2354815,Negroamaro Salento 2021,3.7,115,italy,lecce,8.5
+Poderi dal Nespoli,2020,5774714,Famoso 2020,3.8,491,italy,rubicone,8.5
+Velarino,2020,7358554,Vermentino 2020,3.5,50,italy,puglia,8.5
+Morisfarms,2020,1605189,Mandriolo Maremma Toscana 2020,3.6,66,italy,maremma-toscana,8.5
+Oxford Landing,2021,1900657,Sauvignon Blanc 2021,3.4,190,australia,south-australia,8.5
+Lagravera,2020,1945130,Laltre 2020,3.8,120,spain,costers-del-segre,8.5
+Uby,2021,1254262,No. 3 Colombard - Sauvignon 2021,4.0,156,france,cotes-de-gascogne,8.5
+Cantina Offida,2020,2138259,Piceno 2020,3.7,37,italy,rosso-piceno,8.5
+Passione Natura,2020,5148635,Lupi Reali Pecorino 2020,3.5,29,italy,abruzzo,8.5
+Intruso,2020,2147933,Monastrell 2020,3.7,28,spain,jumilla,8.5
+Rodestiu,N.V.,1296821,Cava Brut N.V.,3.5,1398,spain,comunidad-autnoma-de-catalua,8.5
+Blanc Pescador,N.V.,1804248,Sparkling N.V.,3.4,7897,spain,empord,8.5
+Cecilia Beretta,2021,73379,Pinot Grigio Venezie (Grigio Luna) 2021,3.9,86,italy,venezia,8.5
+Château de Brague,2015,1172997,Bordeaux Supérieur 2015,3.9,151,france,bordeaux-superieur,8.5
+Rivera,2019,1622963,Negroamaro Salento 2019,4.0,84,italy,lecce,8.5
+Cantina Miglianico,2018,1899107,Mellianum Murelle Montepulciano d'Abruzzo 2018,3.5,244,italy,montepulciano-dabruzzo,8.5
+Oliveda,N.V.,1543250,Cava Oh! Brut N.V.,3.5,226,spain,cava,8.5
+Cantine Pellegrino,N.V.,6966169,Marsala Fine Italia Particolare Semisecco N.V.,3.8,722,italy,marsala,8.5
+Rocca,2020,3759765,Nero di Troia 2020,3.5,82,italy,puglia,8.5
+El Angosto,2020,4523122,Soldadito Marinero 2020,4.0,88,spain,comunitat-valenciana,8.5
+Domaine Lalande,2019,1154788,Les Hauts de Lalande 2019,3.5,181,france,cite-de-carcassonne,8.5
+Isidro Milagro,2020,5893001,Cal Y Canto Tempranillo Roble 2020,3.9,29,spain,la-mancha,8.5
+Logodaj Winery,2018,1245009,Shiroka Melnishka loza 2018,3.6,37,bulgaria,struma-river-valley,8.5
+Oxford Landing,2018,51394,Shiraz 2018,3.5,345,australia,south-australia,8.5
+Bodegas Vilano,2020,1378916,Roble 2020,3.5,65,spain,ribera-del-duero,8.5
+Vinarija Daruvar,2018,6327951,Vezak Graševina 2018,3.6,646,croatia,dalmatian-coast,8.5
+Fattoria dei Barbi,2018,54334,Rosso dei Barbi 2018,3.5,62,italy,tuscany,8.5
+Feudo Arancio,2020,5388698,Passiari 2020,4.1,118,italy,sicilia,8.5
+Notte Rossa,2021,5091239,Fiano Salento 2021,3.6,90,italy,lecce,8.5
+Oxford Landing,2020,1759704,Merlot 2020,3.5,74,australia,south-australia,8.5
+Simonsig,2021,91633,Chenin Blanc 2021,3.8,300,south-africa,stellenbosch,8.5
+Niel Joubert,2019,78294,Sauvignon Blanc 2019,3.6,119,south-africa,paarl,8.55
+Carmen,2020,4255259,Premier 1850 Reserva Chardonnay 2020,3.7,103,chile,casablanca-valley,8.55
+Carmen,2020,4255261,Premier 1850 Reserva Merlot 2020,3.5,44,chile,colchagua-valley,8.55
+Lacheteau,2021,1195710,Rosé d'Anjou 2021,4.0,180,france,rose-danjou,8.55
+La Belle Enseigne,2020,7160894,Malbec 2020,3.8,95,france,haute-vallee-de-laude,8.6
+Velarino,2020,6800666,Malvasia Nera 2020,4.0,80,italy,lecce,8.6
+Bolla,2021,2504239,Bardolino Chiaretto La Canestraia 2021,4.1,27,italy,bardolino-chiaretto,8.63
+Librandi,2020,1199664,Cirò Classico Rosso (Segno) 2020,3.4,25,italy,ciro,8.63
+Montes,2019,1151903,Reserva Chardonnay (Classic) 2019,3.7,1132,chile,central-valley,8.65
+Les Jamelles,2019,10554,Merlot 2019,3.7,439,france,vin-de-pays-doc,8.69
+Santa Cristina,2021,1255437,Umbria Bianco 2021,3.6,187,italy,umbria,8.69
+Mezzacorona,2021,8375,Castel Firmian Pinot Grigio Trentino 2021,3.8,119,italy,trentino,8.7
+Gran Passione,2021,1479859,Rosso Veneto 2021,3.8,123,italy,veneto,8.7
+San Felice,2021,1135589,Perolla Vermentino 2021,3.9,56,italy,maremma-toscana,8.72
+Orahovica,2018,2906676,Pinot Sivi 2018,3.4,37,croatia,slavonija,8.75
+Domaine Roger Pabiot et Fils,2021,1233610,Coteau des Girarmes Pouilly-Fumé 2021,4.1,30,france,pouilly-fume,8.75
+Petro Vaselo,2017,1453840,Rosu de Petro Vaselo 2017,3.6,336,romania,recas,8.75
+Jeff Carrel,2020,2136158,Vieille Mule Rouge 2020,3.6,69,france,cotes-catalanes,8.75
+Moncaro,2021,1787648,Verdicchio Dei Castelli Di Jesi Classico Le Vele 2021,3.7,66,italy,verdicchio-dei-castelli-di-jesi,8.75
+Fāurar,2018,1208763,Roşu de Ceptura 2018,3.9,43,romania,dealu-mare,8.75
+Veuve du Vernay,N.V.,4502634,Ice N.V.,3.8,2267,france,vin-de-pays-vignobles-de-france,8.75
+Inurrieta,2019,1370411,Sensaciones 2019,3.6,50,spain,comunidad-foral-de-navarra,8.75
+PavoNero,N.V.,5576678,Rosso N.V.,4.0,2233,italy,puglia,8.75
+Altún,2019,1288740,Albiker 2019,3.6,51,spain,rioja,8.75
+Velenosi,2019,1146486,Rosso Piceno 2019,3.5,288,italy,rosso-piceno,8.75
+Pasas,2018,7795913,Uva Tinta 2018,3.9,764,spain,yecla,8.75
+Fāurar,2020,1208766,Alb de Ceptura 2020,3.7,56,romania,dealu-mare,8.75
+Marani,2019,1144174,Saperavi (Cаперави) 2019,3.7,77,georgia,kakheti,8.75
+Inurrieta,2021,1178615,Orchidea Sauvignon Blanc 2021,3.7,131,spain,comunidad-foral-de-navarra,8.75
+Inurrieta,2021,1178615,Orchidea Sauvignon Blanc 2021,3.7,131,spain,comunidad-foral-de-navarra,8.75
+Celler del Roure,2020,2477371,Vermell 2020,3.5,104,spain,comunitat-valenciana,8.75
+Il Pumo,2021,2019358,Primitivo 2021,3.8,54,italy,lecce,8.75
+Carmen,2021,4255259,Premier 1850 Reserva Chardonnay 2021,3.5,46,chile,casablanca-valley,8.75
+Domaine de la Clapière,2018,1244464,Jardin de Jules 2018,3.6,235,france,vin-de-pays-doc,8.75
+Château du Courlat,2018,1160298,Lussac-Saint-Émilion 2018,3.8,26,france,lussac-st-emilion,8.75
+Lyrarakis,2018,1185271,Kotsifali 2018,3.5,691,greece,crete,8.75
+Bodegas Miguel Calatayud,2015,1136811,Vegaval Plata Crianza 2015,3.2,98,spain,,8.75
+El Angosto,2021,4523122,Soldadito Marinero 2021,4.0,47,spain,comunitat-valenciana,8.75
+Quinta do Crasto,2020,45264,Flor de Crasto Tinto 2020,3.9,1069,portugal,douro,8.75
+ColleStefano,2020,1137892,Verdicchio di Matelica 2020,3.7,344,italy,verdicchio-di-matelica,8.75
+Les Costières de Pomerols,2021,2482713,Beauvignac Chardonnay 2021,3.8,36,france,cotes-de-thau,8.75
+Doppio Passo,2021,1141907,Primitivo 2021,4.1,2680,italy,puglia,8.75
+Les Volets,2020,9010098,Chenin Blanc 2020,3.9,65,france,aude,8.78
+Les Volets,2020,3477784,Malbec 2020,3.9,94,france,haute-vallee-de-laude,8.78
+Simonsig,2020,91607,Cabernet Sauvignon - Shiraz 2020,3.5,56,south-africa,stellenbosch,8.78
+Cramele Recaş,2018,7194174,Solevari Reserve Fetească Regală 2018,3.7,54,romania,recas,8.79
+Cramele Recaş,2017,7132837,Solevari Reserve Fetească Neagră 2017,3.6,111,romania,schwaben,8.79
+Cecchi,2020,4851841,Chianti Governo all'Uso 2020,3.8,287,italy,chianti,8.79
+Piccini,2020,6312499,Collezione Oro Chianti Superiore 2020,3.4,311,italy,chianti,8.79
+Domaine de la Baume,2021,1207814,Chardonnay Les Vignes de Madame 2021,3.9,92,france,languedoc-roussillon,8.79
+Cantina Roccafiore,2020,2556362,Rosso Melograno 2020,3.6,35,italy,umbria,8.79
+Domaine de la Baume,2020,84395,Merlot Grand Châtaignier 2020,3.6,302,france,languedoc-roussillon,8.79
+Domaine de la Baume,2021,1160111,Sauvignon Blanc Les Mariés 2021,4.0,438,france,languedoc-roussillon,8.79
+Piccini,2019,1565434,Collezione Oro Chianti Riserva 2019,3.7,1176,italy,chianti,8.79
+Cantine due Palme,2020,1379154,Tenuta Albrizzi Cabernet Sauvignon - Primitivo 2020,3.8,395,italy,lecce,8.79
+Domaine de la Baume,2020,5203938,Saint-Geniès Petit Verdot 2020,3.8,28,france,languedoc-roussillon,8.79
+Maison Roche de Bellene,2017,1205581,Chardonnay Bourgogne Vieilles Vignes 2017,3.8,675,france,bourgogne,8.8
+Cielo e Terra,2020,3559904,3 Passo Rosso 2020,4.0,154,italy,puglia,8.8
+Blanville,2020,6425115,Rosé 2020,3.7,46,france,vin-de-pays-doc,8.8
+Sella & Mosca,2014,1284267,Acino M Monica di Sardegna 2014,3.3,50,italy,monica-di-sardegna,8.8
+Dilé,N.V.,3865827,Moscato N.V.,3.8,599,italy,piedmont,8.8
+Maison Roche de Bellene,2017,1174567,Pinot Noir Bourgogne Vieilles Vignes 2017,3.7,1686,france,bourgogne,8.8
+Corte Giara,2021,1135872,Soave 2021,3.6,32,italy,soave,8.81
+Talamonti,2020,1162388,Moda' Montepulciano d'Abruzzo 2020,3.6,86,italy,montepulciano-dabruzzo,8.82
+Talamonti,2018,1162383,Trebì Trebbiano d'Abruzzo 2018,3.6,181,italy,trebbiano-dabruzzo,8.82
+Beyer Ranch,2020,5203637,Chardonnay 2020,3.5,29,united-states,arroyo-seco,8.84
+Beyer Ranch,2018,5207392,Cabernet Sauvignon 2018,3.8,199,united-states,central-coast,8.84
+Domaine Bousquet,2021,779027,Cabernet Sauvignon 2021,3.5,57,argentina,tupungato,8.85
+Familia Torres,2021,2619,San Valentín Parellada 2021,4.2,978,spain,comunidad-autnoma-de-catalua,8.85
+El Castilla,2020,10497799,Monastrell 2020,4.0,35,spain,vino-de-mesa,8.85
+Jaume Serra,N.V.,1215754,Arte Latino Cava Brut N.V.,3.5,4328,spain,cava,8.85
+Barista,2021,1145241,Pinotage 2021,4.0,1242,south-africa,western-cape,8.85
+Bon Courage,2020,1181889,Chardonnay Prestige Cuvée 2020,4.0,99,south-africa,robertson,8.86
+Nebla,2019,3246999,Garnacha 2019,3.7,294,spain,comunitat-valenciana,8.87
+Esporão,2020,1105373,Monte Velho Branco 2020,3.7,883,portugal,alentejano,8.87
+Planeta,2019,4991,La Segreta Il Bianco 2019,3.7,893,italy,sicilia,8.9
+Lenotti,2020,1126806,Colle dei Tigli Bianco del Veneto 2020,4.0,573,italy,veneto,8.9
+Les Hauts de Palette,2018,2801913,Chateau Haut-Mondain Grande Réserve Bordeaux 2018,3.6,74,france,bordeaux,8.9
+Piccini,2020,8252900,Collezione Oro Toscana Rosato 2020,3.9,82,italy,tuscany,8.9
+Gravuras do Côa,2019,6733705,Reserva Branco 2019,4.0,25,portugal,douro,8.9
+Château Lauduc,2019,6262206,L'Invincible 2019,3.8,136,france,bordeaux,8.9
+Duchessa Lia,2020,1985539,Barbera del Monferrato Frizzante 2020,3.2,62,italy,barbera-del-monferrato-superiore,8.9
+Colli Vicentini,N.V.,1197733,Torre dei Vescovi Durello Lessini Spumante Brut N.V.,3.4,370,italy,monti-lessini,8.9
+Raimat,2019,1145711,Abadia Cabernet Sauvignon - Tempranillo 2019,3.5,417,spain,costers-del-segre,8.9
+Bodegas Pedro Escudero,2021,3317956,Finca Valdelagunde Cuveé Especial 2021,4.1,215,spain,castilla-and-leon,8.9
+Anne et Thierry Bonnel,2018,1173537,Leukadios Minervois 2018,3.6,43,france,minervois,8.91
+Librandi,2021,1150137,Cirò Bianco (Segno) 2021,3.8,61,italy,ciro,8.92
+Marotti Campi,2021,1421682,Luzano Verdicchio dei Castelli di Jesi Classico Superiore 2021,3.6,42,italy,verdicchio-dei-castelli-di-jesi,8.94
+Alphonse Kuentz,2018,1262920,Réserve Personnelle Riesling 2018,3.5,25,france,alsace,8.95
+Quercus,2020,1148828,Rebula 2020,3.7,108,slovenia,goriska-brda,8.95
+Quercus,2019,1642531,Sivi Pinot (Pinot Grigio) 2019,3.5,54,slovenia,goriska-brda,8.95
+Candidato,2018,74440,Tempranillo 2018,3.3,217,spain,vino-de-mesa,8.95
+Paul Mas,2019,5280655,Saint Hilaire Vineyard Pinot Noir Réserve 2019,3.6,321,france,vin-de-pays-doc,8.95
+Corte Giara,2018,1690882,Chardonnay delle Venezie 2018,3.6,152,italy,della-venezie,8.95
+Château Clamens,2018,7321621,Négrette - Syrah 2018,3.9,111,france,fronton,8.95
+Boutique,2019,5242091,Merlot - Malbec 2019,3.8,37,bulgaria,thracian-valley,8.95
+Tampesta,2016,2539560,Albarín Blanco 2016,3.8,47,spain,tierra-de-leon,8.95
+Les Celliers de Meknès,2019,1220674,L'Excellence de Bonassia 2019,3.6,29,morocco,meknes,8.95
+Quinta do Monte Bravo,2017,1209292,Reserva 2017,3.7,46,portugal,douro,8.95
+Boccantino,2019,6693216,Negroamaro 2019,3.6,30,italy,lecce,8.95
+Nugan,2020,74050,Third Generation Chardonnay 2020,3.6,97,australia,south-eastern,8.95
+Casa Silva,2020,18300,Colección Sauvignon Blanc 2020,3.8,73,chile,colchagua-valley,8.95
+Santa Inés,2019,1138756,Classic Sauvignon  Blanc 2019,3.6,38,chile,maipo-valley,8.95
+Fabulas,2018,6349201,Fara Montepulciano d'Abruzzo 2018,3.8,338,italy,montepulciano-dabruzzo,8.95
+Tarani,2020,5773333,Réserve Chardonnay 2020,3.8,38,france,comte-tolosan,8.95
+Rapariga da Quinta,2020,2527802,Colheita Seleccionada Branco 2020,3.6,62,portugal,alentejano,8.95
+Dominio de la Vega,N.V.,1489469,Cava Idilicum Brut N.V.,3.5,773,spain,cava,8.95
+Favaios,2019,5335762,Casa Velha Tinto 2019,3.6,143,portugal,douro,8.95
+Bosio,2018,1203569,Boschi Dei Signori Nebbiolo d'Alba 2018,3.5,196,italy,nebbiolo-dalba,8.95
+Boccantino,2020,6326797,Susumaniello 2020,3.7,161,italy,lecce,8.95
+Masseria Pietrosa,2020,3875307,Primavoce Primitivo Salento 2020,3.6,31,italy,,8.95
+Murviedro,2015,6506072,Audentia Reserva 2015,3.6,46,spain,comunitat-valenciana,8.95
+Fabulas,2018,6349201,Fara Montepulciano d'Abruzzo 2018,3.8,338,italy,montepulciano-dabruzzo,8.95
+Feuerheerd's,N.V.,3420481,Fine Ruby Port N.V.,3.7,55,portugal,,8.95
+Alain Grignon,2020,1363489,Beauté du Sud Cabernet - Syrah 2020,3.9,39,france,vin-de-pays-doc,8.95
+Les Jamelles,2020,1627137,Malbec 2020,4.1,415,france,vin-de-pays-doc,8.95
+Château la Négly,2018,7172923,Asterides 2018,3.6,201,france,languedoc-roussillon,8.95
+Du Toitskloof,2021,1126248,Chenin Blanc 2021,3.7,141,south-africa,western-cape,8.95
+Le Grand Noir,2021,2028607,Sauvignon Blanc 2021,3.7,86,france,vin-de-pays-doc,8.95
+Le Grand Noir,2020,1141077,Pinot Noir 2020,3.8,666,france,vin-de-pays-doc,8.95
+Saint Peyre,2020,1489386,Viognier 2020,4.0,28,france,languedoc-roussillon,8.95
+Domaine du Tariquet,2021,2546290,Sauvignon Côtes de Gascogne 2021,3.7,55,france,cotes-de-gascogne,8.95
+Boccantino,2020,6640266,Primitivo - Susumaniello 2020,3.9,404,italy,lecce,8.95
+Calmel & Joseph,2021,1232028,Villa Blanche Chardonnay 2021,3.9,67,france,vin-de-pays-doc,8.95
+Casa Ermelinda Freitas,2019,1247331,Sauvignon Blanc - Verdelho 2019,4.1,186,portugal,terras-do-sado,8.95
+Borsao Bodegas,2020,1216711,Barrica (Selección) 2020,3.6,104,spain,campo-de-borja,8.95
+Casa Charlize,2019,7378767,Toscana Rosso 2019,4.0,283,italy,tuscany,8.95
+Luccarelli,2020,1162178,Negroamaro 2020,4.0,262,italy,puglia,8.95
+Whistling Duck,2020,4168450,Shiraz 2020,3.9,259,australia,hilltops,8.95
+Honoro Vera,2021,4384249,Rosé 2021,3.8,47,spain,jumilla,8.95
+Calmel & Joseph,2020,4217416,Villa Blanche Pinot Noir 2020,3.6,147,france,vin-de-pays-doc,8.95
+Whistling Duck,2020,4168450,Shiraz 2020,3.9,259,australia,hilltops,8.95
+Cellaro,2021,1250018,Lumà Grillo 2021,4.1,77,italy,sicily,8.95
+Abbotts & Delaunay,2021,4667264,Les Fruits Sauvages Grenache Rosé 2021,3.9,30,france,vin-de-pays-doc,8.95
+Bodegas Valdemar,2020,15491,Conde de Valdemar Blanco 2020,3.7,124,spain,rioja,8.95
+Latentia Winery,2020,8470855,90 Novantaceppi Sauvignon Blanc 2020,3.8,52,italy,friuli,8.95
+Marques del Silvo,2017,8221477,Crianza 2017,3.9,620,spain,rioja,8.95
+Bonacchi,2017,4683855,II Vecchio Maestro Chianti Riserva 2017,4.0,157,italy,chianti,8.95
+Cardamore,2018,7172456,Toscana Rosso 2018,4.0,68,italy,tuscany,8.95
+Vins Bréban,2021,1552362,Les Hauts Plateaux Alpes de Haute Provence Rosé 2021,3.8,29,france,alpes-de-haute-provence,8.95
+Il Pumo,2020,4261501,Salice Salentino 2020,4.0,154,italy,salice-salentino,8.95
+Cesari,2021,5690548,Pinot Grigio delle Venezie 2021,4.1,330,italy,della-venezie,8.95
+Nuviana,2018,1623884,Chardonnay 2018,3.7,973,spain,valle-del-cinca,8.95
+Paul Mas,2020,7035950,Nicole Vineyard Viognier Réserve 2020,3.8,499,france,vin-de-pays-doc,8.95
+De Chansac,2020,1241087,Sauvignon Blanc 2020,3.7,35,france,cotes-de-gascogne,8.95
+Plaimont,2020,5941661,Le Gasconierre Côtes de Gascogne Blanc 2020,4.0,95,france,cotes-de-gascogne,8.95
+Matsu,2021,1169235,El Picaro 2021,3.8,522,spain,toro,8.95
+Allegro,2019,1184414,Primitivo 2019,3.7,119,italy,puglia,8.95
+Biscardo,2021,4467790,Oropasso Garganega - Chardonnay 2021,3.9,85,italy,veneto,8.95
+Biscardo,2019,3347644,Neropasso Veneto Rosso 2019,4.0,434,italy,veneto,8.95
+Torrevento,2017,1250887,Salice Salentino Faneros Rosso 2017,3.6,129,italy,salice-salentino,8.95
+Jaffelin,2020,2054407,Chardonnay 2020,3.8,42,france,vin-de-pays-vignobles-de-france,8.95
+Codici,2020,5626633,Masserie Primitivo 2020,4.0,176,italy,puglia,8.95
+Calalenta,2021,9250416,Pecorino 2021,4.1,147,italy,sicily,8.95
+Matsu,2020,1169235,El Picaro 2020,3.8,3601,spain,toro,8.95
+Le Grand Noir,2021,1137144,Chardonnay 2021,3.9,185,france,vin-de-pays-doc,8.95
+Duca di Saragnano,2021,8502434,Sangiovese Toscana Bianco 2021,3.8,107,italy,tuscany,8.95
+Le Pas de la Dame,2017,3111078,Rosa 2017,3.7,53,france,cotes-de-malepere,8.95
+Entre Vinyes,2019,4353084,Oníric Rosat 2019,3.7,35,spain,penedes,8.95
+Château de l'Hyverniere,2018,1202208,Muscadet Sèvre et Maine Sur Lie 2018,3.5,163,france,muscadet-de-sevre-et-maine,8.95
+Doppio Passo,2019,2365370,Fiano 2019,3.7,244,italy,puglia,8.95
+Palazzo Mio,2020,2491920,Grillo 2020,3.5,45,italy,sicily,8.95
+Château du Cèdre,2020,3843261,Blandine Le Blanc 2020,3.5,27,france,cotes-de-gascogne,8.95
+Whistling Duck,2020,1372673,Cabernet - Merlot 2020,3.7,58,australia,south-eastern,8.95
+Vignerons Ardéchois,2019,4647594,Luc Rosé 2019,3.9,29,france,ardeche,8.95
+Geografico,2019,15342,Vernaccia di San Gimignano 2019,3.2,112,italy,vernaccia-di-san-gimignano,8.95
+Domaine de Miselle,2020,1165402,Colombard - Gros Manseng 2020,3.7,116,france,cotes-de-gascogne,8.95
+Lenotti,2019,1134821,Capomastro 2019,3.7,100,italy,veneto,8.95
+Wolfberger,2020,1145224,Pinot Gris Alsace Signature 2020,3.7,39,france,alsace,8.95
+The Beefsteak Club,2020,3387637,Malbec 2020,3.7,27,argentina,mendoza,8.95
+Bodega Campo Eliseo,2019,1574516,Campesino 2019,3.8,41,spain,toro,8.95
+Lionel Osmin & Cie,2020,7798611,Les Villas Villa Côte d'Argent 2020,3.9,133,france,vin-de-pays-vignobles-de-france,8.95
+Tuna Club,2020,5500578,Verdejo - Sauvignon Blanc 2020,3.7,79,spain,castilla-la-mancha,8.95
+Geografico,2020,5609265,Bosco del Grillo Governo 2020,4.1,120,italy,tuscany,8.95
+Rabl,2020,3217492,Grüner Veltliner Löss 2020,3.6,61,austria,kamptal,8.95
+As Laxas,2020,1136115,Laxas Albarino 2020,3.9,363,spain,rias-baixas,8.95
+Arthur Metz,2019,1852042,Sylvaner Alsace 2019,3.7,150,france,alsace,8.95
+Château Fontarabie,2019,1263117,Blaye - Côtes de Bordeaux 2019,3.7,365,france,blaye-cotes-de-bordeaux,8.95
+Cabalié,2020,2011418,Cuvée Vieilles Vignes 2020,4.1,3238,france,vin-de-pays-doc,8.95
+Rivera,2020,1725599,Primitivo Salento 2020,4.0,292,italy,lecce,8.95
+Cellaro,2021,2056820,Lumà Nero d'Avola 2021,3.8,33,italy,sicily,8.95
+Mocavero,2019,1368629,Primitivo 2019,4.1,110,italy,lecce,8.95
+Roeno,2020,2917982,Le Fratte Chardonnay 2020,3.6,49,italy,valdadigo,8.95
+Feudi Salentini,2019,2387715,125 Uno Due Cinque Negroamaro del Salento 2019,4.0,131,italy,lecce,8.95
+Domaine Preignes le Vieux - Maison Robert Vic,2021,5515677,Délicate Rosé 2021,3.9,26,france,vin-de-pays-doc,8.95
+La Purisima,2019,4699404,Consentido Syrah 2019,3.7,66,spain,yecla,8.95
+Rapariga da Quinta,2019,1160854,Colheita Seleccionada Rouge 2019,3.8,446,portugal,alentejano,8.95
+Cartuxa,2019,1165841,EA Tinto 2019,3.8,2068,portugal,alentejano,8.95
+The Beefsteak Club,2019,5600608,Beef & Liberty Old vines Tempranillo 2019,3.6,64,spain,castilla-la-mancha,8.95
+Bastioni della Rocca,2020,9335092,Leggero Appassimento Puglia 2020,4.0,440,italy,puglia,8.95
+Ponte Lungo,2019,5898195,Armano Rosso 2019,3.9,497,italy,puglia,8.95
+La Gioiosa,N.V.,1164082,Prosecco N.V.,3.4,1480,italy,prosecco,8.95
+Cantine Leonardo da Vinci,2018,7121988,Rocca di Cesena 2018,4.1,312,italy,sangiovese-di-romagna,8.95
+Galil Mountain Winery (יקב הרי גליל),2019,82819,Cabernet Sauvignon 2019,3.6,178,israel,upper-galilee,8.95
+Bastioni della Rocca,2019,9335092,Leggero Appassimento Puglia 2019,4.1,2935,italy,puglia,8.95
+Les Jamelles,2020,10556,Syrah 2020,3.9,302,france,vin-de-pays-doc,8.95
+Velenosi,2020,1146486,Rosso Piceno 2020,3.5,48,italy,rosso-piceno,8.95
+Farnese,2018,21647,Fantini Casale Vecchio Montepulciano d'Abruzzo 2018,3.8,1051,italy,montepulciano-dabruzzo,8.95
+Petraio,2018,1411414,Sangiovese 2018,3.9,84,italy,puglia,8.95
+Blanc Foussy,N.V.,2281634,Ice by Blanc Foussy Chardonnay Demi Sec N.V.,3.8,959,france,,8.95
+Château du Cèdre,2020,3802038,Marcel Malbec 2020,3.6,126,france,cotes-du-lot,8.95
+Latentia Winery,2019,6573119,90 Novantaceppi Nero Di Troia 2019,3.7,72,italy,puglia,8.95
+Latentia Winery,2020,8347028,90 Novantaceppi Montepulciano d'Abruzzo 2020,3.2,41,italy,montepulciano-dabruzzo,8.95
+Castello di Radda,2019,2357636,Rosato 2019,3.7,29,italy,tuscany,8.95
+Cantine Leonardo da Vinci,2018,7121988,Rocca di Cesena 2018,4.1,312,italy,sangiovese-di-romagna,8.95
+La Gioiosa,N.V.,1164082,Prosecco N.V.,3.4,1480,italy,prosecco,8.95
+Les Producteurs Réunis,2020,7324252,Cuvée Dissenay Chardonnay 2020,3.7,588,france,vin-de-pays-doc,8.95
+Velenosi,2020,1146486,Rosso Piceno 2020,3.5,48,italy,rosso-piceno,8.95
+Villa Conchi,N.V.,1285851,Cava Brut Selección N.V.,3.7,8830,spain,cava,8.95
+Biscardo,2021,6250375,Rosapasso Pinot Nero 2021,4.0,322,italy,veneto,8.95
+Luca Rossi,2020,5123797,Maron Appassimento Rosso 2020,4.2,121,italy,puglia,8.95
+Atalaya,2021,1193347,Laya 2021,3.9,75,spain,almansa,8.95
+Cantine Paradiso,2019,1978115,Posta Piana Negroamaro 2019,4.1,165,italy,puglia,8.95
+Castillo de Aresan,2020,7763169,Tradición de Aresan Tempranillo - Cabernet Sauvignon - Petit Verdot 2020,4.0,746,spain,la-mancha,8.95
+Domaine Grains d'Estuaire,2019,7162849,Grains de Cocotte Merlot - Cabernet 2019,3.7,65,france,charentais,8.95
+Entre Vinyes,2017,2467441,Oníric Xarel-Lo 2017,3.4,61,spain,penedes,8.95
+Santa Inés,2019,3963768,Classic Cabernet Sauvignon 2019,3.4,49,chile,maipo-valley,8.95
+Château Belair-Coubet,2019,2872419,Côtes de Bourg 2019,3.7,286,france,cotes-de-bourg,8.95
+Bodega Picos,2020,1837623,Gregoriano Roble 2020,3.8,34,spain,campo-de-borja,8.95
+Lamblin & Fils,2020,1392673,Sauvignon 2020,3.7,26,france,loire-valley,8.95
+Viña Marty,2019,4403912,Pacha Reserva Merlot 2019,3.4,91,chile,central-valley,8.95
+Viña Marty,2019,8377798,Pacha Carménère 2019,3.8,36,chile,central-valley,8.95
+Terrazul,2018,6333952,El Uru Tannat 2018,4.1,62,uruguay,san-jose,8.95
+Wolfberger,2020,1741813,Pinot Blanc Alsace Signature 2020,3.9,60,france,alsace,8.95
+Bon Courage,2016,2256240,Pinotage 2016,4.0,74,south-africa,robertson,8.95
+Le Grand Noir,2020,8152983,Les Deux Aristos Cabernet Sauvignon 2020,4.1,806,france,languedoc-roussillon,8.95
+Domaine de la Baume,2021,1225470,Pinot Noir  Les Vignes d'Heloise Rosé 2021,3.7,55,france,languedoc-roussillon,8.95
+Tarani,2018,1321024,Reserve Cahors Malbec 2018,3.0,59,france,,8.95
+Reverdito,2019,2141014,Barbera d'Alba 2019,3.5,30,italy,barbera-dalba,8.95
+Bodegas Albero,2018,5600727,Isabella Bobal 2018,3.9,196,spain,ribera-del-jucar,8.95
+Clos Pons,2017,3288432,Jan Petit 2017,3.4,256,spain,costers-del-segre,8.95
+Casella,2021,1144447,The Black Stump Durif - Shiraz 2021,4.1,725,australia,south-eastern,8.95
+Boccantino,2020,8471816,Nero di Troia - Primitivo 2020,3.8,85,italy,puglia,8.95
+Domaine de la Baume,2021,1225470,Pinot Noir  Les Vignes d'Heloise Rosé 2021,3.7,55,france,languedoc-roussillon,8.95
+Reverdito,2019,2141014,Barbera d'Alba 2019,3.5,30,italy,barbera-dalba,8.95
+Tarani,2018,1321024,Reserve Cahors Malbec 2018,3.0,59,france,,8.95
+Naia,2020,2681082,S-Naia 2020,3.8,77,spain,rueda,8.95
+Favaios,2020,6156924,Casa Velha Branco 2020,3.7,140,portugal,douro,8.95
+Villa Teresa,N.V.,2071951,Frizzante Rosè N.V.,3.9,1396,italy,veneto,8.95
+Feuerheerd's,N.V.,3420491,Fine Tawny Port N.V.,3.7,280,portugal,,8.95
+Velenosi,2020,1164751,Montepulciano d'Abruzzo 2020,3.7,39,italy,montepulciano-dabruzzo,8.95
+Carmen,2020,4255257,Premier 1850 Reserva Carmenère 2020,4.0,76,chile,colchagua-valley,8.95
+Aluado,2020,1497540,Alicante Bouschet 2020,4.0,1973,portugal,estremadura,8.95
+Tinazzi,2020,1182994,Ca' de' Rocchi Bardolino 2020,4.0,105,italy,bardolino-classico,8.95
+Karas,2019,1824814,White 2019,3.9,148,armenia,armavir,8.95
+Norbert Schmelzer,2020,5893499,Zweigelt Classic 2020,4.1,54,austria,burgenland,8.95
+Le Grand Noir,2021,2576384,Rosé 2021,3.5,43,france,minervois,8.95
+Gourmet Pere & Fils,2020,6369418,Moules en Folie Colombard - Sauvignon Blanc 2020,4.3,110,france,languedoc-roussillon,8.95
+Garamvári Szőlőbirtok,2018,5008588,Lellei Muskotály 2018,3.5,25,hungary,,8.95
+San Marzano,2020,1269032,I Tratturi Primitivo 2020,3.7,189,italy,puglia,8.95
+Montes,2021,1151903,Reserva Chardonnay (Classic) 2021,3.7,184,chile,central-valley,8.95
+Montes,2021,1268490,Reserva Merlot (Classic) 2021,3.8,52,chile,colchagua-valley,8.95
+Paul Mas,2020,1141179,Vignes de Nicole Cabernet Sauvignon - Merlot Pays d'Oc 2020,3.7,817,france,vin-de-pays-doc,8.95
+Tinazzi,2020,7654156,Cantine San Giorgio Sentieri Infiniti Primitivo Puglia 2020,4.1,639,italy,puglia,8.95
+Latentia Winery,2020,7412856,90 Novantaceppi Pinot Grigio 2020,3.7,82,italy,friuli,8.95
+Nuviana,2018,1635972,Tempranillo - Cabernet Sauvignon 2018,3.8,2265,spain,valle-del-cinca,8.95
+Callia,2019,2739150,Lunaris Malbec 2019,3.8,286,argentina,san-juan,8.95
+El Castilla,2020,5915719,Syrah 2020,3.9,609,spain,vino-de-mesa,8.95
+Veedha,2019,1219673,Douro Red 2019,4.0,200,portugal,douro,8.95
+Bodega de Bardos,2021,6560205,Rueda Verdejo 2021,4.0,297,spain,rueda,8.95
+Bastioni della Rocca,2020,8528334,Appassimento 2020,4.3,562,italy,puglia,8.95
+Paul Mas,2020,6275207,Nicole Vineyard Chardonnay Réserve 2020,3.9,67,france,languedoc,8.95
+Les Producteurs Réunis,2019,7526678,Cuvée Dissenay Pinot Noir 2019,3.6,259,france,vin-de-pays-doc,8.95
+Casa Ermelinda Freitas,2020,5837811,Rocksand Shiraz 2020,4.2,383,portugal,terras-do-sado,8.95
+Vigneti del Salento,2020,2549198,Primitivo - Merlot Zolla 2020,4.1,98,italy,puglia,8.95
+Gran Sasso,2020,5776482,Primitivo Puglia Edizione Limitata Terra Vera 2020,3.8,256,italy,puglia,8.95
+Cantine Paradiso,2019,1211634,Posta Piana Salice Salentino 2019,4.1,58,italy,salice-salentino,8.95
+Latentia Winery,2020,5831544,90 Novantaceppi Primitivo 2020,3.9,1804,italy,puglia,8.95
+Naia,2020,1160155,K-Naia 2020,3.9,591,spain,rueda,8.95
+Feuerheerd's,2019,7090736,Reserva Tinto 2019,4.1,133,portugal,douro,8.95
+San Marzano,2021,4389543,Tramari Rosé di Primitivo 2021,4.0,172,italy,lecce,8.95
+Raimat,2018,1145711,Abadia Cabernet Sauvignon - Tempranillo 2018,3.5,668,spain,costers-del-segre,8.95
+Baglio Gibellina,2020,1725436,U...Passimiento Rouge 2020,4.2,1039,italy,sicily,8.95
+Cesari,2018,2328413,Jùsto Rosso 2018,3.7,352,italy,veneto,8.95
+Famille Perrin,2020,1519273,Ventoux 2020,3.5,116,france,cotes-du-ventoux,8.95
+Bodegas Vilano,2020,3973671,Black Edition 2020,4.1,295,spain,ribera-del-duero,8.95
+Proyecto Garnachas de España,2019,1393134,La Garnacha Salvaje del Moncayo 2019,3.8,461,spain,aragon,8.95
+Rex Mundi,2020,2687609,Shiraz - Grenache 2020,3.9,547,france,vin-de-pays-doc,8.95
+Tinedo,2020,1391595,Ja! 2020,3.5,67,spain,la-mancha,8.95
+Pfaffenheim,2017,1680723,Tradition Pinot Blanc 2017,3.7,138,france,alsace,8.96
+Castello di Torre In Pietra,2021,2004203,Vermentino 2021,3.4,32,italy,lazio,8.98
+One Chain,2016,1253466,The Wrong 'Un Shiraz - Cabernet Sauvignon 2016,3.5,208,australia,south-eastern,8.99
+Álvarez y Díez,2021,2468679,Silga Verdejo 2021,3.6,37,spain,rueda,8.99
+Laurent Miquel,2020,5370989,Solas Viognier 2020,3.8,58,france,vin-de-pays-doc,8.99
+Viento Aliseo,2018,1895864,Tempranillo - Petit Verdot 2018,3.4,38,spain,la-mancha,8.99
+Tempore,2020,8060412,Independent Organic Tempranillo 2020,3.6,52,spain,aragon,8.99
+Domaine Romarion,2019,8386731,Extrait de Romarion Viognier 2019,3.9,63,france,vin-de-pays-doc,8.99
+Veuve du Vernay,N.V.,4382335,Ice Rosé N.V.,4.0,4668,france,vin-de-pays-vignobles-de-france,8.99
+Laurent Miquel,2020,5057499,Solas Pinot Noir 2020,3.4,30,france,vin-de-pays-doc,8.99
+Mas Fi,N.V.,1199785,Cava Brut N.V.,3.5,1218,spain,cava,8.99
+Laurent Miquel,2019,5370987,Solas Chardonnay 2019,3.7,26,france,vin-de-pays-doc,8.99
+Laurent Miquel,2017,8295690,Solas Réserve Syrah - Grenache 2017,3.5,33,france,languedoc,8.99
+Domaines Astruc,2020,14308,Viognier 2020,3.8,40,france,vin-de-pays-doc,8.99
+Velenosi,2019,1380817,Querciantica Verdicchio dei Castelli di Jesi Classico 2019,3.8,363,italy,verdicchio-dei-castelli-di-jesi,8.99
+Luccarelli,2021,1162182,Primitivo 2021,3.8,68,italy,puglia,8.99
+Tornai,2017,1555824,Furmint 2017,3.4,105,hungary,soml,9.0
+Asconi,2020,4747638,Sol Negru Feteasca Alba 2020,4.0,38,moldova,md-moldova,9.0
+Hacienda López de Haro,2020,3415961,Blanco 2020,3.6,81,spain,rioja,9.0
+La Prade Mari,2016,1189335,Chant de l'Olivier Minervois 2016,3.8,69,france,minervois,9.0
+Beaurempart,2021,3178255,Grande Réserve Rouge 2021,4.1,35,france,vin-de-pays-doc,9.0
+Vinos de Rauda,2018,1685853,Tinto Roa Roble 2018,3.6,29,spain,ribera-del-duero,9.0
+Castelnau,2020,1902140,Picpoul de Pinet 2020,3.8,41,france,picpoul-de-pinet,9.0
+Marc Isart,2019,4544709,'La Maldicion' Tinto de Valdilecha 2019,3.6,208,spain,comunidad-de-madrid,9.0
+Painted Wolf,2020,1554077,The Den Chenin Blanc 2020,3.7,82,south-africa,swartland,9.0
+Piccini,N.V.,10247524,Pinocchio Rosso N.V.,3.8,345,italy,vino-da-tavola,9.0
+Dalla Cia,2017,5447137,Private Blend 2017,3.6,43,south-africa,western-cape,9.0
+Nyakas,2021,1147707,Budai Irsai Olivér 2021,3.8,91,hungary,etyek-buda,9.0
+La Purisima,2019,2283507,Monastrell 2019,3.5,152,spain,yecla,9.0
+Wittmann,2019,7139613,100 Hügel Rosé Trocken 2019,3.6,36,germany,rheinhessen,9.0
+Château de Ricaud,2019,1710956,Bordeaux Blanc 2019,3.8,110,france,bordeaux,9.04
+Kaiken,2019,7632063,Estate Malbec 2019,3.8,2259,argentina,mendoza,9.05
+De Moya,2020,2766217,Justina 2020,3.8,29,spain,comunitat-valenciana,9.05
+Zuccardi,2021,1277166,Vida Orgánica Malbec 2021,3.4,36,argentina,mendoza,9.07
+Heim,2019,1915435,Impérial Pinot Blanc 2019,3.7,54,france,alsace,9.07
+Zuccardi,2020,1227103,Vida Orgánica Chardonnay 2020,3.6,47,argentina,mendoza,9.07
+Win,N.V.,2608679,Verdejo Frizzante N.V.,3.4,93,spain,,9.1
+Duchessa Lia,2020,1208375,Barbera d'Asti 2020,3.3,133,italy,barbera-dasti,9.1
+Le Paradou,2020,9847054,Cinsault 2020,3.7,56,france,vin-de-pays-de-mediterranee,9.1
+Boekenhoutskloof,2017,1128584,The Wolftrap Rosé 2017,3.4,38,south-africa,franschhoek,9.13
+Boekenhoutskloof,2020,1128584,The Wolftrap Rosé 2020,3.4,33,south-africa,franschhoek,9.13
+Boekenhoutskloof,2019,1154329,The Wolftrap White Blend 2019,3.5,342,south-africa,franschhoek,9.13
+Les Vignerons de Buzet,2018,1324316,Château du Bouchet Buzet 2018,3.2,42,france,buzet,9.15
+Weingut R&A Pfaffl,2021,3978878,Zweigelt vom Haus 2021,3.9,40,austria,niederosterreich,9.15
+Caparzo,2019,77499,Sangiovese Toscana 2019,3.9,3568,italy,tuscany,9.17
+Caparzo,2020,77499,Sangiovese Toscana 2020,3.7,45,italy,tuscany,9.17
+Vigneti del Salento,2018,2549198,Primitivo - Merlot Zolla 2018,4.0,731,italy,puglia,9.2
+Aurelie Vic,2020,2008677,La Balade Minervois 2020,4.1,66,france,minervois,9.2
+Masciarelli,2021,1255672,Rosato Colline Teatine 2021,3.3,29,italy,colline-teatine,9.21
+Vignobles Meyre,2016,6571661,Château La Fleur Bibian Listrac-Médoc 2016,3.7,35,france,listrac,9.21
+Villiera,2018,1251346,Down to Earth Red (Touriga Nacional - Shiraz) 2018,3.4,56,south-africa,stellenbosch,9.22
+Aristocratico,2020,3960464,Appassimento 2020,4.0,1095,italy,lecce,9.22
+Montes,2019,1268490,Reserva Merlot (Classic) 2019,3.7,669,chile,colchagua-valley,9.24
+Joao Portugal Ramos,2020,1169767,Reserva Tinto 2020,3.7,202,portugal,alentejo,9.24
+Montes,2020,71374,Reserva Cabernet Sauvignon (Classic) 2020,3.8,697,chile,colchagua-valley,9.24
+Joao Portugal Ramos,2019,1169767,Reserva Tinto 2019,3.8,371,portugal,alentejo,9.24
+Hacienda El Espino,2020,8721094,Garnacha Tintorera Organic 2020,3.3,302,spain,almansa,9.24
+Colle Corviano,2020,5131192,Montepulciano d'Abruzzo 2020,3.8,68,italy,montepulciano-dabruzzo,9.25
+Salentein,2018,1539157,Portillo Tempranillo 2018,3.4,216,argentina,valle-de-uco,9.25
+Sonoroso,2018,8737426,Dark 2018,4.0,107,italy,vigneti-delle-dolomiti,9.25
+Feudo Arancio,2020,1191231,Dalila Riserva 2020,4.0,146,italy,sicilia,9.25
+Pierrick Harang,2020,2528782,Le Bio Balthazar Minervois Syrah - Grenache Noir 2020,3.6,115,france,minervois,9.25
+D'Alamel,2018,6404750,Reserva Chardonnay 2018,3.6,107,chile,central-valley,9.25
+La Carraia,2020,82606,Sangiovese Umbria 2020,3.7,94,italy,umbria,9.25
+Clavel,2019,1244031,Les Garrigues Coteaux du Languedoc 2019,3.8,104,france,languedoc,9.25
+Paul Mas,2020,6937140,Vignes de Nicole Rouge 2020,3.9,192,france,vin-de-pays-doc,9.25
+Saint Peyre,2021,1233598,Chardonnay 2021,4.1,89,france,languedoc-roussillon,9.25
+Bodegas Pedro Escudero,2021,8145514,Finca Valdelagunde Sauvignon Blanc 2021,4.1,39,spain,rueda,9.25
+Paul Mas,2020,24045,Viognier 2020,3.7,26,france,languedoc-roussillon,9.25
+Les Jamelles,2020,10552,Viognier 2020,3.7,207,france,vin-de-pays-doc,9.25
+Kaiken,2018,8357155,Estate Cabernet Sauvignon 2018,3.6,966,argentina,mendoza,9.25
+Calmel & Joseph,2020,1637892,Villa Blanche Syrah 2020,3.8,61,france,vin-de-pays-doc,9.25
+Azul Portugal,2016,1640288,Reserva Douro Tinto 2016,3.9,40,portugal,douro,9.25
+d'Arenberg,2017,1126874,The Stump Jump Shiraz 2017,3.4,911,australia,mclaren-vale,9.25
+Montes,2020,1149590,Reserva Sauvignon Blanc (Classic) 2020,3.6,302,chile,curico-valley,9.25
+Montespina,2021,2482875,Verdejo 2021,3.7,118,spain,rueda,9.25
+Salentein,2019,1253408,Portillo Pinot Noir 2019,3.6,1564,argentina,valle-de-uco,9.25
+Epicuro,2020,1246167,Primitivo 2020,3.8,271,italy,puglia,9.25
+Cuatro Pasos,2020,1258529,Pizarras de Otero Mencia 2020,3.8,226,spain,bierzo,9.25
+Cecchi,2017,1920452,Chianti Riserva 2017,3.8,161,italy,chianti,9.27
+Babylon's Peak,2021,6675469,Busy Bee Red Blend 2021,3.6,31,south-africa,swartland,9.3
+MAN,2019,1844272,Pinotage (Bosstok) 2019,3.5,184,south-africa,coastal-region,9.3
+Cantine due Palme,2020,1946584,Don Cosimo Primitivo 2020,3.7,83,italy,lecce,9.3
+Olivares,2021,2263226,Rosado 2021,3.6,36,spain,jumilla,9.3
+Cantine Birgi,2020,5320333,Trisole Nerello Mascalese 2020,3.5,55,italy,sicily,9.3
+MAN,2020,1844272,Pinotage (Bosstok) 2020,3.6,92,south-africa,coastal-region,9.3
+Babylon's Peak,2021,6262153,Busy Bee Chenin Blanc - Roussanne 2021,3.8,69,south-africa,swartland,9.3
+Cantine Birgi,2020,9417585,Trisole Nero d'Avola 2020,3.8,97,italy,sicilia,9.3
+Cecchi,2021,12128,La Mora Morellino di Scansano 2021,3.7,126,italy,morellino-di-scansano,9.3
+Villa des Anges,2020,7249882,Réserve 2020,4.1,468,france,languedoc-roussillon,9.3
+Villiera,2019,1376432,Down to Earth White (Sauvignon Blanc - Sémillon) 2019,3.7,45,south-africa,stellenbosch,9.31
+Venta La Vega - Bodegas Almanseñas,2021,7377040,Adaras Lluvia 2021,4.0,42,spain,castilla-la-mancha,9.33
+Poderi dal Nespoli,2020,4437192,Campodora Romagna Albana Secco 2020,3.6,36,italy,romagna,9.35
+Château de Millet,2020,1561954,Gros Manseng Moelleux 2020,4.1,32,france,cotes-de-gascogne,9.35
+Poderi dal Nespoli,2019,1176528,Nespolino Sangiovese 2019,3.6,209,italy,rubicone,9.35
+Poderi dal Nespoli,2020,1830352,Pagadebit di Romagna 2020,3.7,63,italy,romagna,9.35
+Anselmo Mendes,2021,1246384,Muros Antigos Escolha 2021,3.9,148,portugal,vinho-verde,9.35
+Vignobles Meyre,2016,1363376,Château les Hauts de Veyrin Listrac-Médoc 2016,3.3,25,france,listrac,9.37
+Montemercurio,2014,1365609,Tedicciolo 2014,3.8,67,italy,tuscany,9.37
+Cecchi,2018,4809734,La Mora Maremma Toscana Rosso 2018,3.7,171,italy,maremma-toscana,9.37
+Marotti Campi,2021,1292711,Rubico Lacrima di Morro d’Alba 2021,3.8,26,italy,lacrima-di-morro-dalba,9.37
+Notte Rossa,2019,8995933,Aglianico 2019,3.8,25,italy,lecce,9.4
+Casalforte,N.V.,1973260,Prosecco Extra Dry N.V.,3.4,4564,italy,prosecco,9.4
+Kaiken,2020,9355003,Estate Chardonnay 2020,3.6,177,argentina,mendoza,9.4
+Guerrieri Rizzardi,2021,8414345,Keya Rosé 2021,4.0,48,italy,bardolino-classico,9.4
+Cielo e Terra,2021,7247915,3 Passo Bianco 2021,3.9,54,italy,vino-da-tavola,9.4
+Cantine Paradiso,2019,1243188,Posta Piana Primitivo 2019,4.1,697,italy,puglia,9.4
+Paul Mas,2019,1230607,Cha Cha-Cha Chardonnay 2019,3.7,68,france,vin-de-pays-doc,9.4
+d'Arenberg,2019,1224439,The Stump Jump White Blend 2019,3.9,91,australia,mclaren-vale,9.4
+Doppio Passo,2021,1665268,Primitivo Rosato 2021,4.1,1425,italy,puglia,9.4
+Doppio Passo,2021,7275007,Grillo 2021,3.6,266,italy,sicilia,9.4
+Barista,2021,2724407,Chardonnay 2021,3.9,247,south-africa,western-cape,9.4
+Masottina,N.V.,1168470,Prosecco Extra Dry N.V.,3.8,1157,italy,prosecco,9.44
+Banfi,2019,22910,Centine Rosso 2019,3.7,892,italy,tuscany,9.44
+Cottas,2018,4402317,Branco 2018,3.6,28,portugal,douro,9.45
+Domaine de la Baume,2017,5358460,Cabernet Sauvignon 2017,3.7,114,france,languedoc,9.45
+Varvaglione,2021,2612292,12 e Mezzo Malvasia del Salento 2021,3.8,26,italy,lecce,9.45
+Domaine de la Baume,2020,84394,Syrah La Jeunesse 2020,3.8,267,france,languedoc-roussillon,9.45
+Varvaglione,2020,2612292,12 e Mezzo Malvasia del Salento 2020,3.7,177,italy,lecce,9.45
+Bodegas Valdemar,2020,1815410,Conde de Valdemar Rosado 2020,3.5,70,spain,rioja,9.45
+Ziobaffa,2019,2694831,Toscana 2019,4.0,203,italy,tuscany,9.45
+Salentein,2020,1977856,Portillo Sauvignon Blanc 2020,3.7,541,argentina,valle-de-uco,9.45
+19 Crimes,2020,8206102,Chard 2020,3.8,1109,australia,south-eastern,9.45
+Misty Cove,2021,2123384,Estate Series Sauvignon Blanc 2021,4.2,836,new-zealand,marlborough,9.45
+Domaine de la Baume,2020,1207814,Chardonnay Les Vignes de Madame 2020,3.7,299,france,languedoc-roussillon,9.45
+Cottas,2018,1394472,Tinto 2018,3.6,86,portugal,douro,9.45
+Warwick,2018,1204355,The First Lady Cabernet Sauvignon 2018,3.7,592,south-africa,stellenbosch,9.45
+Bodegas Valdemar,2021,1815410,Conde de Valdemar Rosado 2021,3.4,34,spain,rioja,9.45
+Scavi & Ray,N.V.,1167180,Prosecco Frizzante N.V.,3.4,1656,italy,prosecco,9.45
+Dark Horse,2018,4263387,Rosé 2018,3.4,871,united-states,california,9.45
+Parés Baltà,2021,13480,Penedès Parellada - Xarel-lo - Macabeo Blanc De Pacs 2021,3.8,49,spain,penedes,9.45
+Naia,2021,1160155,K-Naia 2021,3.8,313,spain,rueda,9.45
+Fatascia,2020,1161895,Nero d'Avola 2020,3.8,147,italy,sicily,9.45
+Marchese de Petri,2020,5209556,Villa Luisa  Montepulciano d'Abruzzo 2020,3.4,27,italy,montepulciano-dabruzzo,9.45
+Marchese de Petri,2021,1443268,Villa Luisa Pinot Grigio 2021,3.5,50,italy,della-venezie,9.45
+Marchese de Petri,2021,1309915,Villa Luisa Primitivo 2021,3.6,44,italy,puglia,9.45
+Dark Horse,2019,1273892,Chardonnay 2019,3.5,1407,united-states,california,9.45
+Varvaglione,2020,1454761,12 e Mezzo Primitivo del Salento 2020,3.9,669,italy,lecce,9.45
+Langmeil,2018,1692047,Spring Fever Chardonnay 2018,3.8,87,australia,barossa,9.45
+Domaine de la Baume,2019,84395,Merlot Grand Châtaignier 2019,3.7,298,france,languedoc-roussillon,9.45
+Tornai,2020,1865314,Zenit 2020,3.6,38,hungary,soml,9.45
+Cantine Paradiso,2019,8371609,Posta Piana Fiano - Greco 2019,3.5,27,italy,puglia,9.45
+Domaine de la Baume,2020,1202127,Cabernet Sauvignon Les Thermes 2020,3.8,295,france,languedoc-roussillon,9.45
+Varvaglione,2019,1432306,12 e Mezzo Negroamaro del Salento 2019,3.8,298,italy,lecce,9.45
+Banfi,2020,22914,Le Rime (Pinot Grigio - Chardonnay) 2020,3.8,556,italy,tuscany,9.45
+Corette,2019,1146291,Cabernet Sauvignon 2019,3.6,27,france,vin-de-pays-doc,9.45
+Salentein,2019,1176148,Portillo Merlot 2019,3.5,452,argentina,valle-de-uco,9.45
+Salentein,2019,1163679,Portillo Chardonnay 2019,3.5,454,argentina,valle-de-uco,9.45
+Dark Horse,2018,3242596,Sauvignon Blanc 2018,3.6,865,united-states,california,9.45
+Montes,2019,1165612,Reserva Malbec 2019,3.7,403,chile,colchagua-valley,9.45
+Dark Horse,2018,2457025,Cabernet Sauvignon 2018,3.7,3988,united-states,california,9.45
+Jean-Luc Colombo,2020,1124302,Côtes du Rhône Les Abeilles de Colombo Blanc 2020,3.4,27,france,cotes-de-rhone-villages,9.45
+Josselin,2020,2062426,Chardonnay - Terret 2020,3.9,55,france,vin-de-pays-doc,9.45
+Coutada Velha,2021,6396432,Branco 2021,4.1,275,portugal,alentejano,9.45
+Langmeil,2019,1692047,Spring Fever Chardonnay 2019,3.6,54,australia,barossa,9.45
+Ziobaffa,2021,4212639,Pinot Grigio 2021,3.8,81,italy,sicily,9.45
+Bodegas Valdemar,2021,15491,Conde de Valdemar Blanco 2021,3.7,30,spain,rioja,9.45
+Mezzacorona,2020,1441956,Castel Firmian Lagrein Trentino 2020,4.0,47,italy,trentino,9.46
+Quinta das Setencostas,2018,1182922,Tinto 2018,3.8,312,portugal,alenquer,9.48
+Casa Santos Lima,2017,5232081,Dalamquer Alenquer Tinto 2017,3.8,31,portugal,alenquer,9.48
+Cabriz,2020,1148721,Dão Colheita Seleccionada White 2020,3.7,1312,portugal,dao,9.48
+Cabriz,2021,1148721,Dão Colheita Seleccionada White 2021,3.8,179,portugal,dao,9.48
+Gaía,2019,82640,Nótios Red 2019,3.5,26,greece,peloponnisos,9.49
+Gaía,2020,1770872,Notios White 2020,3.8,163,greece,peloponnisos,9.49
+Carmen,2019,4255257,Premier 1850 Reserva Carmenère 2019,3.8,287,chile,colchagua-valley,9.49
+Familia Conesa,2018,4713508,La Doncella de las Viñas Tempranillo 2018,3.6,67,spain,guijoso,9.49
+Quinta do Carmo,2018,6039933,Dom Martinho Branco 2018,3.5,50,portugal,alentejano,9.5
+Warwick,2016,1204355,The First Lady Cabernet Sauvignon 2016,3.6,1367,south-africa,stellenbosch,9.5
+Welsh Brothers,N.V.,1378007,Medium Dry Madeira N.V.,3.3,43,portugal,,9.5
+Nittnaus,2021,1149096,Grüner Veltliner Selection 2021,4.0,75,austria,burgenland,9.5
+Bacca Nera,2020,1206690,Negroamaro - Primitivo Salento 2020,3.8,335,italy,lecce,9.5
+Le Secret des Capitelles,2016,1172634,Saint-Chinian 2016,3.6,83,france,saint-chinian,9.5
+Rickety Bridge,2016,1123176,The Foundation Stone Red Blend 2016,3.4,49,south-africa,franschhoek,9.5
+Celler del Roure,2021,1604486,Cullerot 2021,3.9,108,spain,comunitat-valenciana,9.5
+Amalaya,2021,1177446,Blanco (Torrontés - Riesling) 2021,4.0,287,argentina,salta,9.5
+Calalenta,2021,6980867,Rosato 2021,4.1,154,italy,sicily,9.5
+Santa Rita,2017,3351991,Medalla Real Gold Medal (Limited Edition) Cabernet Sauvignon 2017,3.9,2042,chile,maipo-valley,9.5
+Corette,2020,2137499,Syrah 2020,3.6,31,france,vin-de-pays-doc,9.5
+Piteira,2019,6817275,José Piteira Tinto 2019,3.9,91,portugal,alentejo,9.5
+Douloufakis,2019,1253595,Enotria Red 2019,3.5,152,greece,crete,9.5
+Ca’ del Baio,2021,99741,101 Moscato d'Asti 2021,4.2,30,italy,moscato-dasti,9.5
+Poncho Criollo,2019,1782693,Malbec 2019,3.7,312,argentina,mendoza,9.5
+Château Mayne Guyon,2018,1201035,Blaye - Côtes de Bordeaux 2018,3.8,373,france,blaye-cotes-de-bordeaux,9.5
+Jordan Wines,2019,2045806,Chameleon Sauvignon Blanc - Chardonnay 2019,3.5,80,south-africa,stellenbosch,9.5
+Vinos Sanz,2021,1156211,Montesol Rueda 2021,3.9,30,spain,rueda,9.5
+Banfi,2019,22913,Col di Sasso (Cabernet Sauvignon - Sangiovese) 2019,3.6,1371,italy,tuscany,9.5
+Domaine Pré Baron,2021,1186183,Sauvignon Touraine 2021,4.0,30,france,touraine,9.5
+Château les Pins,2018,5876910,Les Petits Pins Côtes du Roussillon Villages 2018,3.7,79,france,cotes-du-roussillon-villages,9.5
+Château de la Vieille Tour,2017,1224888,Bordeaux Supérieur 2017,3.6,67,france,bordeaux-superieur,9.5
+Domaine Girard,2019,1257241,Malepère 2019,3.9,38,france,cotes-de-malepere,9.5
+La Bollina,2018,7030657,Papios Rosso 2018,4.0,310,italy,sicily,9.5
+Stonedance,2017,4545497,Shiraz 2017,3.3,47,south-africa,swartland,9.5
+Querientes,2016,4058324,Roble 2016,3.7,52,spain,,9.5
+PavoNero,2021,9240568,Primitivo di Manduria 2021,3.9,89,italy,primitivo-di-manduria,9.5
+Casa Silva,2021,18298,Colección Chardonnay 2021,3.8,84,chile,colchagua-valley,9.5
+Gere,2020,1210034,Portugieser 2020,3.5,120,hungary,villany,9.5
+Domaine Claire Clavel,2019,1565463,Régulus Côtes-du-Rhône Rouge 2019,3.8,137,france,cotes-du-rhone,9.5
+Pago de Cirsus,2020,2406559,Chardonnay 2020,3.8,188,spain,comunidad-foral-de-navarra,9.5
+Ca’ del Baio,2020,99726,Lodoli Dolcetto d'Alba 2020,3.7,49,italy,dolcetto-dalba,9.5
+Domaine de la Baume,2020,1163295,Viognier Elisabeth 2020,4.0,1021,france,languedoc-roussillon,9.5
+Astoria,N.V.,5692680,Extra Dry Rosé N.V.,3.4,65,italy,prosecco,9.5
+Freixa Rigau,N.V.,1154691,Familia Oliveda Cava Brut Rosado N.V.,3.8,216,spain,cava,9.5
+Clemens Busch,2019,1555674,Riesling Trocken 2019,3.8,355,germany,mosel-saar-ruwer,9.5
+Celler Credo,2020,8399763,And The Winner Is... 2020,3.6,148,spain,comunidad-autnoma-de-catalua,9.5
+Vinovalie,2019,5676307,Sang Mêlé 2019,4.0,565,france,southwest,9.5
+Quinta Dona Mafalda,2019,6353184,Little Mafalda 2019,4.0,116,portugal,douro,9.5
+Notte Rossa,2019,4672921,Negroamaro di  Terra d'Otranto 2019,3.8,261,italy,puglia,9.5
+Santadi,2020,17963,Villa Solais Vermentino di Sardegna 2020,3.7,325,italy,vermentino-di-sardegna,9.5
+Lenotti,2021,1126806,Colle dei Tigli Bianco del Veneto 2021,3.9,65,italy,veneto,9.5
+Tenuta Castiglioni,2020,21002,Chianti 2020,3.7,1582,italy,chianti,9.52
+Cusumano,2021,71214,Insolia 2021,3.5,34,italy,sicily,9.54
+Cusumano,2021,7415733,Lucido 2021,3.6,73,italy,sicilia,9.54
+Allendorf,2018,1465704,Save Water Drink Riesling Dry 2018,3.7,369,germany,rheingau,9.55
+Riff,2021,4086930,Pinot Grigio 2021,3.4,104,italy,venezia,9.56
+Joan Sardà,2021,1537006,Blanc Mariner 2021,3.6,145,spain,penedes,9.57
+El Perdiguero,2019,1857097,Barrica 2019,4.0,138,spain,cigales,9.57
+Vinovalie,2020,5702349,Terre Métissée Red Blend 2020,4.2,160,france,southwest,9.6
+Santadi,2021,17963,Villa Solais Vermentino di Sardegna 2021,3.8,110,italy,vermentino-di-sardegna,9.6
+Baron de Ley,2019,1152010,Club Privado Tinto 2019,3.6,769,spain,rioja,9.6
+Moonlight & Roses,2021,6298001,Coteaux d'Aix-en-Provence Rosé 2021,3.8,113,france,coteaux-daix-en-provence,9.61
+Bernard Magrez,2017,1411224,Jamais Renoncer Côtes du Roussillon 2017,3.8,405,france,cotes-du-roussillon,9.62
+V8+,N.V.,1595786,Sior Berto Cuvée Brut N.V.,3.4,885,italy,veneto,9.63
+Quinta de Ramozeiros,2018,1224733,Branco 2018,3.2,31,portugal,douro,9.63
+Château les Rambauds,2018,7540414,Les Abeilles Bordeaux 2018,3.6,56,france,bordeaux,9.65
+Casal Farneto,2020,5621670,Frida Passerina 2020,3.5,32,italy,marche,9.65
+Telmo Rodriguez,2021,63154,Basa Blanco 2021,3.8,132,spain,rueda,9.65
+Château Auzias,2017,7773313,Instinct Terrien 2017,3.7,35,france,cabards,9.65
+Villa Folini,2021,1488357,Ribolla Gialla 2021,3.6,80,italy,friuli-venezia-giulia,9.666666666666666
+Integro,2021,6328313,Primitivo 2021,4.0,28,italy,puglia,9.67
+Palazzo Malgara,2017,1390442,Primitivo 2017,3.7,71,italy,primitivo-di-manduria,9.67
+Montes,2019,1246861,Twins Red Blend (Malbec - Cabernet Sauvignon) 2019,3.8,422,chile,colchagua-valley,9.68
+Villa Teresa,N.V.,1228914,Prosecco N.V.,3.8,2016,italy,prosecco,9.69
+Mandrarossa,2021,47814,Nero d'Avola 2021,3.7,75,italy,sicilia,9.7
+Cottini Stile Naturale,2021,8550148,Bardolino Chiaretto 2021,3.6,35,italy,bardolino-chiaretto,9.7
+Astoria,N.V.,3645138,Yu Sushi Sparkling N.V.,3.4,787,italy,veneto,9.7
+Corte Giara,2020,1251497,Bardolino 2020,3.4,35,italy,bardolino,9.7
+Delheim,2021,1797045,Pinotage Rosé 2021,3.6,166,south-africa,stellenbosch,9.7
+Les Frères Laffitte,2020,6210835,Domaine Laffitte Blanc Demi Sec 2020,3.8,77,france,cotes-de-gascogne,9.7
+Notte Rossa,2020,2506003,Salice Salentino 2020,3.7,78,italy,salice-salentino,9.7
+Casa d'Ambra,2021,1810446,Falanghina Campania 2021,4.0,56,italy,campania,9.7
+Lungarotti,2019,65314,Sangiovese Umbria 2019,3.7,250,italy,umbria,9.7
+Lungarotti,2020,65314,Sangiovese Umbria 2020,3.5,46,italy,umbria,9.7
+Mandrarossa,2021,1268771,Grecanico Dorato Costadune 2021,3.8,25,italy,sicilia,9.7
+False Bay,2018,2116786,Peacock Wild Ferment Merlot 2018,3.3,77,south-africa,stellenbosch,9.71
+False Bay,2019,2335316,Peacock Wild Ferment Cabernet Sauvignon 2019,3.3,77,south-africa,stellenbosch,9.71
+False Bay,2019,1297985,Peacock Wild Ferment Syrah 2019,3.5,39,south-africa,stellenbosch,9.71
+Fassati,2018,1166826,Selciaia Rosso di Montepulciano 2018,3.3,42,italy,rosse-di-montepulciano,9.75
+Fabulas,2020,6721750,Malvasia 2020,3.7,75,italy,terre-di-chieti,9.75
+Cecchi,2020,12126,Natio Chianti 2020,3.7,52,italy,chianti,9.75
+Rapariga da Quinta,2018,1160854,Colheita Seleccionada Rouge 2018,3.9,1281,portugal,alentejano,9.75
+Montalto,2019,1682526,Vinha da Malhada Branco 2019,3.8,32,portugal,estremadura,9.75
+Bastide du Claux,2019,1517695,Malacare 2019,3.9,32,france,luberon,9.75
+Cantine Volpi,2021,1165743,Boira' Sangiovese 2021,3.7,29,italy,marche,9.75
+Corette,2021,2032274,Chardonnay 2021,3.6,27,france,vin-de-pays-doc,9.75
+Salentein,2019,1147628,Portillo Malbec 2019,3.7,6464,argentina,tunuyan,9.75
+Cantele,2020,1683625,Verdeca 2020,3.8,66,italy,puglia,9.75
+Famille Perrin,2021,2116840,Luberon 2021,3.7,71,france,luberon,9.75
+Château les Vignals,2017,1999722,Tradition Rouge 2017,3.6,33,france,gaillac,9.75
+Tabali,2018,6013649,Pedregoso Gran Reserva Chardonnay 2018,3.5,79,chile,limari-valley,9.75
+Heim,2019,2209046,Imperial Riesling 2019,3.7,32,france,alsace,9.75
+Domaine Saint-Georges d'Ibry,2019,1181134,Excellence Rouge 2019,4.0,54,france,cotes-de-thongue,9.75
+Cantine Volpi,2020,1165743,Boira' Sangiovese 2020,3.6,700,italy,marche,9.75
+Warwick,2021,1382382,The First Lady Chardonnay 2021,3.5,104,south-africa,stellenbosch,9.75
+Cecchi,2020,2951670,La Mora Merlot 2020,3.6,240,italy,maremma-toscana,9.75
+Corette,2020,1152565,Pinot Noir 2020,3.6,42,france,vin-de-pays-vignobles-de-france,9.75
+Clos St. Thomas,2018,96106,Les Gourmets Rouge 2018,3.5,113,lebanon,bekaa-valley,9.75
+Villa Poggio Salvi,2020,1292691,Caspagnolo Chianti dei Colli Senesi 2020,3.3,128,italy,chianti-colli-senesi,9.75
+Salentein,2020,1147628,Portillo Malbec 2020,3.7,3906,argentina,tunuyan,9.75
+Fattoria dei Barbi,2020,1196113,Chianti 2020,3.7,58,italy,chianti,9.75
+Banfi,2021,22914,Le Rime (Pinot Grigio - Chardonnay) 2021,3.6,96,italy,tuscany,9.75
+Clama,2014,2319308,Tinto 2014,3.7,271,portugal,douro,9.75
+Terre del Barolo,2018,5829559,Barbera d'Alba 2018,3.5,366,italy,barbera-dalba,9.75
+Herdade da Calada,2019,1781887,Vale da Calada Tinto 2019,3.9,120,portugal,alentejano,9.75
+Rotkäppchen,N.V.,2759866,Alkoholfrei Rosé N.V.,3.1,152,germany,saale,9.75
+Fassati,2019,2192668,Le Gaggiole Chianti 2019,3.3,29,italy,chianti,9.75
+Velenosi,2018,1160025,Brecciarolo Rosso Piceno Superiore 2018,3.7,669,italy,rosso-piceno,9.75
+Banfi,2021,5509443,Badalei Vermentino Toscana 2021,3.6,53,italy,tuscany,9.75
+Rodríguez de Vera,2019,2200683,Jumenta 2019,3.6,52,spain,castilla-la-mancha,9.75
+Bolla,2021,7749,Pinot Grigio delle Venezie 2021,3.7,84,italy,della-venezie,9.75
+Carpineto,2020,1119837,Dogajolo Toscana Bianco 2020,3.7,235,italy,tuscany,9.77
+Carpineto,2019,6193,Chianti Castaldo 2019,3.6,47,italy,chianti,9.77
+Carpineto,2019,6209,Toscana Dogajolo Rosso 2019,3.8,1874,italy,tuscany,9.77
+Bernard Magrez,2018,1369079,Ariès 2018,3.6,338,argentina,mendoza,9.77
+Tormaresca,2020,7097701,Nèprica Cabernet Sauvignon 2020,3.6,27,italy,puglia,9.79
+Cantine Pellegrino,2020,5678067,Tareni Frappato 2020,3.8,95,italy,sicily,9.8
+Notte Rossa,2020,9847213,Nero di Troia 2020,4.1,43,italy,puglia,9.8
+Piccini,N.V.,1155726,Memoro Rosso N.V.,3.8,63043,italy,tuscany,9.8
+Bodegas Enguera,2016,76965,Cañada Negra 2016,3.7,46,spain,,9.8
+Domaine Jean-Paul Paquet & Fils,2018,1138116,Domaine Les Vieux Murs Pouilly-Fuissé 2018,3.8,44,france,pouilly-fuisse,9.8
+Château Petit Mouta,2018,5422552,Cuvée Beausoleil  Graves 2018,3.2,33,france,graves,9.8
+Villa Folini,2020,9095670,Prosecco Brut Millesimato Rosé 2020,3.7,119,italy,prosecco,9.8
+Montelvini,N.V.,4413697,Collezione Promosso Extra Dry N.V.,3.2,1046,italy,veneto,9.8
+Nativ,2020,2124358,Aglianico Campania Rue Dell'Inchiostro 2020,3.8,30,italy,campania,9.8
+Inessa,2020,10079953,Nerello Cappuccio 2020,3.6,120,italy,sicily,9.8
+Alvi's Drift,2021,2277721,Sauvignon Blanc 2021,3.7,56,south-africa,breede-river-valley,9.81
+Chemin des Géants,2019,8058361,Alicante - Syrah 2019,3.8,80,france,languedoc,9.83
+Colossal,2018,4301235,Reserva 2018,3.8,402,portugal,estremadura,9.83
+Maison Roche de Bellene,2018,6319859,Bellenos Cuvée Blanc 2018,3.7,138,france,coteaux-bourguignons,9.85
+Barbi,2017,1361611,Orvieto Classico Secco 2017,3.9,49,italy,orvieto-classico,9.85
+Domaines Astruc,2018,2022376,Réserve Pinot Noir 2018,3.6,53,france,vin-de-pays-doc,9.85
