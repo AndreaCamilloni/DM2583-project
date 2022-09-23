@@ -58,3 +58,10 @@ def get_dataset(path="C:\\Users\\andre\\PycharmProjects\\DM2583-project\\Dataset
     users_df = pd.read_csv(path + "\\users_vivino.csv")
     wines_df = pd.read_csv(path + "\\wine_vivino.csv")
     return reviews_df,wines_df,users_df
+
+def create_label(rating):
+    if rating > 3.9:
+        return 1
+    elif rating < 3:
+        return -1
+    return 0
