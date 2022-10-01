@@ -1,3 +1,6 @@
+import os
+import sys
+
 import pandas as pd
 import re
 import emoji
@@ -17,7 +20,7 @@ def extract_hash_tags(s):
 
 
 def preprocessing(s):
-    result = s.lower()
+    result = str(s).lower()
     # remove html tags
     _CLEANR = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
     result = re.sub(_CLEANR, '', result)
@@ -51,17 +54,18 @@ def preprocessing(s):
 
 def tokenizer(text):
     stopwords_en = stopwords.words("english")
-    return [w for w in re.split("\W+", text) if not w in stopwords_en]
+    return [str(w) for w in re.split("\W+", str(text)) if not w in stopwords_en]
 
-def get_dataset(path="C:\\Users\\andre\\PycharmProjects\\DM2583-project\\Dataset\\dataset v.1.0"):
-    reviews_df = pd.read_csv(path+"\\reviews_vivino.csv")
-    users_df = pd.read_csv(path + "\\users_vivino.csv")
-    wines_df = pd.read_csv(path + "\\wine_vivino.csv")
-    return reviews_df,wines_df,users_df
+def get_dataset(path=os.path.join(sys.path[0], "Dataset\\dataset v.1.2")):
+    reviews_df = pd.read_csv(path+"\\reviews_df.csv")
+    users_df = pd.read_csv(path + "\\users.csv")
+    wines_df = pd.read_csv(path + "\\wine_df.csv")
+    full_df = pd.read_csv(path + "\\full_dataset.csv")
+    return reviews_df,wines_df,users_df,full_df
 
 def create_label(rating):
-    if rating > 3.9:
+    if rating > 4:
         return 1
-    elif rating < 3:
+    elif rating < 3.7:
         return -1
     return 0
