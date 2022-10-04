@@ -60,7 +60,7 @@ def get_dataset(path=os.path.join(sys.path[0], "Dataset\\dataset v.1.2")):
     reviews_df = pd.read_csv(path+"\\reviews_df.csv")
     users_df = pd.read_csv(path + "\\users.csv")
     wines_df = pd.read_csv(path + "\\wine_df.csv")
-    full_df = pd.read_csv(path + "\\full_datasetV1_1.csv")
+    full_df = pd.read_csv(path + "\\full_dataset.csv")
     return reviews_df,wines_df,users_df,full_df
 
 def create_label(rating):
