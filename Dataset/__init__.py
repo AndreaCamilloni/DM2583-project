@@ -66,6 +66,6 @@ def get_dataset(path=os.path.join(sys.path[0], "Dataset\\dataset v.1.2")):
 def create_label(rating):
     if rating > 4:
         return 1
-    elif rating = 4:
+    elif rating == 4:
         return -1
     return 0
