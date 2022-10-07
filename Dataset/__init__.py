@@ -4,8 +4,7 @@ import sys
 import pandas as pd
 import re
 import emoji
-import string
-import contractions
+from sklearn.utils import resample
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 import nltk
@@ -22,6 +21,8 @@ class Preprocessing:
         self.users_df = pd.read_csv(path + "\\users.csv")
         self.wines_df = pd.read_csv(path + "\\wine_df.csv")
         self.full_df = pd.read_csv(path + "\\full_dataset.csv")
+        #self.full_df = self.full_df.merge(self.users_df, on='User', how='left')
+
         if preprocess:
             print('Cleaning data...')
             self.full_df['Cleaned'] = self.full_df['Note'].apply(lambda f: self.clean(f))
@@ -29,6 +30,10 @@ class Preprocessing:
             self.full_df['Tokenized'] = self.full_df['Cleaned'].apply(lambda f: self.tokenize(f))
             print('Creating labels...')
             self.full_df['Sentiment'] = self.full_df['User Rating'].apply(lambda f: self.create_label(f))
+            print("Balancing data, downsampling.. ")
+            self.full_df = self.balance_df(self.full_df)
+
+
 
 
 
@@ -63,3 +68,17 @@ class Preprocessing:
     def pick_only_key_sentence(self, text, word):
         result = re.findall(r'([^.]*' + word + '[^.]*)', str(text).lower())
         return result
+
+
+    def balance_df(self,df):
+        neg = df[df.Sentiment == -1]
+        neu = df[df.Sentiment == 0]
+        pos = df[df.Sentiment == 1]
+        pos_downsampled = resample(pos,
+                                   replace=False,
+                                   n_samples=len(neg))
+        neu_downsampled = resample(neu,
+                                   replace=False,
+                                   n_samples=len(neg))
+
+        return pd.concat([neu_downsampled, neg, pos_downsampled])
