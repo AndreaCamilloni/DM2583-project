@@ -14,7 +14,7 @@ stop_words = stopwords.words('english')
 
 
 class Preprocessing:
-    def __init__(self,path=os.path.join(sys.path[0], "Dataset\\dataset v.1.2"),preprocess = True):
+    def __init__(self,path=os.path.join(sys.path[0], "Dataset\\dataset v.1.2"),preprocess = True, downsampling=True):
         print('Reading data...')
         self.path = path
         self.reviews_df = pd.read_csv(path + "\\reviews_df.csv")
@@ -24,14 +24,17 @@ class Preprocessing:
         #self.full_df = self.full_df.merge(self.users_df, on='User', how='left')
 
         if preprocess:
+            print('Creating labels...')
+            self.full_df['Sentiment'] = self.full_df['User Rating'].apply(lambda f: self.create_label(f))
+
+            if downsampling:
+                print("Balancing data, downsampling.. ")
+                self.full_df = self.balance_df(self.full_df)
+
             print('Cleaning data...')
             self.full_df['Cleaned'] = self.full_df['Note'].apply(lambda f: self.clean(f))
             print('Tokenizing data...')
             self.full_df['Tokenized'] = self.full_df['Cleaned'].apply(lambda f: self.tokenize(f))
-            print('Creating labels...')
-            self.full_df['Sentiment'] = self.full_df['User Rating'].apply(lambda f: self.create_label(f))
-            print("Balancing data, downsampling.. ")
-            self.full_df = self.balance_df(self.full_df)
 
 
 
