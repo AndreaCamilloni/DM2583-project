@@ -8,8 +8,11 @@
 - Already built Twitter dataset can be found under Dataset/tweet_df_1.csv 
 
 ## Setup
-- Download the datasets from this link: https://drive.google.com/file/d/1Qh64akYO1x8QnCkFdtf-sGxMsjsRrgyu/view?usp=sharing
-- Upload the downloaded files under the folder Dataset/dataset v.1.2
+- Clone this repo on your local machine
+- Download the datasets from this link: https://drive.google.com/file/d/1__xL7EL7_UKqT2ZLAlOjGS1osC_X0C0F/view?usp=sharing
+- Extract the datasets into Dataset/dataset v.1.2
+- Run notebook.ipynb
+
 
 ## Dataset v.1.2
 - 4 different datasets: Wines, Reviews, Users and Full datasets.
@@ -18,3 +21,4 @@
 - Users: username, country and bio of the user
 - Full dataset: wines and reviews joined together.
 - Full dataset is about 1600000 entries.
+
